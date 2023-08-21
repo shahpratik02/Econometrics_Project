@@ -1,0 +1,1966 @@
+Output source file name: T725
+||||Date|(%)
+Company Code|Company Name|Equity Owner Type|Equity Owner Name|Holding Date|Percent Shares
+20554|Artson Engineering Ltd.|Non-Promoters|Clearing Members|30-06-2019|0.150000
+20554|Artson Engineering Ltd.|Non-Promoters|Clearing Members|30-09-2019|0.020000
+20554|Artson Engineering Ltd.|Non-Promoters|Clearing Members|31-12-2019|0.090000
+20554|Artson Engineering Ltd.|Non-Promoters|Clearing Members|31-03-2020|0.030000
+20554|Artson Engineering Ltd.|Non-Promoters|Huf|30-06-2019|1.610000
+20554|Artson Engineering Ltd.|Non-Promoters|Huf|30-09-2019|1.580000
+20554|Artson Engineering Ltd.|Non-Promoters|Huf|31-12-2019|1.630000
+20554|Artson Engineering Ltd.|Non-Promoters|Huf|31-03-2020|1.750000
+20554|Artson Engineering Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-06-2019|0.550000
+20554|Artson Engineering Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-09-2019|0.690000
+20554|Artson Engineering Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-12-2019|0.710000
+20554|Artson Engineering Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-03-2020|0.690000
+20554|Artson Engineering Ltd.|Non-Promoters|Saranam Trading & Mercantile Pvt. Ltd.|30-06-2019|1.080000
+20554|Artson Engineering Ltd.|Non-Promoters|Sarnam Trading & Mercantile Private Limited|31-03-2020|1.080000
+20554|Artson Engineering Ltd.|Non-Promoters|Sarnam Trading & Mercantile Pvt. Ltd.|30-09-2019|1.080000
+20554|Artson Engineering Ltd.|Promoters|Tata Projects Limited|30-06-2019|75.000000
+20554|Artson Engineering Ltd.|Promoters|Tata Projects Limited|30-09-2019|75.000000
+20554|Artson Engineering Ltd.|Promoters|Tata Projects Limited|31-12-2019|75.000000
+20554|Artson Engineering Ltd.|Promoters|Tata Projects Limited|31-03-2020|75.000000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Arun Nahar|30-06-2019|4.650000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Arun Nahar|30-09-2019|4.650000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Arun Nahar|31-12-2019|4.030000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Arun Nahar|31-03-2020|4.030000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Clearing Members|30-06-2019|0.220000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Clearing Members|30-09-2019|0.120000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Clearing Members|31-12-2019|0.120000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Clearing Members|31-03-2020|0.140000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Diana Dhun Ratnagar|30-06-2019|1.250000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Diana Dhun Ratnagar|30-09-2019|1.250000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Diana Dhun Ratnagar|31-12-2019|1.080000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Diana Dhun Ratnagar|31-03-2020|1.080000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Director Or Director'S Relatives|30-06-2019|0.000000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Director Or Director'S Relatives|30-09-2019|0.000000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Director Or Director'S Relatives|31-12-2019|0.000000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Director Or Director'S Relatives|31-03-2020|0.000000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Huf|30-06-2019|3.670000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Huf|30-09-2019|3.690000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Huf|31-12-2019|3.520000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Huf|31-03-2020|3.550000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Iepf|30-06-2019|1.220000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Iepf|30-09-2019|1.270000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Iepf|31-12-2019|1.340000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Iepf|31-03-2020|1.340000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-06-2019|0.460000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-09-2019|0.430000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-12-2019|0.390000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-03-2020|0.830000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Trusts|30-06-2019|0.000000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Trusts|30-09-2019|0.000000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Trusts|31-12-2019|0.000000
+24967|Automobile Corpn. Of Goa Ltd.|Non-Promoters|Trusts|31-03-2020|0.000000
+24967|Automobile Corpn. Of Goa Ltd.|Promoters|Edc Limited|30-06-2019|6.310000
+24967|Automobile Corpn. Of Goa Ltd.|Promoters|Edc Limited|30-09-2019|6.310000
+24967|Automobile Corpn. Of Goa Ltd.|Promoters|Edc Limited|31-12-2019|6.650000
+24967|Automobile Corpn. Of Goa Ltd.|Promoters|Edc Limited|31-03-2020|6.650000
+24967|Automobile Corpn. Of Goa Ltd.|Promoters|Tata Motors Finance Limited|30-06-2019|0.750000
+24967|Automobile Corpn. Of Goa Ltd.|Promoters|Tata Motors Finance Limited|30-09-2019|0.750000
+24967|Automobile Corpn. Of Goa Ltd.|Promoters|Tata Motors Finance Limited|31-12-2019|0.790000
+24967|Automobile Corpn. Of Goa Ltd.|Promoters|Tata Motors Finance Limited|31-03-2020|0.790000
+24967|Automobile Corpn. Of Goa Ltd.|Promoters|Tata Motors Limited|30-06-2019|46.439999
+24967|Automobile Corpn. Of Goa Ltd.|Promoters|Tata Motors Limited|30-09-2019|46.439999
+24967|Automobile Corpn. Of Goa Ltd.|Promoters|Tata Motors Limited|31-12-2019|48.980000
+24967|Automobile Corpn. Of Goa Ltd.|Promoters|Tata Motors Limited|31-03-2020|48.980000
+343765|Automotive Stampings & Assemblies Ltd.|Non-Promoters|Clearing Member|30-06-2019|0.500000
+343765|Automotive Stampings & Assemblies Ltd.|Non-Promoters|Clearing Member|30-09-2019|0.070000
+343765|Automotive Stampings & Assemblies Ltd.|Non-Promoters|Clearing Member|31-12-2019|0.060000
+343765|Automotive Stampings & Assemblies Ltd.|Non-Promoters|Clearing Member|31-03-2020|0.100000
+343765|Automotive Stampings & Assemblies Ltd.|Non-Promoters|Huf|30-06-2019|2.180000
+343765|Automotive Stampings & Assemblies Ltd.|Non-Promoters|Huf|30-09-2019|2.140000
+343765|Automotive Stampings & Assemblies Ltd.|Non-Promoters|Huf|31-12-2019|1.700000
+343765|Automotive Stampings & Assemblies Ltd.|Non-Promoters|Huf|31-03-2020|1.510000
+343765|Automotive Stampings & Assemblies Ltd.|Non-Promoters|Iepf|30-06-2019|0.130000
+343765|Automotive Stampings & Assemblies Ltd.|Non-Promoters|Iepf|30-09-2019|0.180000
+343765|Automotive Stampings & Assemblies Ltd.|Non-Promoters|Iepf|31-12-2019|0.180000
+343765|Automotive Stampings & Assemblies Ltd.|Non-Promoters|Iepf|31-03-2020|0.180000
+343765|Automotive Stampings & Assemblies Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-06-2019|0.170000
+343765|Automotive Stampings & Assemblies Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-09-2019|0.170000
+343765|Automotive Stampings & Assemblies Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-12-2019|0.160000
+343765|Automotive Stampings & Assemblies Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-03-2020|0.180000
+343765|Automotive Stampings & Assemblies Ltd.|Promoters|Tata Autocomp Systems Limited|30-06-2019|75.000000
+343765|Automotive Stampings & Assemblies Ltd.|Promoters|Tata Autocomp Systems Limited|30-09-2019|75.000000
+343765|Automotive Stampings & Assemblies Ltd.|Promoters|Tata Autocomp Systems Limited|31-12-2019|75.000000
+343765|Automotive Stampings & Assemblies Ltd.|Promoters|Tata Autocomp Systems Limited|31-03-2020|75.000000
+32084|Benares Hotels Ltd.|Non-Promoters|Aditya Deorah|30-06-2019|1.360000
+32084|Benares Hotels Ltd.|Non-Promoters|Aditya Deorah|30-09-2019|1.360000
+32084|Benares Hotels Ltd.|Non-Promoters|Aditya Deorah|31-12-2019|1.280000
+32084|Benares Hotels Ltd.|Non-Promoters|Aditya Deorah|31-03-2020|1.450000
+32084|Benares Hotels Ltd.|Non-Promoters|Arjun Ramani|30-06-2019|1.450000
+32084|Benares Hotels Ltd.|Non-Promoters|Arjun Ramani|30-09-2019|1.450000
+32084|Benares Hotels Ltd.|Non-Promoters|Arjun Ramani|31-12-2019|1.450000
+32084|Benares Hotels Ltd.|Non-Promoters|Arjun Ramani|31-03-2020|1.450000
+32084|Benares Hotels Ltd.|Non-Promoters|Brajraj Singh|30-06-2019|1.540000
+32084|Benares Hotels Ltd.|Non-Promoters|Brajraj Singh|30-09-2019|1.540000
+32084|Benares Hotels Ltd.|Non-Promoters|Brajraj Singh|31-12-2019|1.540000
+32084|Benares Hotels Ltd.|Non-Promoters|Brajraj Singh|31-03-2020|1.540000
+32084|Benares Hotels Ltd.|Non-Promoters|Clearing Members|30-06-2019|0.000000
+32084|Benares Hotels Ltd.|Non-Promoters|Clearing Members|30-09-2019|0.000000
+32084|Benares Hotels Ltd.|Non-Promoters|Clearing Members|31-12-2019|0.010000
+32084|Benares Hotels Ltd.|Non-Promoters|Clearing Members|31-03-2020|0.020000
+32084|Benares Hotels Ltd.|Non-Promoters|Dinesh Muktilal Paldiwal|30-06-2019|1.130000
+32084|Benares Hotels Ltd.|Non-Promoters|Dinesh Muktilal Paldiwal|30-09-2019|1.130000
+32084|Benares Hotels Ltd.|Non-Promoters|Dinesh Muktilal Paldiwal|31-12-2019|1.130000
+32084|Benares Hotels Ltd.|Non-Promoters|Dinesh Muktilal Paldiwal|31-03-2020|1.130000
+32084|Benares Hotels Ltd.|Non-Promoters|Directors & Their Relatives|30-06-2019|0.850000
+32084|Benares Hotels Ltd.|Non-Promoters|Directors & Their Relatives|30-09-2019|0.850000
+32084|Benares Hotels Ltd.|Non-Promoters|Hindu Undivided Families|30-06-2019|1.750000
+32084|Benares Hotels Ltd.|Non-Promoters|Hindu Undivided Families|30-09-2019|1.770000
+32084|Benares Hotels Ltd.|Non-Promoters|Hindu Undivided Family|31-12-2019|1.770000
+32084|Benares Hotels Ltd.|Non-Promoters|Hindu Undivided Family|31-03-2020|1.790000
+32084|Benares Hotels Ltd.|Non-Promoters|Iepf Authority|30-06-2019|1.490000
+32084|Benares Hotels Ltd.|Non-Promoters|Iepf Authority|30-09-2019|1.490000
+32084|Benares Hotels Ltd.|Non-Promoters|Investor Edication And Protection Fund Authority|31-12-2019|1.490000
+32084|Benares Hotels Ltd.|Non-Promoters|Investor Education And Protection Fund Authority|31-03-2020|1.580000
+32084|Benares Hotels Ltd.|Non-Promoters|Non Resident Indians|30-06-2019|0.300000
+32084|Benares Hotels Ltd.|Non-Promoters|Non Resident Indians|30-09-2019|0.310000
+32084|Benares Hotels Ltd.|Non-Promoters|Non Resident Indians (Non Repat)|31-12-2019|0.240000
+32084|Benares Hotels Ltd.|Non-Promoters|Non Resident Indians (Non Repat)|31-03-2020|0.220000
+32084|Benares Hotels Ltd.|Non-Promoters|Non Resident Indians (Repat)|31-12-2019|0.060000
+32084|Benares Hotels Ltd.|Non-Promoters|Non Resident Indians (Repat)|31-03-2020|0.080000
+32084|Benares Hotels Ltd.|Non-Promoters|Other Directors|31-12-2019|0.810000
+32084|Benares Hotels Ltd.|Non-Promoters|Other Directors|31-03-2020|0.810000
+32084|Benares Hotels Ltd.|Non-Promoters|Raghubirsingh R Ghohil|30-06-2019|1.230000
+32084|Benares Hotels Ltd.|Non-Promoters|Raghubirsingh R Ghohil|30-09-2019|1.230000
+32084|Benares Hotels Ltd.|Non-Promoters|Raghubirsingh R Gohil|31-12-2019|1.230000
+32084|Benares Hotels Ltd.|Non-Promoters|Raghubirsingh R Gohil|31-03-2020|1.230000
+32084|Benares Hotels Ltd.|Non-Promoters|Vinodchandra Mansukhlal Parekh|30-06-2019|1.480000
+32084|Benares Hotels Ltd.|Non-Promoters|Vinodchandra Mansukhlal Parekh|30-09-2019|1.540000
+32084|Benares Hotels Ltd.|Non-Promoters|Vinodchandra Mansukhlal Parekh|31-12-2019|1.580000
+32084|Benares Hotels Ltd.|Non-Promoters|Vinodchandra Mansukhlal Parekh|31-03-2020|1.580000
+32084|Benares Hotels Ltd.|Promoters|All India Kashiraj Trust|30-06-2019|2.300000
+32084|Benares Hotels Ltd.|Promoters|All India Kashiraj Trust|30-09-2019|2.300000
+32084|Benares Hotels Ltd.|Promoters|All India Kashiraj Trust|31-12-2019|2.300000
+32084|Benares Hotels Ltd.|Promoters|All India Kashiraj Trust|31-03-2020|2.300000
+32084|Benares Hotels Ltd.|Promoters|Anamika Kunwar|30-06-2019|0.540000
+32084|Benares Hotels Ltd.|Promoters|Anamika Kunwar|30-09-2019|0.540000
+32084|Benares Hotels Ltd.|Promoters|Anamika Kunwar|31-12-2019|0.540000
+32084|Benares Hotels Ltd.|Promoters|Anamika Kunwar|31-03-2020|0.540000
+32084|Benares Hotels Ltd.|Promoters|Anant Narain Singh|30-06-2019|1.850000
+32084|Benares Hotels Ltd.|Promoters|Anant Narain Singh|30-09-2019|1.850000
+32084|Benares Hotels Ltd.|Promoters|Anant Narain Singh|31-12-2019|1.850000
+32084|Benares Hotels Ltd.|Promoters|Anant Narain Singh|31-03-2020|1.850000
+32084|Benares Hotels Ltd.|Promoters|Imlak Varanasi Developments Private Limited|30-06-2019|0.080000
+32084|Benares Hotels Ltd.|Promoters|Imlak Varanasi Developments Private Limited|30-09-2019|0.080000
+32084|Benares Hotels Ltd.|Promoters|Imlak Varanasi Developments Private Limited|31-12-2019|0.080000
+32084|Benares Hotels Ltd.|Promoters|Imlak Varanasi Developments Private Limited|31-03-2020|0.080000
+32084|Benares Hotels Ltd.|Promoters|M K Krishna Priya|30-06-2019|1.350000
+32084|Benares Hotels Ltd.|Promoters|M K Krishna Priya|30-09-2019|1.350000
+32084|Benares Hotels Ltd.|Promoters|M K Krishna Priya|31-12-2019|1.350000
+32084|Benares Hotels Ltd.|Promoters|M K Krishna Priya|31-03-2020|1.350000
+32084|Benares Hotels Ltd.|Promoters|M K Vishnupriya|30-06-2019|1.380000
+32084|Benares Hotels Ltd.|Promoters|M K Vishnupriya|30-09-2019|1.380000
+32084|Benares Hotels Ltd.|Promoters|M K Vishnupriya|31-12-2019|1.380000
+32084|Benares Hotels Ltd.|Promoters|M K Vishnupriya|31-03-2020|1.380000
+32084|Benares Hotels Ltd.|Promoters|Maharaj Kumari Hari Priya|30-06-2019|1.350000
+32084|Benares Hotels Ltd.|Promoters|Maharaj Kumari Hari Priya|30-09-2019|1.350000
+32084|Benares Hotels Ltd.|Promoters|Maharaj Kumari Hari Priya|31-12-2019|1.350000
+32084|Benares Hotels Ltd.|Promoters|Maharaj Kumari Hari Priya|31-03-2020|1.350000
+32084|Benares Hotels Ltd.|Promoters|Northern India Hotels Limited|30-06-2019|0.010000
+32084|Benares Hotels Ltd.|Promoters|Northern India Hotels Limited|30-09-2019|0.010000
+32084|Benares Hotels Ltd.|Promoters|Northern India Hotels Limited|31-12-2019|0.010000
+32084|Benares Hotels Ltd.|Promoters|Northern India Hotels Limited|31-03-2020|0.010000
+32084|Benares Hotels Ltd.|Promoters|Oriental Hotels Limited|30-06-2019|0.000000
+32084|Benares Hotels Ltd.|Promoters|Oriental Hotels Limited|30-09-2019|0.000000
+32084|Benares Hotels Ltd.|Promoters|Oriental Hotels Limited|31-12-2019|0.000000
+32084|Benares Hotels Ltd.|Promoters|Oriental Hotels Limited|31-03-2020|0.000000
+32084|Benares Hotels Ltd.|Promoters|Piem Hotels Limited|30-06-2019|4.150000
+32084|Benares Hotels Ltd.|Promoters|Piem Hotels Limited|30-09-2019|4.150000
+32084|Benares Hotels Ltd.|Promoters|Piem Hotels Limited|31-12-2019|4.150000
+32084|Benares Hotels Ltd.|Promoters|Piem Hotels Limited|31-03-2020|4.150000
+32084|Benares Hotels Ltd.|Promoters|The Indian Hotels Company Limited|30-06-2019|49.520000
+32084|Benares Hotels Ltd.|Promoters|The Indian Hotels Company Limited|30-09-2019|49.520000
+32084|Benares Hotels Ltd.|Promoters|The Indian Hotels Company Limited|31-12-2019|49.520000
+32084|Benares Hotels Ltd.|Promoters|The Indian Hotels Company Limited|31-03-2020|49.520000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Clearing Members|30-06-2019|0.100000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Clearing Members|30-09-2019|0.030000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Clearing Members|31-12-2019|0.100000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Clearing Members|31-03-2020|0.170000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Director Or Director'S Relatives|30-06-2019|0.000000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Director Or Director'S Relatives|30-09-2019|0.000000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Foreign Nationals|30-06-2019|0.000000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Foreign Nationals|30-09-2019|0.000000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Foreign Nationals|31-12-2019|0.000000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Foreign Nationals|31-03-2020|0.000000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Franklin India Taxshield|31-12-2019|2.530000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Franklin India Taxshield|31-03-2020|2.520000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Franklin Templeton Investment Funds|30-06-2019|1.210000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Franklin Templeton Investment Funds|30-09-2019|1.200000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Franklin Templeton Investment Funds|31-12-2019|1.080000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Franklin Templeton Investment Funds|31-03-2020|1.100000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Franklin Templeton Mutual Fund A/C Franklin India Prima Fund|30-06-2019|1.620000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Franklin Templeton Mutual Fund A/C Franklin India Prima Fund|30-09-2019|2.210000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Government Pension Fund Global|30-06-2019|2.650000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Government Pension Fund Global|30-09-2019|2.450000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Government Pension Fund Global|31-12-2019|2.250000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Government Pension Fund Global|31-03-2020|1.940000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Hdfc Life Insurance Company Limited|30-06-2019|1.530000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Hdfc Life Insurance Company Limited|30-09-2019|1.710000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Hdfc Life Insurance Companylimited -Shareholders Solvency Margin Account|31-12-2019|1.750000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Hdfc Life Insurance Companylimited -Shareholders Solvency Margin Account|31-03-2020|1.920000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Hdfc Trustee Company Ltd - A/C Hdfc Mid - Capopportunities Fund|30-06-2019|5.750000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Hdfc Trustee Company Ltd - A/C Hdfc Mid - Capopportunities Fund|30-09-2019|6.150000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Hdfc Trustee Company Ltd. A/C Hdfc Growth Opportunities Fund|31-12-2019|6.410000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Hdfc Trustee Company Ltd. A/C Hdfc Growth Opportunities Fund|31-03-2020|6.710000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Huf|30-06-2019|0.240000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Huf|30-09-2019|0.230000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Huf|31-12-2019|0.240000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Huf|31-03-2020|0.240000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Icici Prudential Balanced Advantage Fund|30-06-2019|2.460000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Icici Prudential Balanced Advantage Fund|30-09-2019|2.460000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Icici Prudential Life Insurance Company Limited|30-06-2019|2.800000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Icici Prudential Life Insurance Company Limited|30-09-2019|3.050000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Icici Prudential Life Insurance Company Limited|31-12-2019|3.360000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Icici Prudential Life Insurance Company Limited|31-03-2020|2.930000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Icici Prudential Value Fund - Series 20|31-12-2019|2.240000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Icici Prudential Value Fund - Series 20|31-03-2020|2.820000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Iepf|30-06-2019|0.120000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Iepf|30-09-2019|0.120000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Iepf|31-12-2019|0.150000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Iepf|31-03-2020|0.150000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|L And T Mutual Fund Trustee Ltd-L And T India Value Fund|30-06-2019|1.120000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|L And T Mutual Fund Trustee Ltd-L And T India Value Fund|30-09-2019|1.190000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|L And T Mutual Fund Trustee Ltd-L And T Mid Cap Fund|31-12-2019|1.190000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|L And T Mutual Fund Trustee Ltd-L And T Mid Cap Fund|31-03-2020|1.220000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Life Insurance Corporation Of India|30-06-2019|1.780000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Life Insurance Corporation Of India|30-09-2019|1.780000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Life Insurance Corporation Of India|31-12-2019|1.780000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Life Insurance Corporation Of India|31-03-2020|1.780000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-06-2019|0.550000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-09-2019|0.470000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-12-2019|0.510000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-03-2020|0.500000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Reliance Capital Trustee Co Ltd-A/C Nippon India Vision Fund|31-12-2019|6.990000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Reliance Capital Trustee Co Ltd-A/C Nippon India Vision Fund|31-03-2020|7.080000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Reliance Capital Trustee Co Ltd.A/C Reliance Multi Cap Fund|30-06-2019|8.220000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Reliance Capital Trustee Co Ltd.A/C Reliance Multi Cap Fund|30-09-2019|7.240000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Sbi Magnum Multicap Fund|30-06-2019|2.130000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Sbi Magnum Multicap Fund|30-09-2019|2.140000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Sbi Resurgent India Opportunities Scheme|31-12-2019|2.140000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Sbi Resurgent India Opportunities Scheme|31-03-2020|2.180000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Trusts|30-06-2019|0.000000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Trusts|30-09-2019|0.000000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Trusts|31-12-2019|0.010000
+98827|Indian Hotels Co. Ltd.|Non-Promoters|Trusts|31-03-2020|0.000000
+98827|Indian Hotels Co. Ltd.|Promoters|Ewart Investments Limited|30-06-2019|0.170000
+98827|Indian Hotels Co. Ltd.|Promoters|Ewart Investments Limited|30-09-2019|0.170000
+98827|Indian Hotels Co. Ltd.|Promoters|Ewart Investments Limited|31-12-2019|0.170000
+98827|Indian Hotels Co. Ltd.|Promoters|Ewart Investments Limited|31-03-2020|0.170000
+98827|Indian Hotels Co. Ltd.|Promoters|Oriental Hotels Limited|30-06-2019|0.060000
+98827|Indian Hotels Co. Ltd.|Promoters|Oriental Hotels Limited|30-09-2019|0.060000
+98827|Indian Hotels Co. Ltd.|Promoters|Oriental Hotels Limited|31-12-2019|0.060000
+98827|Indian Hotels Co. Ltd.|Promoters|Oriental Hotels Limited|31-03-2020|0.060000
+98827|Indian Hotels Co. Ltd.|Promoters|Taida Trading And Industries Limited|30-06-2019|0.010000
+98827|Indian Hotels Co. Ltd.|Promoters|Taida Trading And Industries Limited|30-09-2019|0.010000
+98827|Indian Hotels Co. Ltd.|Promoters|Taida Trading And Industries Limited|31-12-2019|0.010000
+98827|Indian Hotels Co. Ltd.|Promoters|Taida Trading And Industries Limited|31-03-2020|0.010000
+98827|Indian Hotels Co. Ltd.|Promoters|Taj Madurai Limited|30-06-2019|0.090000
+98827|Indian Hotels Co. Ltd.|Promoters|Taj Madurai Limited|30-09-2019|0.090000
+98827|Indian Hotels Co. Ltd.|Promoters|Taj Madurai Limited|31-12-2019|0.090000
+98827|Indian Hotels Co. Ltd.|Promoters|Taj Madurai Limited|31-03-2020|0.090000
+98827|Indian Hotels Co. Ltd.|Promoters|Tata Capital Ltd|30-06-2019|0.000000
+98827|Indian Hotels Co. Ltd.|Promoters|Tata Capital Ltd|30-09-2019|0.000000
+98827|Indian Hotels Co. Ltd.|Promoters|Tata Capital Ltd|31-12-2019|0.000000
+98827|Indian Hotels Co. Ltd.|Promoters|Tata Capital Ltd|31-03-2020|0.000000
+98827|Indian Hotels Co. Ltd.|Promoters|Tata Chemicals Limited|30-06-2019|0.890000
+98827|Indian Hotels Co. Ltd.|Promoters|Tata Chemicals Limited|30-09-2019|0.890000
+98827|Indian Hotels Co. Ltd.|Promoters|Tata Chemicals Limited|31-12-2019|0.890000
+98827|Indian Hotels Co. Ltd.|Promoters|Tata Chemicals Limited|31-03-2020|0.890000
+98827|Indian Hotels Co. Ltd.|Promoters|Tata Industries Limited|30-06-2019|0.050000
+98827|Indian Hotels Co. Ltd.|Promoters|Tata Industries Limited|30-09-2019|0.050000
+98827|Indian Hotels Co. Ltd.|Promoters|Tata Industries Limited|31-12-2019|0.050000
+98827|Indian Hotels Co. Ltd.|Promoters|Tata Industries Limited|31-03-2020|0.050000
+98827|Indian Hotels Co. Ltd.|Promoters|Tata Investment Corporation Limited|30-06-2019|1.350000
+98827|Indian Hotels Co. Ltd.|Promoters|Tata Investment Corporation Limited|30-09-2019|1.350000
+98827|Indian Hotels Co. Ltd.|Promoters|Tata Investment Corporation Ltd|31-12-2019|1.350000
+98827|Indian Hotels Co. Ltd.|Promoters|Tata Investment Corporation Ltd|31-03-2020|1.350000
+98827|Indian Hotels Co. Ltd.|Promoters|Tata Sons Private Limited|30-06-2019|36.419998
+98827|Indian Hotels Co. Ltd.|Promoters|Tata Sons Private Limited|30-09-2019|36.419998
+98827|Indian Hotels Co. Ltd.|Promoters|Tata Sons Private Limited|31-12-2019|36.419998
+98827|Indian Hotels Co. Ltd.|Promoters|Tata Sons Private Limited|31-03-2020|38.090000
+157438|Nelco Ltd.|Non-Promoters|Clearing Member|30-06-2019|1.900000
+157438|Nelco Ltd.|Non-Promoters|Clearing Member|30-09-2019|1.350000
+157438|Nelco Ltd.|Non-Promoters|Clearing Members|31-12-2019|1.390000
+157438|Nelco Ltd.|Non-Promoters|Clearing Members|31-03-2020|1.160000
+157438|Nelco Ltd.|Non-Promoters|Huf|30-06-2019|1.970000
+157438|Nelco Ltd.|Non-Promoters|Huf|30-09-2019|1.980000
+157438|Nelco Ltd.|Non-Promoters|Huf|31-12-2019|2.020000
+157438|Nelco Ltd.|Non-Promoters|Huf|31-03-2020|2.120000
+157438|Nelco Ltd.|Non-Promoters|Iepf|30-06-2019|0.810000
+157438|Nelco Ltd.|Non-Promoters|Iepf|30-09-2019|0.810000
+157438|Nelco Ltd.|Non-Promoters|Iepf|31-12-2019|0.810000
+157438|Nelco Ltd.|Non-Promoters|Iepf|31-03-2020|1.120000
+157438|Nelco Ltd.|Non-Promoters|M/S Schlumberger Limited|30-06-2019|3.790000
+157438|Nelco Ltd.|Non-Promoters|M/S Schlumberger Limited|30-09-2019|3.790000
+157438|Nelco Ltd.|Non-Promoters|M/S Schlumberger Limited|31-12-2019|3.790000
+157438|Nelco Ltd.|Non-Promoters|M/S Schlumberger Limited|31-03-2020|3.790000
+157438|Nelco Ltd.|Non-Promoters|Massachusetts Institute Of Technology 2|30-06-2019|1.540000
+157438|Nelco Ltd.|Non-Promoters|Massachusetts Institute Of Technology 2|30-09-2019|1.540000
+157438|Nelco Ltd.|Non-Promoters|Massachusetts Institute Of Technology 2|31-12-2019|1.540000
+157438|Nelco Ltd.|Non-Promoters|Massachusetts Institute Of Technology 2|31-03-2020|1.540000
+157438|Nelco Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-06-2019|0.960000
+157438|Nelco Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-09-2019|1.010000
+157438|Nelco Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-12-2019|0.950000
+157438|Nelco Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-03-2020|1.040000
+157438|Nelco Ltd.|Non-Promoters|Parul Prasoon Bhatt|30-06-2019|1.000000
+157438|Nelco Ltd.|Non-Promoters|Parul Prasoon Bhatt|30-09-2019|1.000000
+157438|Nelco Ltd.|Non-Promoters|Parul Prasoon Bhatt|31-12-2019|1.000000
+157438|Nelco Ltd.|Non-Promoters|Parul Prasoon Bhatt|31-03-2020|1.000000
+157438|Nelco Ltd.|Non-Promoters|Prasoon Harshad Bhatt|30-06-2019|3.340000
+157438|Nelco Ltd.|Non-Promoters|Prasoon Harshad Bhatt|30-09-2019|3.340000
+157438|Nelco Ltd.|Non-Promoters|Prasoon Harshad Bhatt|31-12-2019|3.340000
+157438|Nelco Ltd.|Non-Promoters|Prasoon Harshad Bhatt|31-03-2020|3.340000
+157438|Nelco Ltd.|Non-Promoters|Tarbir Shahpuri|30-06-2019|1.530000
+157438|Nelco Ltd.|Non-Promoters|Tarbir Shahpuri|30-09-2019|1.530000
+157438|Nelco Ltd.|Non-Promoters|Tarbir Shahpuri|31-12-2019|1.300000
+157438|Nelco Ltd.|Non-Promoters|Trusts|30-06-2019|0.000000
+157438|Nelco Ltd.|Non-Promoters|Trusts|30-09-2019|0.000000
+157438|Nelco Ltd.|Non-Promoters|Trusts|31-12-2019|0.000000
+157438|Nelco Ltd.|Non-Promoters|Trusts|31-03-2020|0.000000
+157438|Nelco Ltd.|Promoters|Af-Taab Investment Company Limited|30-06-2019|1.430000
+157438|Nelco Ltd.|Promoters|Af-Taab Investment Company Limited|30-09-2019|1.430000
+157438|Nelco Ltd.|Promoters|Af-Taab Investment Company Limited|31-12-2019|1.430000
+157438|Nelco Ltd.|Promoters|Af-Taab Investment Company Limited|31-03-2020|1.430000
+157438|Nelco Ltd.|Promoters|Tata Investment Corporation Limited|30-06-2019|0.000000
+157438|Nelco Ltd.|Promoters|Tata Investment Corporation Limited|30-09-2019|0.000000
+157438|Nelco Ltd.|Promoters|Tata Investment Corporation Limited|31-12-2019|0.000000
+157438|Nelco Ltd.|Promoters|The Tata Power Company Limited|30-06-2019|48.639999
+157438|Nelco Ltd.|Promoters|The Tata Power Company Limited|30-09-2019|48.639999
+157438|Nelco Ltd.|Promoters|The Tata Power Company Limited|31-12-2019|48.639999
+157438|Nelco Ltd.|Promoters|The Tata Power Company Limited|31-03-2020|48.639999
+157438|Nelco Ltd.|Promoters|Titan Company Limited|30-06-2019|0.000000
+157438|Nelco Ltd.|Promoters|Titan Company Limited|30-09-2019|0.000000
+157438|Nelco Ltd.|Promoters|Titan Company Limited|31-12-2019|0.000000
+157438|Nelco Ltd.|Promoters|Titan Company Limited|31-03-2020|0.000000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Eynthia Tie Up Private Limited|30-06-2019|8.340000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Eynthia Tie Up Private Limited|30-09-2019|8.340000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Eynthia Tie Up Private Limited|31-12-2019|8.340000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Eynthia Tie Up Pvt Ltd|31-03-2020|8.340000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Karan Agarwal|30-06-2019|1.560000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Karan Agarwal|30-09-2019|1.560000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Karan Agarwal|31-12-2019|1.560000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Karan Agarwal|31-03-2020|1.560000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Manju Agarwal|30-06-2019|1.560000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Manju Agarwal|30-09-2019|1.560000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Manju Agarwal|31-12-2019|1.560000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Manju Agarwal|31-03-2020|1.560000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-06-2019|0.000000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-09-2019|0.000000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-12-2019|0.000000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-03-2020|0.000000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Saket Agarwal|30-06-2019|1.550000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Saket Agarwal|30-09-2019|1.550000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Saket Agarwal|31-12-2019|1.550000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Saket Agarwal|31-03-2020|1.550000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Sushil Kumar Agarwal|30-06-2019|5.980000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Sushil Kumar Agarwal|30-09-2019|5.980000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Sushil Kumar Agarwal|31-12-2019|5.980000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Sushil Kumar Agarwal|31-03-2020|5.980000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Vijay Kumar Agarwal|30-06-2019|5.970000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Vijay Kumar Agarwal|30-09-2019|5.970000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Vijay Kumar Agarwal|31-12-2019|5.970000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Vijay Kumar Agarwal|31-03-2020|5.970000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Vinay Agarwal|30-06-2019|1.560000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Vinay Agarwal|30-09-2019|1.560000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Vinay Agarwal|31-12-2019|1.560000
+159642|Nilachal Refractories Ltd.|Non-Promoters|Vinay Agarwal|31-03-2020|1.560000
+159642|Nilachal Refractories Ltd.|Promoters|Aarav Jalan|30-06-2019|0.220000
+159642|Nilachal Refractories Ltd.|Promoters|Aarav Jalan|30-09-2019|0.220000
+159642|Nilachal Refractories Ltd.|Promoters|Aarav Jalan|31-12-2019|0.220000
+159642|Nilachal Refractories Ltd.|Promoters|Aarav Jalan|31-03-2020|0.220000
+159642|Nilachal Refractories Ltd.|Promoters|Aditi Jalan|30-06-2019|1.180000
+159642|Nilachal Refractories Ltd.|Promoters|Aditi Jalan|30-09-2019|1.180000
+159642|Nilachal Refractories Ltd.|Promoters|Aditi Jalan|31-12-2019|1.180000
+159642|Nilachal Refractories Ltd.|Promoters|Aditi Jalan|31-03-2020|1.180000
+159642|Nilachal Refractories Ltd.|Promoters|Alok Prakash Huf|30-06-2019|0.310000
+159642|Nilachal Refractories Ltd.|Promoters|Alok Prakash Huf|30-09-2019|0.310000
+159642|Nilachal Refractories Ltd.|Promoters|Alok Prakash Huf|31-12-2019|0.310000
+159642|Nilachal Refractories Ltd.|Promoters|Alok Prakash Huf|31-03-2020|0.310000
+159642|Nilachal Refractories Ltd.|Promoters|Anubhuti Prakash|30-06-2019|0.090000
+159642|Nilachal Refractories Ltd.|Promoters|Anubhuti Prakash|30-09-2019|0.090000
+159642|Nilachal Refractories Ltd.|Promoters|Anubhuti Prakash|31-12-2019|0.090000
+159642|Nilachal Refractories Ltd.|Promoters|Anubhuti Prakash|31-03-2020|0.090000
+159642|Nilachal Refractories Ltd.|Promoters|Anupama Prakash|30-06-2019|0.090000
+159642|Nilachal Refractories Ltd.|Promoters|Anupama Prakash|30-09-2019|0.090000
+159642|Nilachal Refractories Ltd.|Promoters|Anupama Prakash|31-12-2019|0.090000
+159642|Nilachal Refractories Ltd.|Promoters|Anupama Prakash|31-03-2020|0.090000
+159642|Nilachal Refractories Ltd.|Promoters|Bela Jalan|30-06-2019|0.810000
+159642|Nilachal Refractories Ltd.|Promoters|Bela Jalan|30-09-2019|1.550000
+159642|Nilachal Refractories Ltd.|Promoters|Bela Jalan|31-12-2019|1.550000
+159642|Nilachal Refractories Ltd.|Promoters|Bela Jalan|31-03-2020|1.550000
+159642|Nilachal Refractories Ltd.|Promoters|Bhagwati Prasad Jalan|30-06-2019|2.700000
+159642|Nilachal Refractories Ltd.|Promoters|Bhagwati Prasad Jalan|30-09-2019|2.700000
+159642|Nilachal Refractories Ltd.|Promoters|Bhagwati Prasad Jalan|31-12-2019|2.700000
+159642|Nilachal Refractories Ltd.|Promoters|Bhagwati Prasad Jalan|31-03-2020|2.700000
+159642|Nilachal Refractories Ltd.|Promoters|Bhagwati Prasad Jalan And Sons|30-06-2019|0.370000
+159642|Nilachal Refractories Ltd.|Promoters|Bhagwati Prasad Jalan And Sons|30-09-2019|0.370000
+159642|Nilachal Refractories Ltd.|Promoters|Bhagwati Prasad Jalan And Sons|31-12-2019|0.370000
+159642|Nilachal Refractories Ltd.|Promoters|Bhagwati Prasad Jalan And Sons|31-03-2020|0.370000
+159642|Nilachal Refractories Ltd.|Promoters|D P Jalan & Other Huf|30-06-2019|0.370000
+159642|Nilachal Refractories Ltd.|Promoters|D P Jalan & Other Huf|30-09-2019|0.370000
+159642|Nilachal Refractories Ltd.|Promoters|D P Jalan & Other Huf|31-12-2019|0.370000
+159642|Nilachal Refractories Ltd.|Promoters|D P Jalan & Other Huf|31-03-2020|0.370000
+159642|Nilachal Refractories Ltd.|Promoters|Ganapati Industrial Pvt. Ltd.|30-06-2019|2.450000
+159642|Nilachal Refractories Ltd.|Promoters|Ganapati Industrial Pvt. Ltd.|30-09-2019|2.450000
+159642|Nilachal Refractories Ltd.|Promoters|Ganpati Industrial Pvt Ltd|31-03-2020|2.450000
+159642|Nilachal Refractories Ltd.|Promoters|Ganpati Industrial Pvt. Ltd.|31-12-2019|2.450000
+159642|Nilachal Refractories Ltd.|Promoters|Ishika Jalan|30-06-2019|0.220000
+159642|Nilachal Refractories Ltd.|Promoters|Ishika Jalan|30-09-2019|0.220000
+159642|Nilachal Refractories Ltd.|Promoters|Ishika Jalan|31-12-2019|0.220000
+159642|Nilachal Refractories Ltd.|Promoters|Ishika Jalan|31-03-2020|0.220000
+159642|Nilachal Refractories Ltd.|Promoters|Jekay International Track Pvt. Ltd.|30-06-2019|2.450000
+159642|Nilachal Refractories Ltd.|Promoters|Jekay International Track Pvt. Ltd.|30-09-2019|2.450000
+159642|Nilachal Refractories Ltd.|Promoters|Jekay International Track Pvt. Ltd.|31-12-2019|2.450000
+159642|Nilachal Refractories Ltd.|Promoters|Jekay International Track Pvt. Ltd.|31-03-2020|2.450000
+159642|Nilachal Refractories Ltd.|Promoters|Kamal Prakash Huf|30-06-2019|0.310000
+159642|Nilachal Refractories Ltd.|Promoters|Kamal Prakash Huf|30-09-2019|0.310000
+159642|Nilachal Refractories Ltd.|Promoters|Kamal Prakash Huf|31-12-2019|0.310000
+159642|Nilachal Refractories Ltd.|Promoters|Kamal Prakash Huf|31-03-2020|0.310000
+159642|Nilachal Refractories Ltd.|Promoters|Keshan Polymers Pvt Ltd|30-06-2019|3.680000
+159642|Nilachal Refractories Ltd.|Promoters|Keshan Polymers Pvt Ltd|30-09-2019|3.680000
+159642|Nilachal Refractories Ltd.|Promoters|Keshan Polymers Pvt Ltd|31-12-2019|3.680000
+159642|Nilachal Refractories Ltd.|Promoters|Keshan Polymers Pvt Ltd|31-03-2020|3.680000
+159642|Nilachal Refractories Ltd.|Promoters|Likewise Investment And Marketing Pvt Ltd|30-06-2019|1.350000
+159642|Nilachal Refractories Ltd.|Promoters|Likewise Investment And Marketing Pvt Ltd|30-09-2019|1.350000
+159642|Nilachal Refractories Ltd.|Promoters|Likewise Investment And Marketing Pvt Ltd|31-12-2019|1.350000
+159642|Nilachal Refractories Ltd.|Promoters|Likewise Investment And Marketing Pvt Ltd|31-03-2020|1.350000
+159642|Nilachal Refractories Ltd.|Promoters|Madhu Agarwal|30-06-2019|0.090000
+159642|Nilachal Refractories Ltd.|Promoters|Madhu Agarwal|30-09-2019|0.090000
+159642|Nilachal Refractories Ltd.|Promoters|Madhu Agarwal|31-12-2019|0.090000
+159642|Nilachal Refractories Ltd.|Promoters|Madhu Agarwal|31-03-2020|0.090000
+159642|Nilachal Refractories Ltd.|Promoters|Minicraft Enterprise Private Limited|30-06-2019|7.570000
+159642|Nilachal Refractories Ltd.|Promoters|Minicraft Enterprise Private Limited|30-09-2019|7.570000
+159642|Nilachal Refractories Ltd.|Promoters|Minicraft Enterprise Private Limited|31-12-2019|7.570000
+159642|Nilachal Refractories Ltd.|Promoters|Minicraft Enterprise Pvt Ltd|31-03-2020|7.570000
+159642|Nilachal Refractories Ltd.|Promoters|Nidhi Jalan|30-06-2019|0.810000
+159642|Nilachal Refractories Ltd.|Promoters|Nidhi Jalan|30-09-2019|0.810000
+159642|Nilachal Refractories Ltd.|Promoters|Nidhi Jalan|31-12-2019|0.810000
+159642|Nilachal Refractories Ltd.|Promoters|Nidhi Jalan|31-03-2020|0.810000
+159642|Nilachal Refractories Ltd.|Promoters|Nikita Jalan|30-06-2019|0.740000
+159642|Nilachal Refractories Ltd.|Promoters|Niraj Jalan|30-06-2019|3.140000
+159642|Nilachal Refractories Ltd.|Promoters|Niraj Jalan|30-09-2019|3.140000
+159642|Nilachal Refractories Ltd.|Promoters|Niraj Jalan|31-12-2019|3.140000
+159642|Nilachal Refractories Ltd.|Promoters|Niraj Jalan|31-03-2020|3.140000
+159642|Nilachal Refractories Ltd.|Promoters|Niraj Jalan & Others Huf|30-06-2019|0.250000
+159642|Nilachal Refractories Ltd.|Promoters|Niraj Jalan & Others Huf|30-09-2019|0.250000
+159642|Nilachal Refractories Ltd.|Promoters|Niraj Jalan & Others Huf|31-12-2019|0.250000
+159642|Nilachal Refractories Ltd.|Promoters|Niraj Jalan & Others Huf|31-03-2020|0.250000
+159642|Nilachal Refractories Ltd.|Promoters|P P Suppliers And Agencies Private Limited|30-06-2019|3.280000
+159642|Nilachal Refractories Ltd.|Promoters|P P Suppliers And Agencies Private Limited|30-09-2019|3.280000
+159642|Nilachal Refractories Ltd.|Promoters|P P Suppliers And Agencies Private Limited|31-12-2019|3.280000
+159642|Nilachal Refractories Ltd.|Promoters|P P Suppliers And Agencies Private Limited|31-03-2020|3.280000
+159642|Nilachal Refractories Ltd.|Promoters|Pankaj Jalan|30-06-2019|1.800000
+159642|Nilachal Refractories Ltd.|Promoters|Pankaj Jalan|30-09-2019|1.800000
+159642|Nilachal Refractories Ltd.|Promoters|Pankaj Jalan|31-12-2019|1.800000
+159642|Nilachal Refractories Ltd.|Promoters|Pankaj Jalan|31-03-2020|1.800000
+159642|Nilachal Refractories Ltd.|Promoters|Pankaj Jalan & Others Huf|30-06-2019|0.370000
+159642|Nilachal Refractories Ltd.|Promoters|Pankaj Jalan & Others Huf|30-09-2019|0.370000
+159642|Nilachal Refractories Ltd.|Promoters|Pankaj Jalan & Others Huf|31-12-2019|0.370000
+159642|Nilachal Refractories Ltd.|Promoters|Pankaj Jalan & Others Huf|31-03-2020|0.370000
+159642|Nilachal Refractories Ltd.|Promoters|Parwati Devi Jalan|30-06-2019|0.690000
+159642|Nilachal Refractories Ltd.|Promoters|Parwati Devi Jalan|30-09-2019|0.690000
+159642|Nilachal Refractories Ltd.|Promoters|Parwati Devi Jalan|31-12-2019|0.690000
+159642|Nilachal Refractories Ltd.|Promoters|Parwati Devi Jalan|31-03-2020|0.690000
+159642|Nilachal Refractories Ltd.|Promoters|Piyush Jalan|30-06-2019|3.270000
+159642|Nilachal Refractories Ltd.|Promoters|Piyush Jalan|30-09-2019|3.270000
+159642|Nilachal Refractories Ltd.|Promoters|Piyush Jalan|31-12-2019|3.270000
+159642|Nilachal Refractories Ltd.|Promoters|Piyush Jalan|31-03-2020|3.270000
+159642|Nilachal Refractories Ltd.|Promoters|Pushpak Dealcom Private Limited|30-06-2019|1.470000
+159642|Nilachal Refractories Ltd.|Promoters|Pushpak Dealcom Private Limited|30-09-2019|1.470000
+159642|Nilachal Refractories Ltd.|Promoters|Pushpak Dealcom Private Limited|31-12-2019|1.470000
+159642|Nilachal Refractories Ltd.|Promoters|Pushpak Dealcom Private Limited|31-03-2020|1.470000
+159642|Nilachal Refractories Ltd.|Promoters|Raj Rani Agarwal|30-06-2019|0.400000
+159642|Nilachal Refractories Ltd.|Promoters|Raj Rani Agarwal|30-09-2019|0.400000
+159642|Nilachal Refractories Ltd.|Promoters|Raj Rani Agarwal|31-12-2019|0.400000
+159642|Nilachal Refractories Ltd.|Promoters|Raj Rani Agarwal|31-03-2020|0.400000
+159642|Nilachal Refractories Ltd.|Promoters|Sea Sons Trading And Investments Pvt Ltd|31-03-2020|7.360000
+159642|Nilachal Refractories Ltd.|Promoters|Sea Sons Trading And Investments Pvt. Ltd.|30-06-2019|7.360000
+159642|Nilachal Refractories Ltd.|Promoters|Sea Sons Trading And Investments Pvt. Ltd.|30-09-2019|7.360000
+159642|Nilachal Refractories Ltd.|Promoters|Sea Sons Trading And Investments Pvt. Ltd.|31-12-2019|7.360000
+159642|Nilachal Refractories Ltd.|Promoters|Unimark International Pvt Ltd|31-03-2020|22.430000
+159642|Nilachal Refractories Ltd.|Promoters|Unimark International Pvt. Ltd.|30-06-2019|22.430000
+159642|Nilachal Refractories Ltd.|Promoters|Unimark International Pvt. Ltd.|30-09-2019|22.430000
+159642|Nilachal Refractories Ltd.|Promoters|Unimark International Pvt. Ltd.|31-12-2019|22.430000
+159642|Nilachal Refractories Ltd.|Promoters|Vimal Prakash Huf|30-06-2019|0.310000
+159642|Nilachal Refractories Ltd.|Promoters|Vimal Prakash Huf|30-09-2019|0.310000
+159642|Nilachal Refractories Ltd.|Promoters|Vimal Prakash Huf|31-12-2019|0.310000
+159642|Nilachal Refractories Ltd.|Promoters|Vimal Prakash Huf|31-03-2020|0.310000
+164948|Oriental Hotels Ltd.|Non-Promoters|Aditya Birla Sun Life Trustee Private Limited A/C Aditya Birla Sun Life Dividend|30-06-2019|1.580000
+164948|Oriental Hotels Ltd.|Non-Promoters|Aditya Birla Sun Life Trustee Private Limited A/C Aditya Birla Sun Life Dividend|30-09-2019|1.380000
+164948|Oriental Hotels Ltd.|Non-Promoters|Aditya Birla Sun Life Trustee Private Limited A/C Aditya Birla Sun Life Dividend|31-12-2019|1.380000
+164948|Oriental Hotels Ltd.|Non-Promoters|Aditya Birla Sun Life Trustee Private Limited A/C Aditya Birla Sun Life Dividend|31-03-2020|1.380000
+164948|Oriental Hotels Ltd.|Non-Promoters|Clearing Members|30-06-2019|0.000000
+164948|Oriental Hotels Ltd.|Non-Promoters|Clearing Members|30-09-2019|0.010000
+164948|Oriental Hotels Ltd.|Non-Promoters|Clearing Members|31-12-2019|0.010000
+164948|Oriental Hotels Ltd.|Non-Promoters|Clearing Members|31-03-2020|0.010000
+164948|Oriental Hotels Ltd.|Non-Promoters|Iepf|30-06-2019|0.410000
+164948|Oriental Hotels Ltd.|Non-Promoters|Iepf|30-09-2019|0.410000
+164948|Oriental Hotels Ltd.|Non-Promoters|Iepf|31-12-2019|0.410000
+164948|Oriental Hotels Ltd.|Non-Promoters|Iepf|31-03-2020|0.520000
+164948|Oriental Hotels Ltd.|Non-Promoters|Reliance Capital Trustee Company Limited A/C Reliance Growth Fund|30-09-2019|7.320000
+164948|Oriental Hotels Ltd.|Non-Promoters|Reliance Capital Trustee Company Limited A/C Reliance Growth Fund|31-12-2019|7.320000
+164948|Oriental Hotels Ltd.|Non-Promoters|Reliance Capital Trustee Company Limited A/C Reliance Growth Fund|31-03-2020|7.390000
+164948|Oriental Hotels Ltd.|Non-Promoters|Reliance Mutual Fund A/C|30-06-2019|7.390000
+164948|Oriental Hotels Ltd.|Non-Promoters|Sundaram Mutual Fund A/C|30-06-2019|2.840000
+164948|Oriental Hotels Ltd.|Non-Promoters|Sundaram Mutual Fund A/C|31-12-2019|2.840000
+164948|Oriental Hotels Ltd.|Non-Promoters|Sundaram Mutual Fund A/C|31-03-2020|2.840000
+164948|Oriental Hotels Ltd.|Non-Promoters|Sundaram Mutual Fund A/C Sundaram Services Fund|30-09-2019|2.840000
+164948|Oriental Hotels Ltd.|Non-Promoters|The Oriental Insurance Company Limited|30-06-2019|1.400000
+164948|Oriental Hotels Ltd.|Non-Promoters|The Oriental Insurance Company Limited|30-09-2019|1.400000
+164948|Oriental Hotels Ltd.|Non-Promoters|The Oriental Insurance Company Limited|31-12-2019|1.400000
+164948|Oriental Hotels Ltd.|Non-Promoters|The Oriental Insurance Company Limited|31-03-2020|1.400000
+164948|Oriental Hotels Ltd.|Non-Promoters|Trusts|30-06-2019|0.000000
+164948|Oriental Hotels Ltd.|Non-Promoters|Trusts|30-09-2019|0.000000
+164948|Oriental Hotels Ltd.|Non-Promoters|Trusts|31-12-2019|0.000000
+164948|Oriental Hotels Ltd.|Non-Promoters|Trusts|31-03-2020|0.000000
+164948|Oriental Hotels Ltd.|Promoters|C Hemalatha Reddy|30-06-2019|0.300000
+164948|Oriental Hotels Ltd.|Promoters|C Hemalatha Reddy|30-09-2019|0.300000
+164948|Oriental Hotels Ltd.|Promoters|C Hemalatha Reddy|31-12-2019|0.300000
+164948|Oriental Hotels Ltd.|Promoters|C Hemalatha Reddy|31-03-2020|0.300000
+164948|Oriental Hotels Ltd.|Promoters|C Leenaja Reddy|30-06-2019|0.180000
+164948|Oriental Hotels Ltd.|Promoters|C Leenaja Reddy|30-09-2019|0.180000
+164948|Oriental Hotels Ltd.|Promoters|C Leenaja Reddy|31-12-2019|0.180000
+164948|Oriental Hotels Ltd.|Promoters|C Leenaja Reddy|31-03-2020|0.180000
+164948|Oriental Hotels Ltd.|Promoters|Chilamiliika Lalini Hariani|30-06-2019|0.480000
+164948|Oriental Hotels Ltd.|Promoters|Chilamiliika Lalini Hariani|30-09-2019|0.480000
+164948|Oriental Hotels Ltd.|Promoters|Chilamiliika Lalini Hariani|31-12-2019|0.480000
+164948|Oriental Hotels Ltd.|Promoters|Chilamiliika Lalini Hariani|31-03-2020|0.480000
+164948|Oriental Hotels Ltd.|Promoters|D K Pavan|30-06-2019|0.040000
+164948|Oriental Hotels Ltd.|Promoters|D K Pavan|30-09-2019|0.040000
+164948|Oriental Hotels Ltd.|Promoters|D K Pavan .|31-12-2019|0.040000
+164948|Oriental Hotels Ltd.|Promoters|D K Pavan .|31-03-2020|0.040000
+164948|Oriental Hotels Ltd.|Promoters|D Naveen Reddy|30-06-2019|0.780000
+164948|Oriental Hotels Ltd.|Promoters|D Naveen Reddy|30-09-2019|0.780000
+164948|Oriental Hotels Ltd.|Promoters|D Naveen Reddy|31-12-2019|0.780000
+164948|Oriental Hotels Ltd.|Promoters|D Naveen Reddy|31-03-2020|0.780000
+164948|Oriental Hotels Ltd.|Promoters|D Prasannareddy|30-06-2019|0.010000
+164948|Oriental Hotels Ltd.|Promoters|D Prasannareddy|30-09-2019|0.010000
+164948|Oriental Hotels Ltd.|Promoters|D Prasannareddy|31-12-2019|0.010000
+164948|Oriental Hotels Ltd.|Promoters|D Prasannareddy|31-03-2020|0.010000
+164948|Oriental Hotels Ltd.|Promoters|D Rahul Reddy|30-06-2019|0.020000
+164948|Oriental Hotels Ltd.|Promoters|D Rahul Reddy|30-09-2019|0.020000
+164948|Oriental Hotels Ltd.|Promoters|D Rahul Reddy|31-12-2019|0.020000
+164948|Oriental Hotels Ltd.|Promoters|D Rahul Reddy|31-03-2020|0.020000
+164948|Oriental Hotels Ltd.|Promoters|D Sunder Nischal|30-06-2019|0.060000
+164948|Oriental Hotels Ltd.|Promoters|D Sunder Nischal|30-09-2019|0.060000
+164948|Oriental Hotels Ltd.|Promoters|D Sunder Nischal|31-12-2019|0.060000
+164948|Oriental Hotels Ltd.|Promoters|D Sunder Nischal|31-03-2020|0.060000
+164948|Oriental Hotels Ltd.|Promoters|D V Sharan|30-06-2019|0.040000
+164948|Oriental Hotels Ltd.|Promoters|D V Sharan|30-09-2019|0.040000
+164948|Oriental Hotels Ltd.|Promoters|D V Sharan .|31-12-2019|0.040000
+164948|Oriental Hotels Ltd.|Promoters|D V Sharan .|31-03-2020|0.040000
+164948|Oriental Hotels Ltd.|Promoters|D Varada Reddy|31-12-2019|3.920000
+164948|Oriental Hotels Ltd.|Promoters|D Varada Reddy|31-03-2020|3.920000
+164948|Oriental Hotels Ltd.|Promoters|D. Aruna Reddy|30-06-2019|0.760000
+164948|Oriental Hotels Ltd.|Promoters|D. Aruna Reddy|30-09-2019|0.760000
+164948|Oriental Hotels Ltd.|Promoters|D. Varada Reddy|30-06-2019|3.920000
+164948|Oriental Hotels Ltd.|Promoters|D. Varada Reddy|30-09-2019|3.920000
+164948|Oriental Hotels Ltd.|Promoters|D. Vijayagopal Reddy|30-06-2019|1.540000
+164948|Oriental Hotels Ltd.|Promoters|D. Vijayagopal Reddy|30-09-2019|1.540000
+164948|Oriental Hotels Ltd.|Promoters|D. Vijayagopal Reddy|31-12-2019|1.540000
+164948|Oriental Hotels Ltd.|Promoters|D. Vijayagopal Reddy|31-03-2020|1.540000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Abishek|30-06-2019|0.010000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Abishek|30-09-2019|0.010000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Abishek|31-12-2019|0.010000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Abishek|31-03-2020|0.010000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Amit Reddy|30-06-2019|1.280000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Amit Reddy|30-09-2019|1.610000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Amit Reddy|31-12-2019|1.780000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Amit Reddy|31-03-2020|1.780000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Aruna Reddy|31-12-2019|0.760000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Aruna Reddy|31-03-2020|0.760000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Padmapriyareddy|30-06-2019|0.010000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Padmapriyareddy|30-09-2019|0.010000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Padmapriyareddy|31-12-2019|0.010000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Padmapriyareddy|31-03-2020|0.010000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Poornima Reddy|30-06-2019|0.530000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Poornima Reddy|30-09-2019|0.530000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Poornima Reddy|31-12-2019|0.530000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Poornima Reddy|31-03-2020|0.530000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Prakash Reddy|30-06-2019|0.780000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Prakash Reddy|30-09-2019|0.780000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Prakash Reddy|31-12-2019|0.780000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Prakash Reddy|31-03-2020|0.780000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Premaleela Reddy|30-06-2019|1.200000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Premaleela Reddy|30-09-2019|1.200000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Premaleela Reddy|31-12-2019|1.200000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Premaleela Reddy|31-03-2020|1.200000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Shilpa|30-06-2019|0.150000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Shilpa|30-09-2019|0.150000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Shilpa|31-12-2019|0.150000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Shilpa|31-03-2020|0.150000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Sudha Reddy|30-06-2019|0.090000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Sudha Reddy|30-09-2019|0.090000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Sudha Reddy|31-12-2019|0.090000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Sudha Reddy|31-03-2020|0.090000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Venkataramani .|30-06-2019|0.390000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Venkataramani .|30-09-2019|0.390000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Venkataramani .|31-12-2019|0.390000
+164948|Oriental Hotels Ltd.|Promoters|Dodla Venkataramani .|31-03-2020|0.390000
+164948|Oriental Hotels Ltd.|Promoters|G V K Ranjan|30-06-2019|0.010000
+164948|Oriental Hotels Ltd.|Promoters|G V K Ranjan|30-09-2019|0.010000
+164948|Oriental Hotels Ltd.|Promoters|G V K Ranjan|31-12-2019|0.010000
+164948|Oriental Hotels Ltd.|Promoters|G V K Ranjan|31-03-2020|0.010000
+164948|Oriental Hotels Ltd.|Promoters|G V Reddy|30-06-2019|0.750000
+164948|Oriental Hotels Ltd.|Promoters|G V Reddy|30-09-2019|0.750000
+164948|Oriental Hotels Ltd.|Promoters|G V Reddy|31-12-2019|0.750000
+164948|Oriental Hotels Ltd.|Promoters|G V Reddy|31-03-2020|0.750000
+164948|Oriental Hotels Ltd.|Promoters|Girija Gollamudi Reddy|30-06-2019|1.590000
+164948|Oriental Hotels Ltd.|Promoters|Girija Gollamudi Reddy|30-09-2019|1.590000
+164948|Oriental Hotels Ltd.|Promoters|Girija Gollamudi Reddy|31-12-2019|1.590000
+164948|Oriental Hotels Ltd.|Promoters|Girija Gollamudi Reddy|31-03-2020|1.590000
+164948|Oriental Hotels Ltd.|Promoters|J Chaitanya Reddy|30-06-2019|0.010000
+164948|Oriental Hotels Ltd.|Promoters|J Chaitanya Reddy|30-09-2019|0.010000
+164948|Oriental Hotels Ltd.|Promoters|J Chaitanya Reddy|31-12-2019|0.010000
+164948|Oriental Hotels Ltd.|Promoters|J Chaitanya Reddy|31-03-2020|0.010000
+164948|Oriental Hotels Ltd.|Promoters|Jakka Surekha Reddy|30-06-2019|0.680000
+164948|Oriental Hotels Ltd.|Promoters|Jakka Surekha Reddy|30-09-2019|0.680000
+164948|Oriental Hotels Ltd.|Promoters|Jakka Surekha Reddy|31-12-2019|0.680000
+164948|Oriental Hotels Ltd.|Promoters|Jakka Surekha Reddy|31-03-2020|0.680000
+164948|Oriental Hotels Ltd.|Promoters|Kamakshi Reddy S|30-06-2019|0.050000
+164948|Oriental Hotels Ltd.|Promoters|Kamakshi Reddy S|30-09-2019|0.050000
+164948|Oriental Hotels Ltd.|Promoters|Kamakshi Reddy S|31-12-2019|0.050000
+164948|Oriental Hotels Ltd.|Promoters|Kamakshi Reddy S|31-03-2020|0.050000
+164948|Oriental Hotels Ltd.|Promoters|Kiran Reddy Jakka|30-06-2019|0.030000
+164948|Oriental Hotels Ltd.|Promoters|Kiran Reddy Jakka|30-09-2019|0.030000
+164948|Oriental Hotels Ltd.|Promoters|Kiran Reddy Jakka|31-12-2019|0.030000
+164948|Oriental Hotels Ltd.|Promoters|Kiran Reddy Jakka|31-03-2020|0.030000
+164948|Oriental Hotels Ltd.|Promoters|M Kala Reddy|30-06-2019|0.370000
+164948|Oriental Hotels Ltd.|Promoters|M Kala Reddy|30-09-2019|0.370000
+164948|Oriental Hotels Ltd.|Promoters|M Kala Reddy|31-12-2019|0.370000
+164948|Oriental Hotels Ltd.|Promoters|M Kala Reddy|31-03-2020|0.370000
+164948|Oriental Hotels Ltd.|Promoters|M Nitya Reddy|30-06-2019|0.280000
+164948|Oriental Hotels Ltd.|Promoters|M Nitya Reddy|30-09-2019|0.280000
+164948|Oriental Hotels Ltd.|Promoters|M Nitya Reddy|31-12-2019|0.280000
+164948|Oriental Hotels Ltd.|Promoters|M Nitya Reddy|31-03-2020|0.280000
+164948|Oriental Hotels Ltd.|Promoters|M.V. Suresh Reddy|30-06-2019|0.080000
+164948|Oriental Hotels Ltd.|Promoters|M.V. Suresh Reddy|30-09-2019|0.080000
+164948|Oriental Hotels Ltd.|Promoters|M.V. Suresh Reddy|31-12-2019|0.080000
+164948|Oriental Hotels Ltd.|Promoters|M.V. Suresh Reddy|31-03-2020|0.080000
+164948|Oriental Hotels Ltd.|Promoters|Neetha Reddy .|30-06-2019|0.100000
+164948|Oriental Hotels Ltd.|Promoters|Neetha Reddy .|30-09-2019|0.100000
+164948|Oriental Hotels Ltd.|Promoters|Neetha Reddy .|31-12-2019|0.100000
+164948|Oriental Hotels Ltd.|Promoters|Neetha Reddy .|31-03-2020|0.100000
+164948|Oriental Hotels Ltd.|Promoters|P Dwaraknath Reddy|30-06-2019|0.050000
+164948|Oriental Hotels Ltd.|Promoters|P Dwaraknath Reddy|30-09-2019|0.050000
+164948|Oriental Hotels Ltd.|Promoters|P Dwaraknath Reddy|31-12-2019|0.050000
+164948|Oriental Hotels Ltd.|Promoters|P Dwaraknath Reddy|31-03-2020|0.050000
+164948|Oriental Hotels Ltd.|Promoters|P Vidya Reddy|30-06-2019|0.190000
+164948|Oriental Hotels Ltd.|Promoters|P Vidya Reddy|30-09-2019|0.190000
+164948|Oriental Hotels Ltd.|Promoters|P Vidya Reddy|31-12-2019|0.190000
+164948|Oriental Hotels Ltd.|Promoters|P Vidya Reddy|31-03-2020|0.190000
+164948|Oriental Hotels Ltd.|Promoters|P. Shoba Reddy|30-06-2019|0.640000
+164948|Oriental Hotels Ltd.|Promoters|P. Shoba Reddy|30-09-2019|0.640000
+164948|Oriental Hotels Ltd.|Promoters|P. Shoba Reddy|31-12-2019|0.640000
+164948|Oriental Hotels Ltd.|Promoters|P. Shoba Reddy|31-03-2020|0.640000
+164948|Oriental Hotels Ltd.|Promoters|Piem Hotels Limited|30-06-2019|2.160000
+164948|Oriental Hotels Ltd.|Promoters|Piem Hotels Limited|30-09-2019|2.160000
+164948|Oriental Hotels Ltd.|Promoters|Piem Hotels Limited|31-12-2019|2.160000
+164948|Oriental Hotels Ltd.|Promoters|Piem Hotels Limited|31-03-2020|2.160000
+164948|Oriental Hotels Ltd.|Promoters|Pramod Ranjan|30-06-2019|8.470000
+164948|Oriental Hotels Ltd.|Promoters|Pramod Ranjan|30-09-2019|8.470000
+164948|Oriental Hotels Ltd.|Promoters|Pramod Ranjan|31-12-2019|8.470000
+164948|Oriental Hotels Ltd.|Promoters|Pramod Ranjan|31-03-2020|8.470000
+164948|Oriental Hotels Ltd.|Promoters|Prasad Reddy D V S|30-06-2019|0.090000
+164948|Oriental Hotels Ltd.|Promoters|Prasad Reddy D V S|30-09-2019|0.090000
+164948|Oriental Hotels Ltd.|Promoters|Prasad Reddy D V S|31-12-2019|0.090000
+164948|Oriental Hotels Ltd.|Promoters|Prasad Reddy D V S|31-03-2020|0.090000
+164948|Oriental Hotels Ltd.|Promoters|Pravin Ranjan|30-06-2019|0.220000
+164948|Oriental Hotels Ltd.|Promoters|Pravin Ranjan|30-09-2019|0.220000
+164948|Oriental Hotels Ltd.|Promoters|Pravin Ranjan|31-12-2019|0.220000
+164948|Oriental Hotels Ltd.|Promoters|Pravin Ranjan|31-03-2020|0.220000
+164948|Oriental Hotels Ltd.|Promoters|Ramesh Daulatram Hariani|30-06-2019|2.260000
+164948|Oriental Hotels Ltd.|Promoters|Ramesh Daulatram Hariani|30-09-2019|2.260000
+164948|Oriental Hotels Ltd.|Promoters|Ramesh Doulatram Hariani|31-12-2019|2.260000
+164948|Oriental Hotels Ltd.|Promoters|Ramesh Doulatram Hariani|31-03-2020|2.260000
+164948|Oriental Hotels Ltd.|Promoters|Rohit Reddy D|30-06-2019|1.310000
+164948|Oriental Hotels Ltd.|Promoters|Rohit Reddy D|30-09-2019|1.310000
+164948|Oriental Hotels Ltd.|Promoters|Rohit Reddy D|31-12-2019|1.310000
+164948|Oriental Hotels Ltd.|Promoters|Rohit Reddy D|31-03-2020|1.310000
+164948|Oriental Hotels Ltd.|Promoters|Sudhakar Reddy|30-06-2019|0.190000
+164948|Oriental Hotels Ltd.|Promoters|Sudhakar Reddy|30-09-2019|0.190000
+164948|Oriental Hotels Ltd.|Promoters|Sudhakar Reddy|31-12-2019|0.190000
+164948|Oriental Hotels Ltd.|Promoters|Sudhakar Reddy|31-03-2020|0.190000
+164948|Oriental Hotels Ltd.|Promoters|Taj Madurai Limited|30-06-2019|0.040000
+164948|Oriental Hotels Ltd.|Promoters|Taj Madurai Limited|30-09-2019|0.040000
+164948|Oriental Hotels Ltd.|Promoters|Taj Madurai Limited|31-12-2019|0.040000
+164948|Oriental Hotels Ltd.|Promoters|Taj Madurai Limited|31-03-2020|0.040000
+164948|Oriental Hotels Ltd.|Promoters|Taj Trade And Transport Company Limited|30-06-2019|0.980000
+164948|Oriental Hotels Ltd.|Promoters|Taj Trade And Transport Company Limited|30-09-2019|0.980000
+164948|Oriental Hotels Ltd.|Promoters|Taj Trade And Transport Company Limited|31-12-2019|0.980000
+164948|Oriental Hotels Ltd.|Promoters|Taj Trade And Transport Company Limited|31-03-2020|0.980000
+164948|Oriental Hotels Ltd.|Promoters|Tata Chemicals Limited|30-06-2019|1.490000
+164948|Oriental Hotels Ltd.|Promoters|Tata Chemicals Limited|30-09-2019|1.490000
+164948|Oriental Hotels Ltd.|Promoters|Tata Chemicals Limited|31-12-2019|1.490000
+164948|Oriental Hotels Ltd.|Promoters|Tata Chemicals Limited|31-03-2020|1.490000
+164948|Oriental Hotels Ltd.|Promoters|Tata Investment Corporation Ltd|30-06-2019|0.630000
+164948|Oriental Hotels Ltd.|Promoters|Tata Investment Corporation Ltd|30-09-2019|0.630000
+164948|Oriental Hotels Ltd.|Promoters|Tata Investment Corporation Ltd|31-12-2019|0.630000
+164948|Oriental Hotels Ltd.|Promoters|Tata Investment Corporation Ltd|31-03-2020|0.630000
+164948|Oriental Hotels Ltd.|Promoters|The Indian Hotels Company Limited|30-06-2019|30.219999
+164948|Oriental Hotels Ltd.|Promoters|The Indian Hotels Company Limited|30-09-2019|30.219999
+164948|Oriental Hotels Ltd.|Promoters|The Indian Hotels Company Limited|31-12-2019|30.219999
+164948|Oriental Hotels Ltd.|Promoters|The Indian Hotels Company Limited|31-03-2020|30.219999
+192276|Rallis India Ltd.|Non-Promoters|Bod Corp Non Nbfc|31-03-2020|0.000000
+192276|Rallis India Ltd.|Non-Promoters|Clearing Members|30-06-2019|0.670000
+192276|Rallis India Ltd.|Non-Promoters|Clearing Members|30-09-2019|1.040000
+192276|Rallis India Ltd.|Non-Promoters|Clearing Members|31-12-2019|0.910000
+192276|Rallis India Ltd.|Non-Promoters|Clearing Members|31-03-2020|0.560000
+192276|Rallis India Ltd.|Non-Promoters|Director Or Director'S Relatives|30-06-2019|0.000000
+192276|Rallis India Ltd.|Non-Promoters|Director Or Director'S Relatives|30-09-2019|0.000000
+192276|Rallis India Ltd.|Non-Promoters|Director Or Director'S Relatives|31-12-2019|0.000000
+192276|Rallis India Ltd.|Non-Promoters|Director Or Director'S Relatives|31-03-2020|0.000000
+192276|Rallis India Ltd.|Non-Promoters|Franklin India Smaller Companies Fund|30-06-2019|2.150000
+192276|Rallis India Ltd.|Non-Promoters|Franklin India Smaller Companies Fund|30-09-2019|2.150000
+192276|Rallis India Ltd.|Non-Promoters|Franklin India Smaller Companies Fund|31-12-2019|2.150000
+192276|Rallis India Ltd.|Non-Promoters|Franklin India Smaller Companies Fund|31-03-2020|2.150000
+192276|Rallis India Ltd.|Non-Promoters|Hdfc Life Insurance Company Limited|30-06-2019|3.860000
+192276|Rallis India Ltd.|Non-Promoters|Hdfc Life Insurance Company Limited|30-09-2019|3.230000
+192276|Rallis India Ltd.|Non-Promoters|Hdfc Life Insurance Company Limited|31-12-2019|2.840000
+192276|Rallis India Ltd.|Non-Promoters|Hdfc Life Insurance Company Limited|31-03-2020|2.660000
+192276|Rallis India Ltd.|Non-Promoters|Huf|30-06-2019|0.530000
+192276|Rallis India Ltd.|Non-Promoters|Huf|30-09-2019|0.520000
+192276|Rallis India Ltd.|Non-Promoters|Huf|31-12-2019|0.530000
+192276|Rallis India Ltd.|Non-Promoters|Huf|31-03-2020|0.460000
+192276|Rallis India Ltd.|Non-Promoters|Iepf|30-06-2019|0.370000
+192276|Rallis India Ltd.|Non-Promoters|Iepf|30-09-2019|0.410000
+192276|Rallis India Ltd.|Non-Promoters|Iepf|31-12-2019|0.420000
+192276|Rallis India Ltd.|Non-Promoters|Iepf|31-03-2020|0.420000
+192276|Rallis India Ltd.|Non-Promoters|Invesco Trustee Private Limited-A/C Invesco India Smallcap Fund|31-03-2020|1.460000
+192276|Rallis India Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-06-2019|0.980000
+192276|Rallis India Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-09-2019|0.950000
+192276|Rallis India Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-12-2019|0.960000
+192276|Rallis India Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-03-2020|0.750000
+192276|Rallis India Ltd.|Non-Promoters|Qib- Insurance Companies|30-09-2019|0.040000
+192276|Rallis India Ltd.|Non-Promoters|Qib-Insurance Companies|31-12-2019|0.810000
+192276|Rallis India Ltd.|Non-Promoters|Qib-Insurance Companies|31-03-2020|0.910000
+192276|Rallis India Ltd.|Non-Promoters|Rakesh Radheshyam Jhunjhunwala|30-06-2019|9.250000
+192276|Rallis India Ltd.|Non-Promoters|Rakesh Radheshyam Jhunjhunwala|30-09-2019|9.760000
+192276|Rallis India Ltd.|Non-Promoters|Rakesh Radheshyam Jhunjhunwala|31-12-2019|9.790000
+192276|Rallis India Ltd.|Non-Promoters|Rakesh Radheshyam Jhunjhunwala|31-03-2020|9.930000
+192276|Rallis India Ltd.|Non-Promoters|Reliance Capital Trustee Co Ltd-A/C Reliance Capital Builder Fund 4 Sr C|30-09-2019|2.690000
+192276|Rallis India Ltd.|Non-Promoters|Reliance Capital Trustee Co Ltd-A/C Reliance Capital Builder Fund 4 Sr C|31-12-2019|2.940000
+192276|Rallis India Ltd.|Non-Promoters|Reliance Capital Trustee Co Ltd-A/C Reliance Capital Builder Fund 4 Sr C|31-03-2020|2.900000
+192276|Rallis India Ltd.|Non-Promoters|Reliance Capital Trustee Co. Ltd-A/C Reliancesmall Cap Fund|30-06-2019|2.350000
+192276|Rallis India Ltd.|Non-Promoters|Sbi Magnum Taxgain Scheme|30-06-2019|3.250000
+192276|Rallis India Ltd.|Non-Promoters|Sbi Magnum Taxgain Scheme|30-09-2019|3.250000
+192276|Rallis India Ltd.|Non-Promoters|Sbi Magnum Taxgain Scheme|31-12-2019|3.250000
+192276|Rallis India Ltd.|Non-Promoters|Sbi Magnum Taxgain Scheme|31-03-2020|3.250000
+192276|Rallis India Ltd.|Non-Promoters|Steinberg India Emerging Opportunities Fund Limited|30-06-2019|1.400000
+192276|Rallis India Ltd.|Non-Promoters|Steinberg India Emerging Opportunities Fund Limited|30-09-2019|1.580000
+192276|Rallis India Ltd.|Non-Promoters|Steinberg India Emerging Opportunities Fund Limited|31-12-2019|1.580000
+192276|Rallis India Ltd.|Non-Promoters|Steinberg India Emerging Opportunities Fund Limited|31-03-2020|1.580000
+192276|Rallis India Ltd.|Non-Promoters|Tata Mutual Fund|30-09-2019|2.920000
+192276|Rallis India Ltd.|Non-Promoters|Tata Mutual Fund (*)|30-06-2019|2.920000
+192276|Rallis India Ltd.|Non-Promoters|Tata Mutual Fund (*)|31-12-2019|2.950000
+192276|Rallis India Ltd.|Non-Promoters|Tata Mutual Fund (*)|31-03-2020|2.830000
+192276|Rallis India Ltd.|Non-Promoters|Trusts|30-06-2019|0.000000
+192276|Rallis India Ltd.|Non-Promoters|Trusts|30-09-2019|0.000000
+192276|Rallis India Ltd.|Non-Promoters|Trusts|31-12-2019|0.000000
+192276|Rallis India Ltd.|Non-Promoters|Trusts|31-03-2020|0.010000
+192276|Rallis India Ltd.|Promoters|Ewart Investments Limited|30-06-2019|0.030000
+192276|Rallis India Ltd.|Promoters|Ewart Investments Limited|30-09-2019|0.030000
+192276|Rallis India Ltd.|Promoters|Ewart Investments Limited|31-12-2019|0.030000
+192276|Rallis India Ltd.|Promoters|Ewart Investments Limited|31-03-2020|0.030000
+192276|Rallis India Ltd.|Promoters|Tata Chemicals Limited|30-06-2019|50.049999
+192276|Rallis India Ltd.|Promoters|Tata Chemicals Limited|30-09-2019|50.049999
+192276|Rallis India Ltd.|Promoters|Tata Chemicals Limited|31-12-2019|50.049999
+192276|Rallis India Ltd.|Promoters|Tata Chemicals Limited|31-03-2020|50.049999
+246345|T R F Ltd.|Non-Promoters|Anand Rathi Share And Stock Brokers|31-03-2020|1.060000
+246345|T R F Ltd.|Non-Promoters|Clearing Member|30-06-2019|3.180000
+246345|T R F Ltd.|Non-Promoters|Clearing Members|30-09-2019|3.500000
+246345|T R F Ltd.|Non-Promoters|Clearing Members|31-03-2020|4.210000
+246345|T R F Ltd.|Non-Promoters|Dilipkumar Lakhi|30-06-2019|2.260000
+246345|T R F Ltd.|Non-Promoters|Dilipkumar Lakhi|30-09-2019|2.260000
+246345|T R F Ltd.|Non-Promoters|Dilipkumar Lakhi|31-12-2019|2.260000
+246345|T R F Ltd.|Non-Promoters|Dilipkumar Lakhi|31-03-2020|2.260000
+246345|T R F Ltd.|Non-Promoters|Director Or Director'S Relatives|30-06-2019|0.000000
+246345|T R F Ltd.|Non-Promoters|Director Or Director'S Relatives|30-09-2019|0.000000
+246345|T R F Ltd.|Non-Promoters|Director Or Director'S Relatives|31-12-2019|0.000000
+246345|T R F Ltd.|Non-Promoters|Director Or Director'S Relatives|31-03-2020|0.000000
+246345|T R F Ltd.|Non-Promoters|Edelweiss Custodial Services Ltd|31-12-2019|1.330000
+246345|T R F Ltd.|Non-Promoters|Huf|30-06-2019|2.690000
+246345|T R F Ltd.|Non-Promoters|Huf|30-09-2019|2.630000
+246345|T R F Ltd.|Non-Promoters|Huf|31-12-2019|2.640000
+246345|T R F Ltd.|Non-Promoters|Huf|31-03-2020|2.650000
+246345|T R F Ltd.|Non-Promoters|Icici Bank Limited|30-06-2019|1.280000
+246345|T R F Ltd.|Non-Promoters|Icici Bank Limited|30-09-2019|1.310000
+246345|T R F Ltd.|Non-Promoters|Icici Bank Limited|31-12-2019|1.630000
+246345|T R F Ltd.|Non-Promoters|Iepf|30-06-2019|0.900000
+246345|T R F Ltd.|Non-Promoters|Iepf|30-09-2019|0.900000
+246345|T R F Ltd.|Non-Promoters|Iepf|31-12-2019|1.110000
+246345|T R F Ltd.|Non-Promoters|Iepf|31-03-2020|1.110000
+246345|T R F Ltd.|Non-Promoters|Litton Systems Inc|30-06-2019|1.970000
+246345|T R F Ltd.|Non-Promoters|Litton Systems Inc|30-09-2019|1.970000
+246345|T R F Ltd.|Non-Promoters|Litton Systems Inc|31-03-2020|1.970000
+246345|T R F Ltd.|Non-Promoters|Litton Systems Ince|31-12-2019|1.970000
+246345|T R F Ltd.|Non-Promoters|Nimish C Shah|30-09-2019|1.270000
+246345|T R F Ltd.|Non-Promoters|Nimish Chandulal Shah|30-06-2019|1.270000
+246345|T R F Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-06-2019|1.500000
+246345|T R F Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-09-2019|1.520000
+246345|T R F Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-12-2019|1.480000
+246345|T R F Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-03-2020|1.750000
+246345|T R F Ltd.|Non-Promoters|O.P.J. Financial Services (P) Limited|31-03-2020|1.090000
+246345|T R F Ltd.|Non-Promoters|O.P.J. Financial Services (P) Ltd|30-06-2019|1.090000
+246345|T R F Ltd.|Non-Promoters|O.P.J. Financial Services (P) Ltd|31-12-2019|1.090000
+246345|T R F Ltd.|Non-Promoters|O.P.J. Financial Services (P) Ltd.|30-09-2019|1.090000
+246345|T R F Ltd.|Non-Promoters|Trusts|30-06-2019|0.000000
+246345|T R F Ltd.|Non-Promoters|Trusts|30-09-2019|0.000000
+246345|T R F Ltd.|Non-Promoters|Trusts|31-12-2019|0.000000
+246345|T R F Ltd.|Non-Promoters|Trusts|31-03-2020|0.000000
+246345|T R F Ltd.|Promoters|Tata Industries Limited|30-06-2019|0.010000
+246345|T R F Ltd.|Promoters|Tata Industries Limited|30-09-2019|0.010000
+246345|T R F Ltd.|Promoters|Tata Industries Limited|31-12-2019|0.010000
+246345|T R F Ltd.|Promoters|Tata Industries Limited|31-03-2020|0.010000
+246345|T R F Ltd.|Promoters|Tata Steel Limited|30-06-2019|34.099998
+246345|T R F Ltd.|Promoters|Tata Steel Limited|30-09-2019|34.099998
+246345|T R F Ltd.|Promoters|Tata Steel Limited|31-12-2019|34.099998
+246345|T R F Ltd.|Promoters|Tata Steel Limited|31-03-2020|34.099998
+248083|Tata Chemicals Ltd.|Non-Promoters| Qib Insurance|31-12-2019|0.020000
+248083|Tata Chemicals Ltd.|Non-Promoters| Qib Insurance|31-03-2020|0.010000
+248083|Tata Chemicals Ltd.|Non-Promoters|Aditya Birla Sun Life Trustee Private Limited A/C Aditya Birla Sun Life Arbitrage Fund|31-12-2019|1.800000
+248083|Tata Chemicals Ltd.|Non-Promoters|Aditya Birla Sun Life Trustee Private Limited A/C Aditya Birla Sun Life Arbitrage Fund|31-03-2020|1.090000
+248083|Tata Chemicals Ltd.|Non-Promoters|Aditya Birla Sun Life Trustee Private Limited A/C Aditya Birla Sun Life Equity Fund|30-06-2019|2.850000
+248083|Tata Chemicals Ltd.|Non-Promoters|Aditya Birla Sun Life Trustee Private Limited A/C Aditya Birla Sun Life Equity Fund|30-09-2019|2.870000
+248083|Tata Chemicals Ltd.|Non-Promoters|Bajaj Allianz Life Insurance Company Ltd.|31-03-2020|1.130000
+248083|Tata Chemicals Ltd.|Non-Promoters|Baron Emerging Markets Fund|30-06-2019|1.340000
+248083|Tata Chemicals Ltd.|Non-Promoters|Clearing Members|30-06-2019|0.390000
+248083|Tata Chemicals Ltd.|Non-Promoters|Clearing Members|30-09-2019|0.630000
+248083|Tata Chemicals Ltd.|Non-Promoters|Clearing Members|31-12-2019|0.620000
+248083|Tata Chemicals Ltd.|Non-Promoters|Clearing Members|31-03-2020|0.600000
+248083|Tata Chemicals Ltd.|Non-Promoters|Director Or Director'S Relatives|30-06-2019|0.000000
+248083|Tata Chemicals Ltd.|Non-Promoters|Director Or Director'S Relatives|30-09-2019|0.000000
+248083|Tata Chemicals Ltd.|Non-Promoters|Director Or Director'S Relatives|31-12-2019|0.000000
+248083|Tata Chemicals Ltd.|Non-Promoters|Director Or Director'S Relatives|31-03-2020|0.000000
+248083|Tata Chemicals Ltd.|Non-Promoters|Foreign Nationals|30-06-2019|0.000000
+248083|Tata Chemicals Ltd.|Non-Promoters|Foreign Nationas|31-12-2019|0.000000
+248083|Tata Chemicals Ltd.|Non-Promoters|Foreign Nationas|31-03-2020|0.000000
+248083|Tata Chemicals Ltd.|Non-Promoters|Franklin India Equity Advantage Fund|31-12-2019|1.900000
+248083|Tata Chemicals Ltd.|Non-Promoters|Franklin India Equity Advantage Fund|31-03-2020|1.850000
+248083|Tata Chemicals Ltd.|Non-Promoters|Franklin Templeton Investment Funds|30-06-2019|1.590000
+248083|Tata Chemicals Ltd.|Non-Promoters|Franklin Templeton Investment Funds|30-09-2019|1.590000
+248083|Tata Chemicals Ltd.|Non-Promoters|Franklin Templeton Investment Funds|31-12-2019|1.590000
+248083|Tata Chemicals Ltd.|Non-Promoters|Franklin Templeton Investment Funds|31-03-2020|1.510000
+248083|Tata Chemicals Ltd.|Non-Promoters|Franklin Templeton Mutual Fund A/C Franklin India Equity Advantage Fund|30-06-2019|1.490000
+248083|Tata Chemicals Ltd.|Non-Promoters|Franklin Templeton Mutual Fund A/C Franklin India Equity Advantage Fund|30-09-2019|1.740000
+248083|Tata Chemicals Ltd.|Non-Promoters|General Insurance Corporation Of India|30-06-2019|1.260000
+248083|Tata Chemicals Ltd.|Non-Promoters|General Insurance Corporation Of India|30-09-2019|1.260000
+248083|Tata Chemicals Ltd.|Non-Promoters|General Insurance Corporation Of India|31-12-2019|1.140000
+248083|Tata Chemicals Ltd.|Non-Promoters|General Insurance Corporation Of India|31-03-2020|1.100000
+248083|Tata Chemicals Ltd.|Non-Promoters|Hdfc Trustee Company Limited-Hdfc Equity Fund|30-06-2019|8.940000
+248083|Tata Chemicals Ltd.|Non-Promoters|Hdfc Trustee Company Limited-Hdfc Equity Fund|30-09-2019|7.440000
+248083|Tata Chemicals Ltd.|Non-Promoters|Hdfc Trustee Company Ltd A/C Hdfc Arbitrage Fund|31-12-2019|7.080000
+248083|Tata Chemicals Ltd.|Non-Promoters|Hdfc Trustee Company Ltd A/C Hdfc Arbitrage Fund|31-03-2020|4.320000
+248083|Tata Chemicals Ltd.|Non-Promoters|Huf|30-06-2019|0.500000
+248083|Tata Chemicals Ltd.|Non-Promoters|Huf|30-09-2019|0.510000
+248083|Tata Chemicals Ltd.|Non-Promoters|Huf|31-12-2019|0.500000
+248083|Tata Chemicals Ltd.|Non-Promoters|Huf|31-03-2020|0.570000
+248083|Tata Chemicals Ltd.|Non-Promoters|Icici Prudential Balanced Advantage Fund|30-06-2019|5.280000
+248083|Tata Chemicals Ltd.|Non-Promoters|Icici Prudential Balanced Advantage Fund|30-09-2019|7.270000
+248083|Tata Chemicals Ltd.|Non-Promoters|Icici Prudential Balanced Advantage Fund|31-12-2019|7.340000
+248083|Tata Chemicals Ltd.|Non-Promoters|Icici Prudential Balanced Advantage Fund|31-03-2020|6.310000
+248083|Tata Chemicals Ltd.|Non-Promoters|Icici Prudential Life Insurance Company Limited|30-06-2019|2.460000
+248083|Tata Chemicals Ltd.|Non-Promoters|Icici Prudential Life Insurance Company Limited|30-09-2019|2.300000
+248083|Tata Chemicals Ltd.|Non-Promoters|Icici Prudential Life Insurance Company Limited|31-12-2019|2.200000
+248083|Tata Chemicals Ltd.|Non-Promoters|Icici Prudential Life Insurance Company Limited|31-03-2020|2.150000
+248083|Tata Chemicals Ltd.|Non-Promoters|Iepf|30-06-2019|0.430000
+248083|Tata Chemicals Ltd.|Non-Promoters|Iepf|30-09-2019|0.430000
+248083|Tata Chemicals Ltd.|Non-Promoters|Iepf|31-12-2019|0.470000
+248083|Tata Chemicals Ltd.|Non-Promoters|Iepf|31-03-2020|0.470000
+248083|Tata Chemicals Ltd.|Non-Promoters|Lic Of India Child Fortune Plus Balanced Fund|30-06-2019|6.110000
+248083|Tata Chemicals Ltd.|Non-Promoters|Lic Of India Child Fortune Plus Balanced Fund|30-09-2019|6.500000
+248083|Tata Chemicals Ltd.|Non-Promoters|Lic Of India Child Fortune Plus Balanced Fund|31-12-2019|6.540000
+248083|Tata Chemicals Ltd.|Non-Promoters|Lic Of India Child Fortune Plus Balanced Fund|31-03-2020|6.630000
+248083|Tata Chemicals Ltd.|Non-Promoters|Mirae Asset Emerging Bluechip Fund|30-09-2019|1.070000
+248083|Tata Chemicals Ltd.|Non-Promoters|Mirae Asset Emerging Bluechip Fund|31-12-2019|1.480000
+248083|Tata Chemicals Ltd.|Non-Promoters|Mirae Asset Emerging Bluechip Fund|31-03-2020|2.590000
+248083|Tata Chemicals Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-06-2019|0.740000
+248083|Tata Chemicals Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-09-2019|0.770000
+248083|Tata Chemicals Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-12-2019|0.790000
+248083|Tata Chemicals Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-03-2020|0.820000
+248083|Tata Chemicals Ltd.|Non-Promoters|Others - Foreign Nationas|30-09-2019|0.000000
+248083|Tata Chemicals Ltd.|Non-Promoters|Others - Qib Insurance|30-09-2019|0.050000
+248083|Tata Chemicals Ltd.|Non-Promoters|Sundaram Mutual Fund A/C Sundaram Equity Savings Fund|31-12-2019|1.110000
+248083|Tata Chemicals Ltd.|Non-Promoters|Sundaram Mutual Fund A/C Sundaram Large And Mid Cap Fund|30-09-2019|1.070000
+248083|Tata Chemicals Ltd.|Non-Promoters|The New India Assurance Company Limited|30-06-2019|1.070000
+248083|Tata Chemicals Ltd.|Non-Promoters|The New India Assurance Company Limited|30-09-2019|1.100000
+248083|Tata Chemicals Ltd.|Non-Promoters|The New India Assurance Company Limited|31-12-2019|1.070000
+248083|Tata Chemicals Ltd.|Non-Promoters|The New India Assurance Company Limited|31-03-2020|1.070000
+248083|Tata Chemicals Ltd.|Non-Promoters|Trusts|30-06-2019|0.530000
+248083|Tata Chemicals Ltd.|Non-Promoters|Trusts|30-09-2019|0.550000
+248083|Tata Chemicals Ltd.|Non-Promoters|Trusts|31-12-2019|0.290000
+248083|Tata Chemicals Ltd.|Non-Promoters|Trusts|31-03-2020|0.060000
+248083|Tata Chemicals Ltd.|Non-Promoters|United India Insurance Company Limited|30-06-2019|1.170000
+248083|Tata Chemicals Ltd.|Non-Promoters|United India Insurance Company Limited|30-09-2019|1.240000
+248083|Tata Chemicals Ltd.|Non-Promoters|United India Insurance Company Limited|31-12-2019|1.240000
+248083|Tata Chemicals Ltd.|Non-Promoters|United India Insurance Company Limited|31-03-2020|1.240000
+248083|Tata Chemicals Ltd.|Promoters|Ewart Investments Limited|30-06-2019|0.530000
+248083|Tata Chemicals Ltd.|Promoters|Ewart Investments Limited|30-09-2019|0.530000
+248083|Tata Chemicals Ltd.|Promoters|Ewart Investments Limited|31-12-2019|0.530000
+248083|Tata Chemicals Ltd.|Promoters|Simto Investment Company Limited|30-06-2019|0.200000
+248083|Tata Chemicals Ltd.|Promoters|Simto Investment Company Limited|30-09-2019|0.200000
+248083|Tata Chemicals Ltd.|Promoters|Simto Investment Company Limited|31-12-2019|0.200000
+248083|Tata Chemicals Ltd.|Promoters|Tata Coffee Limited|30-06-2019|0.060000
+248083|Tata Chemicals Ltd.|Promoters|Tata Coffee Limited|30-09-2019|0.060000
+248083|Tata Chemicals Ltd.|Promoters|Tata Coffee Limited|31-12-2019|0.060000
+248083|Tata Chemicals Ltd.|Promoters|Tata Coffee Limited|31-03-2020|0.000000
+248083|Tata Chemicals Ltd.|Promoters|Tata Global Beverages Limited|30-06-2019|0.270000
+248083|Tata Chemicals Ltd.|Promoters|Tata Global Beverages Limited|30-09-2019|0.270000
+248083|Tata Chemicals Ltd.|Promoters|Tata Global Beverages Limited|31-12-2019|0.270000
+248083|Tata Chemicals Ltd.|Promoters|Tata Industries Limited|30-06-2019|0.030000
+248083|Tata Chemicals Ltd.|Promoters|Tata Industries Limited|30-09-2019|0.030000
+248083|Tata Chemicals Ltd.|Promoters|Tata Industries Limited|31-12-2019|0.030000
+248083|Tata Chemicals Ltd.|Promoters|Tata Industries Limited|31-03-2020|0.030000
+248083|Tata Chemicals Ltd.|Promoters|Tata Investment Corporation Limited|30-06-2019|5.960000
+248083|Tata Chemicals Ltd.|Promoters|Tata Investment Corporation Limited|30-09-2019|5.960000
+248083|Tata Chemicals Ltd.|Promoters|Tata Investment Corporation Limited|31-12-2019|5.960000
+248083|Tata Chemicals Ltd.|Promoters|Tata Investment Corporation Limited|31-03-2020|5.960000
+248083|Tata Chemicals Ltd.|Promoters|Tata Motors Finance Limited|30-06-2019|0.000000
+248083|Tata Chemicals Ltd.|Promoters|Tata Motors Finance Limited|30-09-2019|0.000000
+248083|Tata Chemicals Ltd.|Promoters|Tata Motors Finance Limited|31-12-2019|0.000000
+248083|Tata Chemicals Ltd.|Promoters|Tata Motors Finance Limited|31-03-2020|0.000000
+248083|Tata Chemicals Ltd.|Promoters|Tata Sons Private Limited|30-06-2019|23.459999
+248083|Tata Chemicals Ltd.|Promoters|Tata Sons Private Limited|30-09-2019|23.459999
+248083|Tata Chemicals Ltd.|Promoters|Tata Sons Private Limited|31-12-2019|23.910000
+248083|Tata Chemicals Ltd.|Promoters|Tata Sons Private Limited|31-03-2020|28.500000
+248083|Tata Chemicals Ltd.|Promoters|Titan Company Limited|30-06-2019|0.000000
+248083|Tata Chemicals Ltd.|Promoters|Titan Company Limited|30-09-2019|0.000000
+248083|Tata Chemicals Ltd.|Promoters|Titan Company Limited|31-12-2019|0.000000
+248083|Tata Chemicals Ltd.|Promoters|Titan Company Limited|31-03-2020|0.000000
+248083|Tata Chemicals Ltd.|Promoters|Voltas Limited|30-06-2019|0.070000
+248083|Tata Chemicals Ltd.|Promoters|Voltas Limited|30-09-2019|0.070000
+248083|Tata Chemicals Ltd.|Promoters|Voltas Limited|31-12-2019|0.070000
+248083|Tata Chemicals Ltd.|Promoters|Voltas Limited|31-03-2020|0.070000
+248085|Tata Coffee Ltd.|Non-Promoters|Clearing Members|30-06-2019|1.030000
+248085|Tata Coffee Ltd.|Non-Promoters|Clearing Members|30-09-2019|0.860000
+248085|Tata Coffee Ltd.|Non-Promoters|Clearing Members|31-12-2019|0.860000
+248085|Tata Coffee Ltd.|Non-Promoters|Clearing Members|31-03-2020|1.050000
+248085|Tata Coffee Ltd.|Non-Promoters|F. Born A G|30-06-2019|1.930000
+248085|Tata Coffee Ltd.|Non-Promoters|F. Born A G|30-09-2019|1.930000
+248085|Tata Coffee Ltd.|Non-Promoters|F. Born A G|31-12-2019|1.920000
+248085|Tata Coffee Ltd.|Non-Promoters|F. Born A G|31-03-2020|1.920000
+248085|Tata Coffee Ltd.|Non-Promoters|Huf|30-06-2019|1.190000
+248085|Tata Coffee Ltd.|Non-Promoters|Huf|30-09-2019|1.230000
+248085|Tata Coffee Ltd.|Non-Promoters|Huf|31-12-2019|1.220000
+248085|Tata Coffee Ltd.|Non-Promoters|Huf|31-03-2020|1.310000
+248085|Tata Coffee Ltd.|Non-Promoters|Iepf|30-06-2019|0.710000
+248085|Tata Coffee Ltd.|Non-Promoters|Iepf|30-09-2019|0.770000
+248085|Tata Coffee Ltd.|Non-Promoters|Iepf|31-12-2019|0.820000
+248085|Tata Coffee Ltd.|Non-Promoters|Iepf|31-03-2020|0.820000
+248085|Tata Coffee Ltd.|Non-Promoters|Life Insurance Corporation Of India|30-06-2019|2.260000
+248085|Tata Coffee Ltd.|Non-Promoters|Life Insurance Corporation Of India|30-09-2019|2.260000
+248085|Tata Coffee Ltd.|Non-Promoters|Life Insurance Corporation Of India|31-12-2019|2.260000
+248085|Tata Coffee Ltd.|Non-Promoters|Life Insurance Corporation Of India|31-03-2020|2.260000
+248085|Tata Coffee Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-06-2019|2.540000
+248085|Tata Coffee Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-09-2019|2.440000
+248085|Tata Coffee Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-12-2019|2.490000
+248085|Tata Coffee Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-03-2020|2.440000
+248085|Tata Coffee Ltd.|Non-Promoters|Reliance Capital Trustee Co Ltd-A/C Nippon India Small Cap Fund|31-03-2020|2.040000
+248085|Tata Coffee Ltd.|Non-Promoters|Reliance Capital Trustee Co. Ltd-A/C Reliancesmall Cap Fund|30-06-2019|1.860000
+248085|Tata Coffee Ltd.|Non-Promoters|Reliance Capital Trustee Co. Ltd-A/C Reliancesmall Cap Fund|30-09-2019|1.970000
+248085|Tata Coffee Ltd.|Non-Promoters|Reliance Capital Trustee Co. Ltd-A/C Reliancesmall Cap Fund|31-12-2019|2.030000
+248085|Tata Coffee Ltd.|Non-Promoters|Trusts|30-06-2019|0.120000
+248085|Tata Coffee Ltd.|Non-Promoters|Trusts|30-09-2019|0.120000
+248085|Tata Coffee Ltd.|Non-Promoters|Trusts|31-12-2019|0.130000
+248085|Tata Coffee Ltd.|Non-Promoters|Trusts|31-03-2020|0.120000
+248085|Tata Coffee Ltd.|Promoters|Tata Consumer Products Limited|31-03-2020|57.480000
+248085|Tata Coffee Ltd.|Promoters|Tata Global Beverages Limited|30-06-2019|57.480000
+248085|Tata Coffee Ltd.|Promoters|Tata Global Beverages Limited|30-09-2019|57.480000
+248085|Tata Coffee Ltd.|Promoters|Tata Global Beverages Limited|31-12-2019|57.480000
+265414|Tata Communications Ltd.|Non-Promoters|Amansa Holdings Private Limited|30-06-2019|1.890000
+265414|Tata Communications Ltd.|Non-Promoters|Amansa Holdings Private Limited|30-09-2019|1.050000
+265414|Tata Communications Ltd.|Non-Promoters|Baron Emerging Markets Fund|30-06-2019|1.210000
+265414|Tata Communications Ltd.|Non-Promoters|Baron Emerging Markets Fund|30-09-2019|1.340000
+265414|Tata Communications Ltd.|Non-Promoters|Baron Emerging Markets Fund|31-12-2019|1.340000
+265414|Tata Communications Ltd.|Non-Promoters|Baron Emerging Markets Fund|31-03-2020|1.340000
+265414|Tata Communications Ltd.|Non-Promoters|Clearing Members|30-06-2019|0.450000
+265414|Tata Communications Ltd.|Non-Promoters|Clearing Members|30-09-2019|0.240000
+265414|Tata Communications Ltd.|Non-Promoters|Clearing Members|31-12-2019|0.250000
+265414|Tata Communications Ltd.|Non-Promoters|Clearing Members|31-03-2020|0.420000
+265414|Tata Communications Ltd.|Non-Promoters|East Bridge Capital Master Fund I Ltd|30-06-2019|5.370000
+265414|Tata Communications Ltd.|Non-Promoters|East Bridge Capital Master Fund I Ltd|30-09-2019|5.670000
+265414|Tata Communications Ltd.|Non-Promoters|East Bridge Capital Master Fund I Ltd|31-12-2019|5.690000
+265414|Tata Communications Ltd.|Non-Promoters|East Bridge Capital Master Fund I Ltd|31-03-2020|5.900000
+265414|Tata Communications Ltd.|Non-Promoters|Employees|30-06-2019|0.000000
+265414|Tata Communications Ltd.|Non-Promoters|Employees|30-09-2019|0.000000
+265414|Tata Communications Ltd.|Non-Promoters|Employees|31-12-2019|0.000000
+265414|Tata Communications Ltd.|Non-Promoters|Employees|31-03-2020|0.000000
+265414|Tata Communications Ltd.|Non-Promoters|Fidelity Investment Trust Fidelity Series Emerging Markets Fund|30-06-2019|1.510000
+265414|Tata Communications Ltd.|Non-Promoters|Fidelity Investment Trust Fidelity Series Emerging Markets Fund|30-09-2019|1.970000
+265414|Tata Communications Ltd.|Non-Promoters|Fidelity Investment Trust Fidelity Series Emerging Markets Fund|31-12-2019|2.340000
+265414|Tata Communications Ltd.|Non-Promoters|Fidelity Investment Trust Fidelity Series Emerging Markets Fund|31-03-2020|2.240000
+265414|Tata Communications Ltd.|Non-Promoters|Government Pension Fund Global|30-06-2019|1.610000
+265414|Tata Communications Ltd.|Non-Promoters|Government Pension Fund Global|30-09-2019|1.650000
+265414|Tata Communications Ltd.|Non-Promoters|Government Pension Fund Global|31-12-2019|1.660000
+265414|Tata Communications Ltd.|Non-Promoters|Government Pension Fund Global|31-03-2020|1.730000
+265414|Tata Communications Ltd.|Non-Promoters|Huf|30-06-2019|0.120000
+265414|Tata Communications Ltd.|Non-Promoters|Huf|30-09-2019|0.140000
+265414|Tata Communications Ltd.|Non-Promoters|Huf|31-12-2019|0.130000
+265414|Tata Communications Ltd.|Non-Promoters|Huf|31-03-2020|0.130000
+265414|Tata Communications Ltd.|Non-Promoters|Iepf|30-06-2019|0.010000
+265414|Tata Communications Ltd.|Non-Promoters|Iepf|30-09-2019|0.020000
+265414|Tata Communications Ltd.|Non-Promoters|Iepf|31-12-2019|0.020000
+265414|Tata Communications Ltd.|Non-Promoters|Iepf|31-03-2020|0.020000
+265414|Tata Communications Ltd.|Non-Promoters|Lic Of India|30-06-2019|1.050000
+265414|Tata Communications Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-06-2019|0.380000
+265414|Tata Communications Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-09-2019|0.390000
+265414|Tata Communications Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-12-2019|0.170000
+265414|Tata Communications Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-03-2020|0.190000
+265414|Tata Communications Ltd.|Non-Promoters|Qib Insurance|30-09-2019|0.000000
+265414|Tata Communications Ltd.|Non-Promoters|Qib Insurance|31-12-2019|0.000000
+265414|Tata Communications Ltd.|Non-Promoters|Trusts|30-06-2019|0.000000
+265414|Tata Communications Ltd.|Non-Promoters|Trusts|30-09-2019|0.000000
+265414|Tata Communications Ltd.|Non-Promoters|Trusts|31-12-2019|0.000000
+265414|Tata Communications Ltd.|Non-Promoters|Trusts|31-03-2020|0.000000
+265414|Tata Communications Ltd.|Promoters|Panatone Finvest Limited|30-06-2019|34.790001
+265414|Tata Communications Ltd.|Promoters|Panatone Finvest Limited|30-09-2019|34.790001
+265414|Tata Communications Ltd.|Promoters|Panatone Finvest Limited|31-12-2019|34.790001
+265414|Tata Communications Ltd.|Promoters|Panatone Finvest Limited|31-03-2020|34.790001
+265414|Tata Communications Ltd.|Promoters|President Of India|30-06-2019|26.120001
+265414|Tata Communications Ltd.|Promoters|President Of India|30-09-2019|26.120001
+265414|Tata Communications Ltd.|Promoters|President Of India|31-12-2019|26.120001
+265414|Tata Communications Ltd.|Promoters|President Of India|31-03-2020|26.120001
+265414|Tata Communications Ltd.|Promoters|Tata Sons Private Limited|30-06-2019|14.060000
+265414|Tata Communications Ltd.|Promoters|Tata Sons Private Limited|30-09-2019|14.060000
+265414|Tata Communications Ltd.|Promoters|Tata Sons Private Limited|31-12-2019|14.060000
+265414|Tata Communications Ltd.|Promoters|Tata Sons Private Limited|31-03-2020|14.060000
+164646|Tata Consultancy Services Ltd.|Non-Promoters|Clearing Members|30-06-2019|0.090000
+164646|Tata Consultancy Services Ltd.|Non-Promoters|Clearing Members|30-09-2019|0.070000
+164646|Tata Consultancy Services Ltd.|Non-Promoters|Clearing Members|31-12-2019|0.070000
+164646|Tata Consultancy Services Ltd.|Non-Promoters|Clearing Members|31-03-2020|0.180000
+164646|Tata Consultancy Services Ltd.|Non-Promoters|Iepf|30-06-2019|0.000000
+164646|Tata Consultancy Services Ltd.|Non-Promoters|Iepf|30-09-2019|0.000000
+164646|Tata Consultancy Services Ltd.|Non-Promoters|Iepf|31-12-2019|0.000000
+164646|Tata Consultancy Services Ltd.|Non-Promoters|Iepf|31-03-2020|0.000000
+164646|Tata Consultancy Services Ltd.|Non-Promoters|Life Insurance Corporation Of India|30-06-2019|3.980000
+164646|Tata Consultancy Services Ltd.|Non-Promoters|Life Insurance Corporation Of India|30-09-2019|4.070000
+164646|Tata Consultancy Services Ltd.|Non-Promoters|Life Insurance Corporation Of India|31-12-2019|4.120000
+164646|Tata Consultancy Services Ltd.|Non-Promoters|Life Insurance Corporation Of India|31-03-2020|4.200000
+164646|Tata Consultancy Services Ltd.|Non-Promoters|Qib-Insurance Company Registered With Irda|30-09-2019|0.000000
+164646|Tata Consultancy Services Ltd.|Non-Promoters|Trusts|30-06-2019|0.270000
+164646|Tata Consultancy Services Ltd.|Non-Promoters|Trusts|30-09-2019|0.270000
+164646|Tata Consultancy Services Ltd.|Non-Promoters|Trusts|31-12-2019|0.260000
+164646|Tata Consultancy Services Ltd.|Non-Promoters|Trusts|31-03-2020|0.290000
+164646|Tata Consultancy Services Ltd.|Promoters|Tata Industries Limited|30-06-2019|0.000000
+164646|Tata Consultancy Services Ltd.|Promoters|Tata Industries Limited|30-09-2019|0.000000
+164646|Tata Consultancy Services Ltd.|Promoters|Tata Industries Limited|31-12-2019|0.000000
+164646|Tata Consultancy Services Ltd.|Promoters|Tata Industries Limited|31-03-2020|0.000000
+164646|Tata Consultancy Services Ltd.|Promoters|Tata Investment Corporation Limited|30-06-2019|0.020000
+164646|Tata Consultancy Services Ltd.|Promoters|Tata Investment Corporation Limited|30-09-2019|0.020000
+164646|Tata Consultancy Services Ltd.|Promoters|Tata Investment Corporation Limited|31-12-2019|0.020000
+164646|Tata Consultancy Services Ltd.|Promoters|Tata Investment Corporation Limited|31-03-2020|0.020000
+164646|Tata Consultancy Services Ltd.|Promoters|Tata Sons Private Limited|30-06-2019|72.010002
+164646|Tata Consultancy Services Ltd.|Promoters|Tata Sons Private Limited|30-09-2019|72.010002
+164646|Tata Consultancy Services Ltd.|Promoters|Tata Sons Private Limited|31-12-2019|72.010002
+164646|Tata Consultancy Services Ltd.|Promoters|Tata Sons Private Limited|31-03-2020|72.010002
+164646|Tata Consultancy Services Ltd.|Promoters|Tata Steel Limited|30-06-2019|0.000000
+164646|Tata Consultancy Services Ltd.|Promoters|Tata Steel Limited|30-09-2019|0.000000
+164646|Tata Consultancy Services Ltd.|Promoters|Tata Steel Limited|31-12-2019|0.000000
+164646|Tata Consultancy Services Ltd.|Promoters|Tata Steel Limited|31-03-2020|0.000000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Baron Emerging Markets Fund|30-06-2019|1.620000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Baron Emerging Markets Fund|30-09-2019|1.750000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Baron Emerging Markets Fund|31-12-2019|1.510000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Clearing Members|31-12-2019|0.580000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Clearing Members|31-03-2020|0.760000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Director Or Director'S Relatives|31-12-2019|0.000000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Director Or Director'S Relatives|31-03-2020|0.010000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Fidelity Investment Trust Fidelity Series Emerging Markets Fund|30-09-2019|1.240000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Fidelity Investment Trust Fidelity Series Emerging Markets Fund|31-12-2019|1.970000
+248186|Tata Consumer Products Ltd.|Non-Promoters|First State Investments Icvc- Stewart Investors Asia Pacific Fund|30-06-2019|1.930000
+248186|Tata Consumer Products Ltd.|Non-Promoters|First State Investments Icvc- Stewart Investors Asia Pacific Fund|30-09-2019|1.930000
+248186|Tata Consumer Products Ltd.|Non-Promoters|First State Investments Icvc- Stewart Investors Asia Pacific Fund|31-12-2019|1.930000
+248186|Tata Consumer Products Ltd.|Non-Promoters|First State Investments Icvc- Stewart Investors Global Emerging Markets Leaders Fund|30-06-2019|2.770000
+248186|Tata Consumer Products Ltd.|Non-Promoters|First State Investments Icvc- Stewart Investors Global Emerging Markets Leaders Fund|30-09-2019|2.770000
+248186|Tata Consumer Products Ltd.|Non-Promoters|First State Investments Icvc- Stewart Investors Global Emerging Markets Leaders Fund|31-12-2019|1.880000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Foreign National|31-03-2020|0.000000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Government Pension Fund Global|30-06-2019|2.150000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Government Pension Fund Global|30-09-2019|1.920000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Government Pension Fund Global|31-12-2019|1.660000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Government Pension Fund Global|31-03-2020|1.440000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Hdfc Trustee Co Ltd A/C Hdfc Charity Fund For Cancer Cure-Arbitrage Plan|31-03-2020|1.630000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Huf|31-12-2019|0.550000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Huf|31-03-2020|0.580000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Icici Prudential Balanced Advantage Fund|31-03-2020|2.120000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Iepf|31-12-2019|0.320000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Iepf|31-03-2020|0.360000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Insurance Company Registered With Irda|31-12-2019|0.070000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Insurance Company Registered With Irda|31-03-2020|0.940000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Life Insurance Corporation|31-03-2020|2.120000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Mfs International New Discovery Fund|30-06-2019|1.030000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Mfs International New Discovery Fund|30-09-2019|1.030000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Mfs International New Discovery Fund|31-12-2019|1.030000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Mirae Asset|30-06-2019|3.260000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Mirae Asset|30-09-2019|2.630000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Mirae Asset|31-12-2019|2.440000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Mirae Asset Emerging Bluechip Fund|31-03-2020|2.030000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-12-2019|0.980000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-03-2020|1.000000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Nps Trust|30-09-2019|1.360000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Nps Trusts|30-06-2019|1.440000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Reliance Capital Trustee Co Ltd- A/C Reliance India Opportunities Fund - Series A|31-12-2019|2.980000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Reliance Capital Trustee Co Ltd- A/C Reliance India Opportunities Fund - Series A|31-03-2020|2.010000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Reliance Capital Trustee Co Ltd-A/C Reliance India Opportunities Fund - Series A|30-06-2019|2.550000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Reliance Capital Trustee Co Ltd-A/C Reliance India Opportunities Fund - Series A|30-09-2019|3.080000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Stewart Investors Global Emerging Markets Leaders Fund|30-06-2019|1.580000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Stewart Investors Global Emerging Markets Leaders Fund|30-09-2019|1.580000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Sundaram Mutual Fund A/C Sundaram Large And Mid Cap Fund|31-03-2020|1.290000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Sundaram Mutual Fund A/C Sundaram Long Term Tax Advantage Fund|31-12-2019|1.160000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Sundaram Mutualfunds A/C Sundaram Long Term Tax Advantage Fund|30-06-2019|1.110000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Sundaram Mutualfunds A/Cn Sundaram Long Term Tax Advantage Fund|30-09-2019|1.110000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Trusts|31-12-2019|1.160000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Trusts|31-03-2020|0.770000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Uti- Arbitrage Fund|30-06-2019|1.050000
+248186|Tata Consumer Products Ltd.|Non-Promoters|Uti- Arbitrage Fund|30-09-2019|1.050000
+248186|Tata Consumer Products Ltd.|Promoters|Ewart Investments Limited|30-06-2019|0.590000
+248186|Tata Consumer Products Ltd.|Promoters|Ewart Investments Limited|30-09-2019|0.590000
+248186|Tata Consumer Products Ltd.|Promoters|Ewart Investments Limited|31-12-2019|0.590000
+248186|Tata Consumer Products Ltd.|Promoters|Ewart Investments Limited|31-03-2020|0.400000
+248186|Tata Consumer Products Ltd.|Promoters|Tata Industries Limited|30-06-2019|0.110000
+248186|Tata Consumer Products Ltd.|Promoters|Tata Industries Limited|30-09-2019|0.110000
+248186|Tata Consumer Products Ltd.|Promoters|Tata Industries Limited|31-12-2019|0.110000
+248186|Tata Consumer Products Ltd.|Promoters|Tata Industries Limited|31-03-2020|0.080000
+248186|Tata Consumer Products Ltd.|Promoters|Tata Investment Corporation Limited|30-06-2019|4.260000
+248186|Tata Consumer Products Ltd.|Promoters|Tata Investment Corporation Limited|30-09-2019|4.260000
+248186|Tata Consumer Products Ltd.|Promoters|Tata Investment Corporation Limited|31-12-2019|4.260000
+248186|Tata Consumer Products Ltd.|Promoters|Tata Investment Corporation Limited|31-03-2020|4.800000
+248186|Tata Consumer Products Ltd.|Promoters|Tata Motors Finance Limited|31-03-2020|0.000000
+248186|Tata Consumer Products Ltd.|Promoters|Tata Sons Private Limited|30-06-2019|29.469999
+248186|Tata Consumer Products Ltd.|Promoters|Tata Sons Private Limited|30-09-2019|29.469999
+248186|Tata Consumer Products Ltd.|Promoters|Tata Sons Private Limited|31-12-2019|29.469999
+248186|Tata Consumer Products Ltd.|Promoters|Tata Sons Private Limited|31-03-2020|29.360001
+248186|Tata Consumer Products Ltd.|Promoters|Titan Company Limited|30-06-2019|0.000000
+248186|Tata Consumer Products Ltd.|Promoters|Titan Company Limited|30-09-2019|0.000000
+248186|Tata Consumer Products Ltd.|Promoters|Titan Company Limited|31-12-2019|0.000000
+248186|Tata Consumer Products Ltd.|Promoters|Titan Company Limited|31-03-2020|0.000000
+248186|Tata Consumer Products Ltd.|Promoters|Voltas Limited|31-03-2020|0.020000
+248092|Tata Elxsi Ltd.|Non-Promoters|Avendus Enhanced Return Fund|30-06-2019|1.100000
+248092|Tata Elxsi Ltd.|Non-Promoters|Axis Equity Advantage Fund - Series 2|31-03-2020|1.150000
+248092|Tata Elxsi Ltd.|Non-Promoters|Clearing Member|30-06-2019|1.610000
+248092|Tata Elxsi Ltd.|Non-Promoters|Clearing Members|30-09-2019|1.930000
+248092|Tata Elxsi Ltd.|Non-Promoters|Clearing Members|31-12-2019|1.700000
+248092|Tata Elxsi Ltd.|Non-Promoters|Clearing Members|31-03-2020|0.990000
+248092|Tata Elxsi Ltd.|Non-Promoters|Director Or Director'S Relatives|30-06-2019|0.000000
+248092|Tata Elxsi Ltd.|Non-Promoters|Director Or Director'S Relatives|30-09-2019|0.000000
+248092|Tata Elxsi Ltd.|Non-Promoters|Director Or Director'S Relatives|31-12-2019|0.000000
+248092|Tata Elxsi Ltd.|Non-Promoters|Director Or Director'S Relatives|31-03-2020|0.000000
+248092|Tata Elxsi Ltd.|Non-Promoters|General Insurance Corporation Of India|30-09-2019|1.610000
+248092|Tata Elxsi Ltd.|Non-Promoters|Huf|30-06-2019|0.940000
+248092|Tata Elxsi Ltd.|Non-Promoters|Huf|30-09-2019|0.960000
+248092|Tata Elxsi Ltd.|Non-Promoters|Huf|31-12-2019|1.000000
+248092|Tata Elxsi Ltd.|Non-Promoters|Huf|31-03-2020|0.900000
+248092|Tata Elxsi Ltd.|Non-Promoters|Iepf|30-06-2019|0.440000
+248092|Tata Elxsi Ltd.|Non-Promoters|Iepf|30-09-2019|0.490000
+248092|Tata Elxsi Ltd.|Non-Promoters|Iepf|31-12-2019|0.490000
+248092|Tata Elxsi Ltd.|Non-Promoters|Iepf|31-03-2020|0.490000
+248092|Tata Elxsi Ltd.|Non-Promoters|J P Morgan Funds|30-06-2019|1.730000
+248092|Tata Elxsi Ltd.|Non-Promoters|J P Morgan Funds|30-09-2019|2.320000
+248092|Tata Elxsi Ltd.|Non-Promoters|J P Morgan Funds|31-12-2019|2.320000
+248092|Tata Elxsi Ltd.|Non-Promoters|J P Morgan Funds|31-03-2020|2.300000
+248092|Tata Elxsi Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-06-2019|1.540000
+248092|Tata Elxsi Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-09-2019|1.520000
+248092|Tata Elxsi Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-12-2019|1.690000
+248092|Tata Elxsi Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-03-2020|1.730000
+248092|Tata Elxsi Ltd.|Non-Promoters|Somerset Emerging Markets Small Cap Fund Llc|31-12-2019|1.270000
+248092|Tata Elxsi Ltd.|Non-Promoters|Somerset Emerging Markets Small Cap Fund Llc|31-03-2020|1.270000
+248092|Tata Elxsi Ltd.|Non-Promoters|Trusts|30-06-2019|0.140000
+248092|Tata Elxsi Ltd.|Non-Promoters|Trusts|30-09-2019|0.070000
+248092|Tata Elxsi Ltd.|Non-Promoters|Trusts|31-12-2019|0.070000
+248092|Tata Elxsi Ltd.|Non-Promoters|Trusts|31-03-2020|0.070000
+248092|Tata Elxsi Ltd.|Promoters|Tata Investment Corporation Limited|30-06-2019|2.300000
+248092|Tata Elxsi Ltd.|Promoters|Tata Investment Corporation Limited|30-09-2019|2.300000
+248092|Tata Elxsi Ltd.|Promoters|Tata Investment Corporation Limited|31-12-2019|2.300000
+248092|Tata Elxsi Ltd.|Promoters|Tata Investment Corporation Limited|31-03-2020|2.300000
+248092|Tata Elxsi Ltd.|Promoters|Tata Sons Private Limited|30-06-2019|42.220001
+248092|Tata Elxsi Ltd.|Promoters|Tata Sons Private Limited|30-09-2019|42.220001
+248092|Tata Elxsi Ltd.|Promoters|Tata Sons Private Limited|31-12-2019|42.220001
+248092|Tata Elxsi Ltd.|Promoters|Tata Sons Private Limited|31-03-2020|42.220001
+248135|Tata Investment Corpn. Ltd.|Non-Promoters|Bodies Corporate- Non-Nbfc|30-06-2019|0.000000
+248135|Tata Investment Corpn. Ltd.|Non-Promoters|Clearing Member|30-06-2019|0.260000
+248135|Tata Investment Corpn. Ltd.|Non-Promoters|Clearing Members|30-09-2019|0.230000
+248135|Tata Investment Corpn. Ltd.|Non-Promoters|Clearing Members|31-12-2019|0.240000
+248135|Tata Investment Corpn. Ltd.|Non-Promoters|Clearing Members|31-03-2020|0.260000
+248135|Tata Investment Corpn. Ltd.|Non-Promoters|Director Or Director'S Relatives|30-06-2019|0.060000
+248135|Tata Investment Corpn. Ltd.|Non-Promoters|Director Or Director'S Relatives|30-09-2019|0.100000
+248135|Tata Investment Corpn. Ltd.|Non-Promoters|Director Or Director'S Relatives|31-12-2019|0.100000
+248135|Tata Investment Corpn. Ltd.|Non-Promoters|Director Or Director'S Relatives|31-03-2020|0.100000
+248135|Tata Investment Corpn. Ltd.|Non-Promoters|Huf|30-06-2019|0.520000
+248135|Tata Investment Corpn. Ltd.|Non-Promoters|Huf|30-09-2019|0.510000
+248135|Tata Investment Corpn. Ltd.|Non-Promoters|Huf|31-12-2019|0.500000
+248135|Tata Investment Corpn. Ltd.|Non-Promoters|Huf|31-03-2020|0.510000
+248135|Tata Investment Corpn. Ltd.|Non-Promoters|Iepf|30-06-2019|0.070000
+248135|Tata Investment Corpn. Ltd.|Non-Promoters|Iepf|30-09-2019|0.070000
+248135|Tata Investment Corpn. Ltd.|Non-Promoters|Iepf|31-12-2019|0.080000
+248135|Tata Investment Corpn. Ltd.|Non-Promoters|Iepf|31-03-2020|0.080000
+248135|Tata Investment Corpn. Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-06-2019|0.640000
+248135|Tata Investment Corpn. Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-09-2019|0.700000
+248135|Tata Investment Corpn. Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-12-2019|0.710000
+248135|Tata Investment Corpn. Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-03-2020|0.680000
+248135|Tata Investment Corpn. Ltd.|Non-Promoters|Trusts|30-06-2019|0.030000
+248135|Tata Investment Corpn. Ltd.|Non-Promoters|Trusts|30-09-2019|0.030000
+248135|Tata Investment Corpn. Ltd.|Non-Promoters|Trusts|31-12-2019|0.030000
+248135|Tata Investment Corpn. Ltd.|Non-Promoters|Trusts|31-03-2020|0.030000
+248135|Tata Investment Corpn. Ltd.|Promoters|Af-Taab Investment Company Limited|30-06-2019|1.570000
+248135|Tata Investment Corpn. Ltd.|Promoters|Af-Taab Investment Company Limited|30-09-2019|1.570000
+248135|Tata Investment Corpn. Ltd.|Promoters|Af-Taab Investment Company Limited|31-12-2019|1.570000
+248135|Tata Investment Corpn. Ltd.|Promoters|Af-Taab Investment Company Limited|31-03-2020|1.570000
+248135|Tata Investment Corpn. Ltd.|Promoters|Ewart Investments Limited|30-06-2019|1.590000
+248135|Tata Investment Corpn. Ltd.|Promoters|Ewart Investments Limited|30-09-2019|1.590000
+248135|Tata Investment Corpn. Ltd.|Promoters|Ewart Investments Limited|31-12-2019|1.590000
+248135|Tata Investment Corpn. Ltd.|Promoters|Ewart Investments Limited|31-03-2020|1.590000
+248135|Tata Investment Corpn. Ltd.|Promoters|Tata Chemicals Ltd|30-06-2019|0.870000
+248135|Tata Investment Corpn. Ltd.|Promoters|Tata Chemicals Ltd|30-09-2019|0.870000
+248135|Tata Investment Corpn. Ltd.|Promoters|Tata Chemicals Ltd|31-12-2019|0.870000
+248135|Tata Investment Corpn. Ltd.|Promoters|Tata Chemicals Ltd|31-03-2020|0.870000
+248135|Tata Investment Corpn. Ltd.|Promoters|Tata Global Beverages Limited|30-06-2019|0.290000
+248135|Tata Investment Corpn. Ltd.|Promoters|Tata Global Beverages Limited|30-09-2019|0.290000
+248135|Tata Investment Corpn. Ltd.|Promoters|Tata Global Beverages Limited|31-12-2019|0.290000
+248135|Tata Investment Corpn. Ltd.|Promoters|Tata Global Beverages Limited|31-03-2020|0.290000
+248135|Tata Investment Corpn. Ltd.|Promoters|Tata Sons Limited|30-06-2019|68.510002
+248135|Tata Investment Corpn. Ltd.|Promoters|Tata Sons Private Limited|30-09-2019|68.510002
+248135|Tata Investment Corpn. Ltd.|Promoters|Tata Sons Private Limited|31-12-2019|68.510002
+248135|Tata Investment Corpn. Ltd.|Promoters|Tata Sons Private Limited|31-03-2020|68.510002
+248135|Tata Investment Corpn. Ltd.|Promoters|Tata Steel Limited|30-06-2019|0.450000
+248135|Tata Investment Corpn. Ltd.|Promoters|Tata Steel Limited|30-09-2019|0.450000
+248135|Tata Investment Corpn. Ltd.|Promoters|Tata Steel Limited|31-12-2019|0.450000
+248135|Tata Investment Corpn. Ltd.|Promoters|Tata Steel Limited|31-03-2020|0.450000
+248135|Tata Investment Corpn. Ltd.|Promoters|Trent Brands Limited|30-06-2019|0.030000
+248135|Tata Investment Corpn. Ltd.|Promoters|Trent Brands Limited|30-09-2019|0.030000
+248135|Tata Investment Corpn. Ltd.|Promoters|Trent Brands Limited|31-12-2019|0.030000
+248135|Tata Investment Corpn. Ltd.|Promoters|Trent Brands Limited|31-03-2020|0.030000
+248135|Tata Investment Corpn. Ltd.|Promoters|Trent Limited|30-06-2019|0.060000
+248135|Tata Investment Corpn. Ltd.|Promoters|Trent Limited|30-09-2019|0.060000
+248135|Tata Investment Corpn. Ltd.|Promoters|Trent Limited|31-12-2019|0.060000
+248135|Tata Investment Corpn. Ltd.|Promoters|Trent Limited|31-03-2020|0.060000
+248154|Tata Metaliks Ltd.|Locked-In Shares|Tata Steel Limited|30-06-2019|100.000000
+248154|Tata Metaliks Ltd.|Locked-In Shares|Tata Steel Limited|30-09-2019|100.000000
+248154|Tata Metaliks Ltd.|Locked-In Shares|Tata Steel Limited|31-12-2019|100.000000
+248154|Tata Metaliks Ltd.|Locked-In Shares|Tata Steel Limited|31-03-2020|18.080000
+248154|Tata Metaliks Ltd.|Non-Promoters|## Aditya Birla Sun Life Trustee Private Limited A/C Aditya Birla Sun Life Small And Midcap Fund|30-06-2019|3.130000
+248154|Tata Metaliks Ltd.|Non-Promoters|## Aditya Birla Sun Life Trustee Private Limited A?C Aditya Birla Sun Life Small And Midcap Fund|31-12-2019|3.320000
+248154|Tata Metaliks Ltd.|Non-Promoters|## Hdfc A/C Mutual Fund|30-06-2019|7.900000
+248154|Tata Metaliks Ltd.|Non-Promoters|## Hdfc A/C Mutual Fund|31-12-2019|8.130000
+248154|Tata Metaliks Ltd.|Non-Promoters|## Icici Prudential Mutual Fund|30-06-2019|1.170000
+248154|Tata Metaliks Ltd.|Non-Promoters|## Icici Prudential Mutual Fund|31-12-2019|1.910000
+248154|Tata Metaliks Ltd.|Non-Promoters|## Sbi Mutual Fund|31-12-2019|1.400000
+248154|Tata Metaliks Ltd.|Non-Promoters|Aditya Birla Sun Life Trustee Private Limited A/C Aditya Birla Sun Life Small And Midcap Fund|30-09-2019|3.200000
+248154|Tata Metaliks Ltd.|Non-Promoters|Aditya Birla Sun Life Trustee Private Limited A/C Aditya Birla Sun Life Small And Midcap Fund|31-03-2020|3.310000
+248154|Tata Metaliks Ltd.|Non-Promoters|Clearing Member|30-06-2019|0.020000
+248154|Tata Metaliks Ltd.|Non-Promoters|Clearing Members|30-09-2019|0.030000
+248154|Tata Metaliks Ltd.|Non-Promoters|Clearing Members|31-12-2019|0.050000
+248154|Tata Metaliks Ltd.|Non-Promoters|Clearing Members|31-03-2020|0.060000
+248154|Tata Metaliks Ltd.|Non-Promoters|Hdfc A/C Mutual Fund|30-09-2019|8.110000
+248154|Tata Metaliks Ltd.|Non-Promoters|Hdfc A/C Mutual Fund|31-03-2020|8.130000
+248154|Tata Metaliks Ltd.|Non-Promoters|Icici Prudential Mutual Fund|30-09-2019|1.880000
+248154|Tata Metaliks Ltd.|Non-Promoters|Icici Prudential Mutual Fund|31-03-2020|2.050000
+248154|Tata Metaliks Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-06-2019|0.630000
+248154|Tata Metaliks Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-09-2019|0.610000
+248154|Tata Metaliks Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-12-2019|0.560000
+248154|Tata Metaliks Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-03-2020|0.570000
+248154|Tata Metaliks Ltd.|Non-Promoters|Sbi Mutual Fund|31-03-2020|1.390000
+248154|Tata Metaliks Ltd.|Non-Promoters|Trusts|30-06-2019|0.020000
+248154|Tata Metaliks Ltd.|Non-Promoters|Trusts|30-09-2019|0.020000
+248154|Tata Metaliks Ltd.|Non-Promoters|Trusts|31-12-2019|0.020000
+248154|Tata Metaliks Ltd.|Non-Promoters|Trusts|31-03-2020|0.020000
+248154|Tata Metaliks Ltd.|Promoters|Tata Steel Limited|30-06-2019|55.060001
+248154|Tata Metaliks Ltd.|Promoters|Tata Steel Limited|30-09-2019|55.060001
+248154|Tata Metaliks Ltd.|Promoters|Tata Steel Limited|31-12-2019|55.060001
+248154|Tata Metaliks Ltd.|Promoters|Tata Steel Limited|31-03-2020|55.060001
+248093|Tata Motors Ltd.|Locked-In Shares|Tata Sons Private Limited|31-12-2019|89.269997
+248093|Tata Motors Ltd.|Locked-In Shares|Tata Sons Private Limited|31-03-2020|89.269997
+248093|Tata Motors Ltd.|Non-Promoters|Citibank N.A. New York, Nyadr Department|30-06-2019|11.160000
+248093|Tata Motors Ltd.|Non-Promoters|Citibank N.A. New York, Nyadr Department|30-09-2019|11.120000
+248093|Tata Motors Ltd.|Non-Promoters|Citibank N.A. New York, Nyadr Department|31-12-2019|10.540000
+248093|Tata Motors Ltd.|Non-Promoters|Citibank N.A. New York, Nyadr Department|31-03-2020|10.390000
+248093|Tata Motors Ltd.|Non-Promoters|Clearing Members|30-06-2019|0.760000
+248093|Tata Motors Ltd.|Non-Promoters|Clearing Members|30-09-2019|0.830000
+248093|Tata Motors Ltd.|Non-Promoters|Clearing Members|31-12-2019|0.590000
+248093|Tata Motors Ltd.|Non-Promoters|Clearing Members|31-03-2020|0.950000
+248093|Tata Motors Ltd.|Non-Promoters|Government Of Singapore|31-12-2019|1.990000
+248093|Tata Motors Ltd.|Non-Promoters|Government Of Singapore|31-03-2020|1.080000
+248093|Tata Motors Ltd.|Non-Promoters|Government Of Singapore *|30-06-2019|3.580000
+248093|Tata Motors Ltd.|Non-Promoters|Government Of Singapore *|30-09-2019|2.440000
+248093|Tata Motors Ltd.|Non-Promoters|Huf|30-06-2019|0.270000
+248093|Tata Motors Ltd.|Non-Promoters|Huf|30-09-2019|0.300000
+248093|Tata Motors Ltd.|Non-Promoters|Huf|31-12-2019|0.260000
+248093|Tata Motors Ltd.|Non-Promoters|Huf|31-03-2020|0.320000
+248093|Tata Motors Ltd.|Non-Promoters|Iepf|30-06-2019|0.130000
+248093|Tata Motors Ltd.|Non-Promoters|Iepf|30-09-2019|0.130000
+248093|Tata Motors Ltd.|Non-Promoters|Iepf|31-12-2019|0.140000
+248093|Tata Motors Ltd.|Non-Promoters|Life Insurance Corporation Of India|31-12-2019|4.770000
+248093|Tata Motors Ltd.|Non-Promoters|Life Insurance Corporation Of India|31-03-2020|4.770000
+248093|Tata Motors Ltd.|Non-Promoters|Life Insurance Corporation Of India *|30-06-2019|5.100000
+248093|Tata Motors Ltd.|Non-Promoters|Life Insurance Corporation Of India *|30-09-2019|5.100000
+248093|Tata Motors Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-06-2019|0.720000
+248093|Tata Motors Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-09-2019|0.750000
+248093|Tata Motors Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-12-2019|0.660000
+248093|Tata Motors Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-03-2020|0.780000
+248093|Tata Motors Ltd.|Non-Promoters|Others|30-06-2019|0.000000
+248093|Tata Motors Ltd.|Non-Promoters|Others|30-09-2019|0.160000
+248093|Tata Motors Ltd.|Non-Promoters|Others|31-12-2019|
+248093|Tata Motors Ltd.|Non-Promoters|Others|31-03-2020|
+248093|Tata Motors Ltd.|Non-Promoters|Qib - Insurance Regd. With Irda|31-12-2019|0.080000
+248093|Tata Motors Ltd.|Non-Promoters|Qib - Insurance Regd. With Irda|31-03-2020|0.070000
+248093|Tata Motors Ltd.|Non-Promoters|Qib Insurance Registered With Irda|30-09-2019|0.090000
+248093|Tata Motors Ltd.|Non-Promoters|Reliance Capital Trustee Co Ltd - Funds|31-03-2020|1.910000
+248093|Tata Motors Ltd.|Non-Promoters|Reliance Capital Trustee Co Ltd - Funds*|30-06-2019|3.280000
+248093|Tata Motors Ltd.|Non-Promoters|Reliance Capital Trustee Co Ltd - Funds*|30-09-2019|3.440000
+248093|Tata Motors Ltd.|Non-Promoters|Reliance Capital Trustee Co Ltd - Funds*|31-12-2019|3.290000
+248093|Tata Motors Ltd.|Non-Promoters|Sbi Mutual Fund|31-12-2019|1.180000
+248093|Tata Motors Ltd.|Non-Promoters|Sbi Mutual Fund|31-03-2020|1.390000
+248093|Tata Motors Ltd.|Non-Promoters|Sbi-Etf Sensex*|30-06-2019|1.280000
+248093|Tata Motors Ltd.|Non-Promoters|Sbi-Etf Sensex*|30-09-2019|1.340000
+248093|Tata Motors Ltd.|Non-Promoters|Trusts|30-06-2019|0.880000
+248093|Tata Motors Ltd.|Non-Promoters|Trusts|30-09-2019|0.930000
+248093|Tata Motors Ltd.|Non-Promoters|Trusts|31-12-2019|0.890000
+248093|Tata Motors Ltd.|Non-Promoters|Trusts|31-03-2020|0.820000
+248093|Tata Motors Ltd.|Non-Promoters|Unclaimed Or Suspense Or Escrow Account|31-03-2020|0.140000
+248093|Tata Motors Ltd.|Promoters|Af-Taab Investment Company Limited|30-06-2019|0.010000
+248093|Tata Motors Ltd.|Promoters|Af-Taab Investment Company Limited|30-09-2019|0.010000
+248093|Tata Motors Ltd.|Promoters|Af-Taab Investment Company Limited|31-12-2019|0.010000
+248093|Tata Motors Ltd.|Promoters|Af-Taab Investment Company Limited|31-03-2020|0.010000
+248093|Tata Motors Ltd.|Promoters|Ewart Investments Limited|30-06-2019|0.100000
+248093|Tata Motors Ltd.|Promoters|Ewart Investments Limited|30-09-2019|0.100000
+248093|Tata Motors Ltd.|Promoters|Ewart Investments Limited|31-12-2019|0.090000
+248093|Tata Motors Ltd.|Promoters|Ewart Investments Limited|31-03-2020|0.090000
+248093|Tata Motors Ltd.|Promoters|Simto Investment Company Limited|30-06-2019|0.000000
+248093|Tata Motors Ltd.|Promoters|Simto Investment Company Limited|30-09-2019|0.000000
+248093|Tata Motors Ltd.|Promoters|Simto Investment Company Limited|31-12-2019|0.000000
+248093|Tata Motors Ltd.|Promoters|Simto Investment Company Limited|31-03-2020|0.000000
+248093|Tata Motors Ltd.|Promoters|Tata Chemicals Ltd|30-06-2019|0.060000
+248093|Tata Motors Ltd.|Promoters|Tata Chemicals Ltd|30-09-2019|0.060000
+248093|Tata Motors Ltd.|Promoters|Tata Chemicals Ltd|31-12-2019|0.060000
+248093|Tata Motors Ltd.|Promoters|Tata Chemicals Ltd|31-03-2020|0.060000
+248093|Tata Motors Ltd.|Promoters|Tata Industries Limited|30-06-2019|2.500000
+248093|Tata Motors Ltd.|Promoters|Tata Industries Limited|30-09-2019|2.500000
+248093|Tata Motors Ltd.|Promoters|Tata Industries Limited|31-12-2019|2.330000
+248093|Tata Motors Ltd.|Promoters|Tata Industries Limited|31-03-2020|2.330000
+248093|Tata Motors Ltd.|Promoters|Tata Investment Corporation Limited|30-06-2019|0.380000
+248093|Tata Motors Ltd.|Promoters|Tata Investment Corporation Limited|30-09-2019|0.380000
+248093|Tata Motors Ltd.|Promoters|Tata Investment Corporation Limited|31-12-2019|0.350000
+248093|Tata Motors Ltd.|Promoters|Tata Investment Corporation Limited|31-03-2020|0.350000
+248093|Tata Motors Ltd.|Promoters|Tata Sons Private Limited|30-06-2019|35.290001
+248093|Tata Motors Ltd.|Promoters|Tata Sons Private Limited|30-09-2019|35.290001
+248093|Tata Motors Ltd.|Promoters|Tata Sons Private Limited|31-12-2019|39.520000
+248093|Tata Motors Ltd.|Promoters|Tata Sons Private Limited|31-03-2020|39.520000
+248093|Tata Motors Ltd.|Promoters|Tata Steel Limited|30-06-2019|0.000000
+248093|Tata Motors Ltd.|Promoters|Tata Steel Limited|30-09-2019|0.000000
+248093|Tata Motors Ltd.|Promoters|Tata Steel Limited|31-12-2019|0.000000
+248093|Tata Motors Ltd.|Promoters|Tata Steel Limited|31-03-2020|0.000000
+248165|Tata Power Co. Ltd.|Non-Promoters|Aditya Birla Sun Life Trustee Private Limited A/C Aditya Birla Sun Life Arbitrage Funds*|30-09-2019|1.150000
+248165|Tata Power Co. Ltd.|Non-Promoters|Clearing Members|30-06-2019|0.430000
+248165|Tata Power Co. Ltd.|Non-Promoters|Clearing Members|30-09-2019|0.300000
+248165|Tata Power Co. Ltd.|Non-Promoters|Clearing Members|31-12-2019|0.290000
+248165|Tata Power Co. Ltd.|Non-Promoters|Clearing Members|31-03-2020|0.330000
+248165|Tata Power Co. Ltd.|Non-Promoters|Director Or Director'S Relatives|30-06-2019|0.000000
+248165|Tata Power Co. Ltd.|Non-Promoters|Director Or Director'S Relatives|30-09-2019|0.000000
+248165|Tata Power Co. Ltd.|Non-Promoters|Director Or Director'S Relatives|31-12-2019|0.000000
+248165|Tata Power Co. Ltd.|Non-Promoters|Director Or Director'S Relatives|31-03-2020|0.000000
+248165|Tata Power Co. Ltd.|Non-Promoters|First State Investments Icvc- Stewart Investors Global Emerging Markets Leaders Fund|30-06-2019|3.320000
+248165|Tata Power Co. Ltd.|Non-Promoters|First State Investments Icvc- Stewart Investors Global Emerging Markets Leaders Fund|30-09-2019|3.170000
+248165|Tata Power Co. Ltd.|Non-Promoters|First State Investments Icvc- Stewart Investors Global Emerging Markets Leaders Fund|31-12-2019|2.700000
+248165|Tata Power Co. Ltd.|Non-Promoters|First State Investments Icvc- Stewart Investors Global Emerging Markets Leaders Fund|31-03-2020|1.690000
+248165|Tata Power Co. Ltd.|Non-Promoters|Franklin India Equity Advantage Funds|31-12-2019|1.120000
+248165|Tata Power Co. Ltd.|Non-Promoters|Franklin India Equity Advantage Funds|31-03-2020|1.340000
+248165|Tata Power Co. Ltd.|Non-Promoters|General Insurance Corporation Of India|30-06-2019|1.920000
+248165|Tata Power Co. Ltd.|Non-Promoters|General Insurance Corporation Of India|30-09-2019|1.730000
+248165|Tata Power Co. Ltd.|Non-Promoters|General Insurance Corporation Of India|31-12-2019|1.730000
+248165|Tata Power Co. Ltd.|Non-Promoters|General Insurance Corporation Of India|31-03-2020|1.730000
+248165|Tata Power Co. Ltd.|Non-Promoters|Hdfc Life Insurance Company Limited|31-03-2020|1.210000
+248165|Tata Power Co. Ltd.|Non-Promoters|Huf|30-06-2019|0.280000
+248165|Tata Power Co. Ltd.|Non-Promoters|Huf|30-09-2019|0.280000
+248165|Tata Power Co. Ltd.|Non-Promoters|Huf|31-12-2019|0.310000
+248165|Tata Power Co. Ltd.|Non-Promoters|Huf|31-03-2020|0.310000
+248165|Tata Power Co. Ltd.|Non-Promoters|Icici Prudential Bharat Consumption Funds|31-12-2019|5.460000
+248165|Tata Power Co. Ltd.|Non-Promoters|Icici Prudential Bharat Consumption Funds|31-03-2020|8.070000
+248165|Tata Power Co. Ltd.|Non-Promoters|Icici Prudential Bharat Consumption Funds*|30-09-2019|4.490000
+248165|Tata Power Co. Ltd.|Non-Promoters|Icici Prudential Funds *|30-06-2019|4.300000
+248165|Tata Power Co. Ltd.|Non-Promoters|Iepf|30-06-2019|0.250000
+248165|Tata Power Co. Ltd.|Non-Promoters|Iepf|30-09-2019|0.250000
+248165|Tata Power Co. Ltd.|Non-Promoters|Iepf|31-12-2019|0.290000
+248165|Tata Power Co. Ltd.|Non-Promoters|Iepf|31-03-2020|0.290000
+248165|Tata Power Co. Ltd.|Non-Promoters|Life Insurance Corporation Of India|31-12-2019|6.190000
+248165|Tata Power Co. Ltd.|Non-Promoters|Life Insurance Corporation Of India|31-03-2020|6.340000
+248165|Tata Power Co. Ltd.|Non-Promoters|Life Insurance Corporation Of India *|30-06-2019|6.210000
+248165|Tata Power Co. Ltd.|Non-Promoters|Life Insurance Corporation Of India *|30-09-2019|6.190000
+248165|Tata Power Co. Ltd.|Non-Promoters|Mahout Global Emerging Markets Leaders Fund, A Sub-Fund Of The Mahout Delaware Statutory Trust|30-06-2019|1.000000
+248165|Tata Power Co. Ltd.|Non-Promoters|Matthews Pacific Tiger Fund|30-06-2019|6.660000
+248165|Tata Power Co. Ltd.|Non-Promoters|Matthews Pacific Tiger Fund|30-09-2019|6.660000
+248165|Tata Power Co. Ltd.|Non-Promoters|Matthews Pacific Tiger Fund|31-12-2019|6.660000
+248165|Tata Power Co. Ltd.|Non-Promoters|Matthews Pacific Tiger Fund|31-03-2020|6.660000
+248165|Tata Power Co. Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-06-2019|0.880000
+248165|Tata Power Co. Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-09-2019|0.890000
+248165|Tata Power Co. Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-12-2019|0.890000
+248165|Tata Power Co. Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-03-2020|0.900000
+248165|Tata Power Co. Ltd.|Non-Promoters|Qib - Insurance Co. Regd. With Irda|30-09-2019|0.080000
+248165|Tata Power Co. Ltd.|Non-Promoters|Qib - Insurance Co. Regd. With Irda|31-12-2019|0.150000
+248165|Tata Power Co. Ltd.|Non-Promoters|Qib - Insurance Co. Regd. With Irda|31-03-2020|0.100000
+248165|Tata Power Co. Ltd.|Non-Promoters|Reliance Capital Trustee Co Ltd A/C Reliance Etf Infra Bees Investment Account|30-06-2019|1.580000
+248165|Tata Power Co. Ltd.|Non-Promoters|Reliance Capital Trustee Co Ltd A/C Reliance Etf Infra Bees Investment Account|30-09-2019|1.960000
+248165|Tata Power Co. Ltd.|Non-Promoters|Reliance Capital Trustee Co Ltd- A/C Nippon Mutual Funds|31-12-2019|2.040000
+248165|Tata Power Co. Ltd.|Non-Promoters|Reliance Capital Trustee Co Ltd- A/C Nippon Mutual Funds|31-03-2020|1.870000
+248165|Tata Power Co. Ltd.|Non-Promoters|Sbi Etf Bse 100|30-06-2019|1.900000
+248165|Tata Power Co. Ltd.|Non-Promoters|Stewart Investors Global Emerging Markets Leaders Fund|30-06-2019|1.850000
+248165|Tata Power Co. Ltd.|Non-Promoters|Stewart Investors Global Emerging Markets Leaders Fund|30-09-2019|1.760000
+248165|Tata Power Co. Ltd.|Non-Promoters|The New India Assurance Company Limited|30-06-2019|1.970000
+248165|Tata Power Co. Ltd.|Non-Promoters|The New India Assurance Company Limited|30-09-2019|1.930000
+248165|Tata Power Co. Ltd.|Non-Promoters|The New India Assurance Company Limited|31-12-2019|1.930000
+248165|Tata Power Co. Ltd.|Non-Promoters|The New India Assurance Company Limited|31-03-2020|1.930000
+248165|Tata Power Co. Ltd.|Non-Promoters|Trusts|30-06-2019|0.070000
+248165|Tata Power Co. Ltd.|Non-Promoters|Trusts|30-09-2019|0.080000
+248165|Tata Power Co. Ltd.|Non-Promoters|Trusts|31-12-2019|0.080000
+248165|Tata Power Co. Ltd.|Non-Promoters|Trusts|31-03-2020|0.090000
+248165|Tata Power Co. Ltd.|Promoters|Ewart Investments Limited|30-06-2019|0.080000
+248165|Tata Power Co. Ltd.|Promoters|Ewart Investments Limited|30-09-2019|0.080000
+248165|Tata Power Co. Ltd.|Promoters|Ewart Investments Limited|31-12-2019|0.080000
+248165|Tata Power Co. Ltd.|Promoters|Ewart Investments Limited|31-03-2020|0.080000
+248165|Tata Power Co. Ltd.|Promoters|Tata Industries Limited|30-06-2019|0.160000
+248165|Tata Power Co. Ltd.|Promoters|Tata Industries Limited|30-09-2019|0.160000
+248165|Tata Power Co. Ltd.|Promoters|Tata Industries Limited|31-12-2019|0.160000
+248165|Tata Power Co. Ltd.|Promoters|Tata Industries Limited|31-03-2020|0.160000
+248165|Tata Power Co. Ltd.|Promoters|Tata Investment Corporation Ltd|30-06-2019|0.250000
+248165|Tata Power Co. Ltd.|Promoters|Tata Investment Corporation Ltd|30-09-2019|0.250000
+248165|Tata Power Co. Ltd.|Promoters|Tata Investment Corporation Ltd|31-12-2019|0.250000
+248165|Tata Power Co. Ltd.|Promoters|Tata Investment Corporation Ltd|31-03-2020|0.250000
+248165|Tata Power Co. Ltd.|Promoters|Tata Motors Finance Limited|30-06-2019|0.000000
+248165|Tata Power Co. Ltd.|Promoters|Tata Motors Finance Limited|30-09-2019|0.000000
+248165|Tata Power Co. Ltd.|Promoters|Tata Motors Finance Limited|31-12-2019|0.000000
+248165|Tata Power Co. Ltd.|Promoters|Tata Motors Finance Limited|31-03-2020|0.000000
+248165|Tata Power Co. Ltd.|Promoters|Tata Sons Private Limited|30-06-2019|31.040001
+248165|Tata Power Co. Ltd.|Promoters|Tata Sons Private Limited|30-09-2019|34.259998
+248165|Tata Power Co. Ltd.|Promoters|Tata Sons Private Limited|31-12-2019|34.259998
+248165|Tata Power Co. Ltd.|Promoters|Tata Sons Private Limited|31-03-2020|35.259998
+248165|Tata Power Co. Ltd.|Promoters|Tata Steel Limited|30-06-2019|1.440000
+248165|Tata Power Co. Ltd.|Promoters|Tata Steel Limited|30-09-2019|1.440000
+248165|Tata Power Co. Ltd.|Promoters|Tata Steel Limited|31-12-2019|1.440000
+248165|Tata Power Co. Ltd.|Promoters|Tata Steel Limited|31-03-2020|1.440000
+35222|Tata Steel B S L Ltd. [Merged]|Locked-In Shares|Bamnipal Steel Limited|30-06-2019|100.000000
+35222|Tata Steel B S L Ltd. [Merged]|Locked-In Shares|Bamnipal Steel Limited|30-09-2019|100.000000
+35222|Tata Steel B S L Ltd. [Merged]|Locked-In Shares|Bamnipal Steel Limited|31-12-2019|100.000000
+35222|Tata Steel B S L Ltd. [Merged]|Locked-In Shares|Bamnipal Steel Limited|31-03-2020|100.000000
+35222|Tata Steel B S L Ltd. [Merged]|Locked-In Shares|Foreign Nationals|30-06-2019|6.340000
+35222|Tata Steel B S L Ltd. [Merged]|Locked-In Shares|Foreign Nationals|30-09-2019|7.440000
+35222|Tata Steel B S L Ltd. [Merged]|Locked-In Shares|Foreign Nationals|31-12-2019|7.080000
+35222|Tata Steel B S L Ltd. [Merged]|Locked-In Shares|Foreign Nationals|31-03-2020|7.480000
+35222|Tata Steel B S L Ltd. [Merged]|Locked-In Shares|State Bank Of India|30-06-2019|57.189999
+35222|Tata Steel B S L Ltd. [Merged]|Locked-In Shares|State Bank Of India|30-09-2019|57.189999
+35222|Tata Steel B S L Ltd. [Merged]|Locked-In Shares|State Bank Of India|31-12-2019|57.189999
+35222|Tata Steel B S L Ltd. [Merged]|Locked-In Shares|State Bank Of India|31-03-2020|57.189999
+35222|Tata Steel B S L Ltd. [Merged]|Locked-In Shares|Trusts|30-06-2019|0.020000
+35222|Tata Steel B S L Ltd. [Merged]|Locked-In Shares|Trusts|30-09-2019|0.020000
+35222|Tata Steel B S L Ltd. [Merged]|Locked-In Shares|Trusts|31-12-2019|0.020000
+35222|Tata Steel B S L Ltd. [Merged]|Locked-In Shares|Trusts|31-03-2020|0.020000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|Bhushan Infrastructure Private Limited|30-06-2019|1.100000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|Bhushan Infrastructure Private Limited|30-09-2019|1.100000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|Bhushan Infrastructure Private Limited|31-12-2019|1.100000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|Bhushan Infrastructure Private Limited|31-03-2020|1.100000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|Clearing Members|30-06-2019|0.240000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|Clearing Members|30-09-2019|0.050000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|Clearing Members|31-12-2019|0.080000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|Clearing Members|31-03-2020|0.090000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|Foreign Nationals|30-06-2019|0.290000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|Foreign Nationals|30-09-2019|0.320000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|Foreign Nationals|31-12-2019|0.320000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|Foreign Nationals|31-03-2020|0.320000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|Iepf|30-06-2019|0.010000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|Iepf|30-09-2019|0.010000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|Iepf|31-12-2019|0.020000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|Iepf|31-03-2020|0.020000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|Neeraj Singal|30-06-2019|1.770000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|Neeraj Singal|30-09-2019|1.770000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|Neeraj Singal|31-12-2019|1.770000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|Neeraj Singal|31-03-2020|1.770000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|Non-Resident Indian (Nri)|30-06-2019|0.350000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|Non-Resident Indian (Nri)|30-09-2019|0.360000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|Non-Resident Indian (Nri)|31-12-2019|0.340000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|Non-Resident Indian (Nri)|31-03-2020|0.300000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|State Bank Of India|30-06-2019|2.660000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|State Bank Of India|30-09-2019|2.660000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|State Bank Of India|31-12-2019|2.660000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|State Bank Of India|31-03-2020|2.660000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|Trusts|30-06-2019|0.010000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|Trusts|30-09-2019|0.010000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|Trusts|31-12-2019|0.010000
+35222|Tata Steel B S L Ltd. [Merged]|Non-Promoters|Trusts|31-03-2020|0.010000
+35222|Tata Steel B S L Ltd. [Merged]|Promoters|Bamnipal Steel Limited|30-06-2019|72.650002
+35222|Tata Steel B S L Ltd. [Merged]|Promoters|Bamnipal Steel Limited|30-09-2019|72.650002
+35222|Tata Steel B S L Ltd. [Merged]|Promoters|Bamnipal Steel Limited|31-12-2019|72.650002
+35222|Tata Steel B S L Ltd. [Merged]|Promoters|Bamnipal Steel Limited|31-03-2020|72.650002
+248179|Tata Steel Long Products Ltd.|Non-Promoters|(I)Reliance Capital Trustee Co Ltd-A/C Nippon India Small Cap Fund|31-12-2019|4.810000
+248179|Tata Steel Long Products Ltd.|Non-Promoters|Clearing Members|30-06-2019|1.430000
+248179|Tata Steel Long Products Ltd.|Non-Promoters|Clearing Members|30-09-2019|0.870000
+248179|Tata Steel Long Products Ltd.|Non-Promoters|Clearing Members|31-12-2019|0.820000
+248179|Tata Steel Long Products Ltd.|Non-Promoters|Clearing Members|31-03-2020|0.770000
+248179|Tata Steel Long Products Ltd.|Non-Promoters|Huf|30-06-2019|1.300000
+248179|Tata Steel Long Products Ltd.|Non-Promoters|Huf|30-09-2019|0.690000
+248179|Tata Steel Long Products Ltd.|Non-Promoters|Huf|31-12-2019|0.720000
+248179|Tata Steel Long Products Ltd.|Non-Promoters|Huf|31-03-2020|0.740000
+248179|Tata Steel Long Products Ltd.|Non-Promoters|Iepf|30-06-2019|1.120000
+248179|Tata Steel Long Products Ltd.|Non-Promoters|Iepf|30-09-2019|0.380000
+248179|Tata Steel Long Products Ltd.|Non-Promoters|Iepf|31-12-2019|0.430000
+248179|Tata Steel Long Products Ltd.|Non-Promoters|Iepf|31-03-2020|0.430000
+248179|Tata Steel Long Products Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-06-2019|1.160000
+248179|Tata Steel Long Products Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-09-2019|0.590000
+248179|Tata Steel Long Products Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-12-2019|0.600000
+248179|Tata Steel Long Products Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-03-2020|0.600000
+248179|Tata Steel Long Products Ltd.|Non-Promoters|Reliance Capital Trustee Co Ltd-A/C Nippon India Small Cap Fund|31-03-2020|5.050000
+248179|Tata Steel Long Products Ltd.|Non-Promoters|Reliance Capital Trustee Co. Ltd-A/C Reliancesmall Cap Fund|30-06-2019|1.650000
+248179|Tata Steel Long Products Ltd.|Non-Promoters|Reliance Capital Trustee Co. Ltd-A/C Reliancesmall Cap Fund|30-09-2019|4.650000
+248179|Tata Steel Long Products Ltd.|Non-Promoters|Trusts|30-06-2019|0.020000
+248179|Tata Steel Long Products Ltd.|Non-Promoters|Trusts|30-09-2019|0.000000
+248179|Tata Steel Long Products Ltd.|Non-Promoters|Trusts|31-12-2019|0.000000
+248179|Tata Steel Long Products Ltd.|Non-Promoters|Trusts|31-03-2020|0.000000
+248179|Tata Steel Long Products Ltd.|Promoters|Tata Steel Limited|30-06-2019|54.500000
+248179|Tata Steel Long Products Ltd.|Promoters|Tata Steel Limited|30-09-2019|75.910004
+248179|Tata Steel Long Products Ltd.|Promoters|Tata Steel Limited|31-12-2019|75.910004
+248179|Tata Steel Long Products Ltd.|Promoters|Tata Steel Limited|31-03-2020|75.910004
+248136|Tata Steel Ltd.|Non-Promoters|Abu Dhabi Investment Authority|31-12-2019|1.170000
+248136|Tata Steel Ltd.|Non-Promoters|Citibank N.A. New York, Nyadr Dept|30-06-2019|1.110000
+248136|Tata Steel Ltd.|Non-Promoters|Citibank N.A. New York, Nyadr Dept|31-12-2019|1.040000
+248136|Tata Steel Ltd.|Non-Promoters|Citibank N.A. New York, Nyadr Dept|31-03-2020|1.040000
+248136|Tata Steel Ltd.|Non-Promoters|Clearing Members|30-06-2019|0.700000
+248136|Tata Steel Ltd.|Non-Promoters|Clearing Members|30-09-2019|0.620000
+248136|Tata Steel Ltd.|Non-Promoters|Clearing Members|31-12-2019|0.520000
+248136|Tata Steel Ltd.|Non-Promoters|Clearing Members|31-03-2020|0.960000
+248136|Tata Steel Ltd.|Non-Promoters|Director Or Director'S Relatives|30-06-2019|0.000000
+248136|Tata Steel Ltd.|Non-Promoters|Director Or Director'S Relatives|30-09-2019|0.000000
+248136|Tata Steel Ltd.|Non-Promoters|Director Or Director'S Relatives|31-12-2019|0.000000
+248136|Tata Steel Ltd.|Non-Promoters|Director Or Director'S Relatives|31-03-2020|0.010000
+248136|Tata Steel Ltd.|Non-Promoters|Foreign National|30-06-2019|0.000000
+248136|Tata Steel Ltd.|Non-Promoters|Foreign National|30-09-2019|0.000000
+248136|Tata Steel Ltd.|Non-Promoters|Foreign Nationals|31-12-2019|0.000000
+248136|Tata Steel Ltd.|Non-Promoters|Foreign Nationals|31-03-2020|0.000000
+248136|Tata Steel Ltd.|Non-Promoters|Hdfc Trustee Company Limited|30-06-2019|4.200000
+248136|Tata Steel Ltd.|Non-Promoters|Hdfc Trustee Company Limited|30-09-2019|4.580000
+248136|Tata Steel Ltd.|Non-Promoters|Hdfc Trustee Company Limited|31-12-2019|5.040000
+248136|Tata Steel Ltd.|Non-Promoters|Hdfc Trustee Company Limited|31-03-2020|5.000000
+248136|Tata Steel Ltd.|Non-Promoters|Huf|30-06-2019|0.570000
+248136|Tata Steel Ltd.|Non-Promoters|Huf|30-09-2019|0.590000
+248136|Tata Steel Ltd.|Non-Promoters|Huf|31-12-2019|0.600000
+248136|Tata Steel Ltd.|Non-Promoters|Huf|31-03-2020|0.630000
+248136|Tata Steel Ltd.|Non-Promoters|Icici Prudential Life Insurance Co Ltd|30-06-2019|2.070000
+248136|Tata Steel Ltd.|Non-Promoters|Icici Prudential Life Insurance Co Ltd|30-09-2019|2.070000
+248136|Tata Steel Ltd.|Non-Promoters|Icici Prudential Life Insurance Co Ltd|31-12-2019|1.690000
+248136|Tata Steel Ltd.|Non-Promoters|Icici Prudential Life Insurance Co Ltd|31-03-2020|1.490000
+248136|Tata Steel Ltd.|Non-Promoters|Icici Prudential Mutual Funds|30-06-2019|1.460000
+248136|Tata Steel Ltd.|Non-Promoters|Icici Prudential Mutual Funds|30-09-2019|1.250000
+248136|Tata Steel Ltd.|Non-Promoters|Icici Prudential Value Discovery Fund|31-03-2020|2.120000
+248136|Tata Steel Ltd.|Non-Promoters|Iepf|30-06-2019|0.270000
+248136|Tata Steel Ltd.|Non-Promoters|Iepf|30-09-2019|0.270000
+248136|Tata Steel Ltd.|Non-Promoters|Iepf|31-12-2019|0.320000
+248136|Tata Steel Ltd.|Non-Promoters|Iepf|31-03-2020|0.320000
+248136|Tata Steel Ltd.|Non-Promoters|Life Insurance Corporation Of India|30-06-2019|9.000000
+248136|Tata Steel Ltd.|Non-Promoters|Life Insurance Corporation Of India|30-09-2019|9.000000
+248136|Tata Steel Ltd.|Non-Promoters|Life Insurance Corporation Of India|31-12-2019|8.420000
+248136|Tata Steel Ltd.|Non-Promoters|Life Insurance Corporation Of India|31-03-2020|9.110000
+248136|Tata Steel Ltd.|Non-Promoters|Llp|30-09-2019|0.300000
+248136|Tata Steel Ltd.|Non-Promoters|Mirae Asset Various Mutual Funds|30-06-2019|1.060000
+248136|Tata Steel Ltd.|Non-Promoters|Mirae Asset Various Mutual Funds|30-09-2019|1.140000
+248136|Tata Steel Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-06-2019|0.570000
+248136|Tata Steel Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-09-2019|0.580000
+248136|Tata Steel Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-12-2019|0.560000
+248136|Tata Steel Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-03-2020|0.570000
+248136|Tata Steel Ltd.|Non-Promoters|Reliance Capital Trustee Co Limited|30-06-2019|3.490000
+248136|Tata Steel Ltd.|Non-Promoters|Reliance Capital Trustee Co Limited|30-09-2019|3.440000
+248136|Tata Steel Ltd.|Non-Promoters|Reliance Capital Trustee Co Ltd|31-12-2019|3.240000
+248136|Tata Steel Ltd.|Non-Promoters|Reliance Capital Trustee Co Ltd|31-03-2020|1.890000
+248136|Tata Steel Ltd.|Non-Promoters|Sbi - Various Mutual Funds|30-09-2019|1.340000
+248136|Tata Steel Ltd.|Non-Promoters|Sbi - Various Mutual Funds|31-12-2019|1.380000
+248136|Tata Steel Ltd.|Non-Promoters|Sbi - Various Mutual Funds|31-03-2020|1.560000
+248136|Tata Steel Ltd.|Non-Promoters|Sbi- Various Mutual Funds|30-06-2019|1.190000
+248136|Tata Steel Ltd.|Non-Promoters|Trusts|30-06-2019|1.220000
+248136|Tata Steel Ltd.|Non-Promoters|Trusts|30-09-2019|1.220000
+248136|Tata Steel Ltd.|Non-Promoters|Trusts|31-12-2019|1.270000
+248136|Tata Steel Ltd.|Non-Promoters|Trusts|31-03-2020|1.320000
+248136|Tata Steel Ltd.|Promoters|Ewart Investments Limited|30-06-2019|0.180000
+248136|Tata Steel Ltd.|Promoters|Ewart Investments Limited|30-09-2019|0.180000
+248136|Tata Steel Ltd.|Promoters|Ewart Investments Limited|31-12-2019|0.180000
+248136|Tata Steel Ltd.|Promoters|Ewart Investments Limited|31-03-2020|0.180000
+248136|Tata Steel Ltd.|Promoters|Rujuvalika Investments Limited|30-06-2019|0.090000
+248136|Tata Steel Ltd.|Promoters|Rujuvalika Investments Limited|30-09-2019|0.090000
+248136|Tata Steel Ltd.|Promoters|Rujuvalika Investments Limited|31-12-2019|0.090000
+248136|Tata Steel Ltd.|Promoters|Rujuvalika Investments Limited|31-03-2020|0.090000
+248136|Tata Steel Ltd.|Promoters|Tata Capital Limited|31-12-2019|0.000000
+248136|Tata Steel Ltd.|Promoters|Tata Capital Ltd|30-06-2019|0.000000
+248136|Tata Steel Ltd.|Promoters|Tata Capital Ltd|30-09-2019|0.000000
+248136|Tata Steel Ltd.|Promoters|Tata Capital Ltd|31-03-2020|0.000000
+248136|Tata Steel Ltd.|Promoters|Tata Chemicals Limited|30-06-2019|0.250000
+248136|Tata Steel Ltd.|Promoters|Tata Chemicals Limited|31-12-2019|0.250000
+248136|Tata Steel Ltd.|Promoters|Tata Chemicals Ltd|30-09-2019|0.250000
+248136|Tata Steel Ltd.|Promoters|Tata Chemicals Ltd|31-03-2020|0.250000
+248136|Tata Steel Ltd.|Promoters|Tata Industries Limited|30-06-2019|0.080000
+248136|Tata Steel Ltd.|Promoters|Tata Industries Limited|30-09-2019|0.080000
+248136|Tata Steel Ltd.|Promoters|Tata Industries Limited|31-12-2019|0.080000
+248136|Tata Steel Ltd.|Promoters|Tata Industries Limited|31-03-2020|0.080000
+248136|Tata Steel Ltd.|Promoters|Tata Investment Corporation Limited|30-06-2019|0.340000
+248136|Tata Steel Ltd.|Promoters|Tata Investment Corporation Limited|30-09-2019|0.340000
+248136|Tata Steel Ltd.|Promoters|Tata Investment Corporation Limited|31-12-2019|0.340000
+248136|Tata Steel Ltd.|Promoters|Tata Investment Corporation Limited|31-03-2020|0.340000
+248136|Tata Steel Ltd.|Promoters|Tata Motors Finance Limited|30-06-2019|0.050000
+248136|Tata Steel Ltd.|Promoters|Tata Motors Finance Limited|30-09-2019|0.050000
+248136|Tata Steel Ltd.|Promoters|Tata Motors Finance Limited|31-12-2019|0.050000
+248136|Tata Steel Ltd.|Promoters|Tata Motors Finance Limited|31-03-2020|0.050000
+248136|Tata Steel Ltd.|Promoters|Tata Motors Limited|30-06-2019|0.450000
+248136|Tata Steel Ltd.|Promoters|Tata Motors Limited|30-09-2019|0.450000
+248136|Tata Steel Ltd.|Promoters|Tata Motors Limited|31-12-2019|0.450000
+248136|Tata Steel Ltd.|Promoters|Tata Motors Limited|31-03-2020|0.450000
+248136|Tata Steel Ltd.|Promoters|Tata Sons Limited|31-12-2019|31.629999
+248136|Tata Steel Ltd.|Promoters|Tata Sons Private Limited|30-06-2019|31.629999
+248136|Tata Steel Ltd.|Promoters|Tata Sons Private Limited|30-09-2019|31.629999
+248136|Tata Steel Ltd.|Promoters|Tata Sons Private Limited|31-03-2020|32.919998
+248136|Tata Steel Ltd.|Promoters|Titan Company Limited|30-06-2019|0.000000
+248136|Tata Steel Ltd.|Promoters|Titan Company Limited|30-09-2019|0.000000
+248136|Tata Steel Ltd.|Promoters|Titan Company Limited|31-12-2019|0.000000
+248136|Tata Steel Ltd.|Promoters|Titan Company Limited|31-03-2020|0.000000
+95745|Tata Teleservices (Maharashtra) Ltd.|Non-Promoters|Clearing Member|30-06-2019|0.610000
+95745|Tata Teleservices (Maharashtra) Ltd.|Non-Promoters|Clearing Member|30-09-2019|0.230000
+95745|Tata Teleservices (Maharashtra) Ltd.|Non-Promoters|Clearing Member|31-12-2019|0.190000
+95745|Tata Teleservices (Maharashtra) Ltd.|Non-Promoters|Clearing Member|31-03-2020|0.170000
+95745|Tata Teleservices (Maharashtra) Ltd.|Non-Promoters|Huf|30-06-2019|0.930000
+95745|Tata Teleservices (Maharashtra) Ltd.|Non-Promoters|Huf|30-09-2019|0.900000
+95745|Tata Teleservices (Maharashtra) Ltd.|Non-Promoters|Huf|31-12-2019|0.890000
+95745|Tata Teleservices (Maharashtra) Ltd.|Non-Promoters|Huf|31-03-2020|0.870000
+95745|Tata Teleservices (Maharashtra) Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-06-2019|0.690000
+95745|Tata Teleservices (Maharashtra) Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-09-2019|0.800000
+95745|Tata Teleservices (Maharashtra) Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-12-2019|0.820000
+95745|Tata Teleservices (Maharashtra) Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-03-2020|0.830000
+95745|Tata Teleservices (Maharashtra) Ltd.|Non-Promoters|Trusts|30-06-2019|0.000000
+95745|Tata Teleservices (Maharashtra) Ltd.|Non-Promoters|Trusts|30-09-2019|0.000000
+95745|Tata Teleservices (Maharashtra) Ltd.|Non-Promoters|Trusts|31-12-2019|0.000000
+95745|Tata Teleservices (Maharashtra) Ltd.|Non-Promoters|Trusts|31-03-2020|0.000000
+95745|Tata Teleservices (Maharashtra) Ltd.|Promoters|Panatone Finvest Limited|30-06-2019|0.000000
+95745|Tata Teleservices (Maharashtra) Ltd.|Promoters|Panatone Finvest Limited|30-09-2019|0.000000
+95745|Tata Teleservices (Maharashtra) Ltd.|Promoters|Panatone Finvest Limited|31-12-2019|0.000000
+95745|Tata Teleservices (Maharashtra) Ltd.|Promoters|Panatone Finvest Limited|31-03-2020|0.000000
+95745|Tata Teleservices (Maharashtra) Ltd.|Promoters|Tata Sons Private Limited|30-06-2019|19.570000
+95745|Tata Teleservices (Maharashtra) Ltd.|Promoters|Tata Sons Private Limited|30-09-2019|19.570000
+95745|Tata Teleservices (Maharashtra) Ltd.|Promoters|Tata Sons Private Limited|31-12-2019|19.570000
+95745|Tata Teleservices (Maharashtra) Ltd.|Promoters|Tata Sons Private Limited|31-03-2020|19.570000
+95745|Tata Teleservices (Maharashtra) Ltd.|Promoters|Tata Teleservices Limited|30-06-2019|48.290001
+95745|Tata Teleservices (Maharashtra) Ltd.|Promoters|Tata Teleservices Limited|30-09-2019|48.290001
+95745|Tata Teleservices (Maharashtra) Ltd.|Promoters|Tata Teleservices Limited|31-12-2019|48.290001
+95745|Tata Teleservices (Maharashtra) Ltd.|Promoters|Tata Teleservices Limited|31-03-2020|48.290001
+95745|Tata Teleservices (Maharashtra) Ltd.|Promoters|The Tata Power Company Limited|30-06-2019|6.480000
+95745|Tata Teleservices (Maharashtra) Ltd.|Promoters|The Tata Power Company Limited|30-09-2019|6.480000
+95745|Tata Teleservices (Maharashtra) Ltd.|Promoters|The Tata Power Company Limited|31-12-2019|6.480000
+95745|Tata Teleservices (Maharashtra) Ltd.|Promoters|The Tata Power Company Limited|31-03-2020|6.480000
+248209|Tayo Rolls Ltd.|Non-Promoters|Clearing Members|30-06-2019|0.570000
+248209|Tayo Rolls Ltd.|Non-Promoters|Clearing Members|30-09-2019|0.250000
+248209|Tayo Rolls Ltd.|Non-Promoters|Clearing Members|31-12-2019|0.280000
+248209|Tayo Rolls Ltd.|Non-Promoters|Huf|30-06-2019|1.820000
+248209|Tayo Rolls Ltd.|Non-Promoters|Huf|30-09-2019|1.850000
+248209|Tayo Rolls Ltd.|Non-Promoters|Huf|31-12-2019|1.820000
+248209|Tayo Rolls Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-06-2019|0.580000
+248209|Tayo Rolls Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-09-2019|0.580000
+248209|Tayo Rolls Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-12-2019|0.590000
+248209|Tayo Rolls Ltd.|Non-Promoters|Trusts|30-06-2019|0.000000
+248209|Tayo Rolls Ltd.|Non-Promoters|Trusts|30-09-2019|0.000000
+248209|Tayo Rolls Ltd.|Non-Promoters|Trusts|31-12-2019|0.000000
+248209|Tayo Rolls Ltd.|Promoters|Ewart Investments Limited|30-06-2019|0.290000
+248209|Tayo Rolls Ltd.|Promoters|Ewart Investments Limited|30-09-2019|0.290000
+248209|Tayo Rolls Ltd.|Promoters|Ewart Investments Limited|31-12-2019|0.290000
+248209|Tayo Rolls Ltd.|Promoters|Ewart Investments Limited|31-03-2020|0.290000
+248209|Tayo Rolls Ltd.|Promoters|Rujuvalika Investments Limited|30-06-2019|0.450000
+248209|Tayo Rolls Ltd.|Promoters|Rujuvalika Investments Limited|30-09-2019|0.450000
+248209|Tayo Rolls Ltd.|Promoters|Rujuvalika Investments Limited|31-12-2019|0.450000
+248209|Tayo Rolls Ltd.|Promoters|Rujuvalika Investments Limited|31-03-2020|0.450000
+248209|Tayo Rolls Ltd.|Promoters|Sojitz Corporation|30-06-2019|2.990000
+248209|Tayo Rolls Ltd.|Promoters|Sojitz Corporation|30-09-2019|2.990000
+248209|Tayo Rolls Ltd.|Promoters|Sojitz Corporation|31-12-2019|2.990000
+248209|Tayo Rolls Ltd.|Promoters|Sojitz Corporation|31-03-2020|2.990000
+248209|Tayo Rolls Ltd.|Promoters|Tata Industries Limited|30-06-2019|0.030000
+248209|Tayo Rolls Ltd.|Promoters|Tata Industries Limited|30-09-2019|0.030000
+248209|Tayo Rolls Ltd.|Promoters|Tata Industries Limited|31-12-2019|0.030000
+248209|Tayo Rolls Ltd.|Promoters|Tata Industries Limited|31-03-2020|0.030000
+248209|Tayo Rolls Ltd.|Promoters|Tata Steel Limited|30-06-2019|54.450001
+248209|Tayo Rolls Ltd.|Promoters|Tata Steel Limited|30-09-2019|54.450001
+248209|Tayo Rolls Ltd.|Promoters|Tata Steel Limited|31-12-2019|54.450001
+248209|Tayo Rolls Ltd.|Promoters|Tata Steel Limited|31-03-2020|54.450001
+248209|Tayo Rolls Ltd.|Promoters|Yodogawa Steel Works Limited|30-06-2019|14.970000
+248209|Tayo Rolls Ltd.|Promoters|Yodogawa Steel Works Limited|30-09-2019|14.970000
+248209|Tayo Rolls Ltd.|Promoters|Yodogawa Steel Works Limited|31-12-2019|14.970000
+248209|Tayo Rolls Ltd.|Promoters|Yodogawa Steel Works Limited|31-03-2020|14.970000
+251255|Tinplate Co. Of India Ltd.|Non-Promoters|Clearing Member|30-06-2019|1.130000
+251255|Tinplate Co. Of India Ltd.|Non-Promoters|Clearing Member|30-09-2019|1.040000
+251255|Tinplate Co. Of India Ltd.|Non-Promoters|Clearing Member|31-12-2019|0.900000
+251255|Tinplate Co. Of India Ltd.|Non-Promoters|Clearing Member|31-03-2020|0.800000
+251255|Tinplate Co. Of India Ltd.|Non-Promoters|Director Or Director'S Relatives|30-06-2019|0.000000
+251255|Tinplate Co. Of India Ltd.|Non-Promoters|Director Or Director'S Relatives|30-09-2019|0.000000
+251255|Tinplate Co. Of India Ltd.|Non-Promoters|Director Or Director'S Relatives|31-12-2019|0.000000
+251255|Tinplate Co. Of India Ltd.|Non-Promoters|Director Or Director'S Relatives|31-03-2020|0.000000
+251255|Tinplate Co. Of India Ltd.|Non-Promoters|Huf|30-06-2019|0.830000
+251255|Tinplate Co. Of India Ltd.|Non-Promoters|Huf|30-09-2019|0.810000
+251255|Tinplate Co. Of India Ltd.|Non-Promoters|Huf|31-12-2019|0.760000
+251255|Tinplate Co. Of India Ltd.|Non-Promoters|Huf|31-03-2020|0.780000
+251255|Tinplate Co. Of India Ltd.|Non-Promoters|Iepf|30-06-2019|0.370000
+251255|Tinplate Co. Of India Ltd.|Non-Promoters|Iepf|30-09-2019|0.370000
+251255|Tinplate Co. Of India Ltd.|Non-Promoters|Iepf|31-12-2019|0.420000
+251255|Tinplate Co. Of India Ltd.|Non-Promoters|Iepf|31-03-2020|0.420000
+251255|Tinplate Co. Of India Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-06-2019|0.370000
+251255|Tinplate Co. Of India Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-09-2019|0.330000
+251255|Tinplate Co. Of India Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-12-2019|0.310000
+251255|Tinplate Co. Of India Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-03-2020|0.310000
+251255|Tinplate Co. Of India Ltd.|Non-Promoters|Patton Developers Private Limited|30-06-2019|1.240000
+251255|Tinplate Co. Of India Ltd.|Non-Promoters|Patton Developers Private Limited|30-09-2019|1.240000
+251255|Tinplate Co. Of India Ltd.|Non-Promoters|Patton Developers Private Limited|31-12-2019|1.240000
+251255|Tinplate Co. Of India Ltd.|Non-Promoters|Patton Developers Private Limited|31-03-2020|1.240000
+251255|Tinplate Co. Of India Ltd.|Non-Promoters|Trusts|30-06-2019|0.000000
+251255|Tinplate Co. Of India Ltd.|Non-Promoters|Trusts|30-09-2019|0.000000
+251255|Tinplate Co. Of India Ltd.|Non-Promoters|Trusts|31-12-2019|0.000000
+251255|Tinplate Co. Of India Ltd.|Non-Promoters|Trusts|31-03-2020|0.000000
+251255|Tinplate Co. Of India Ltd.|Promoters|Tata Steel Limited|30-06-2019|74.949997
+251255|Tinplate Co. Of India Ltd.|Promoters|Tata Steel Limited|30-09-2019|74.949997
+251255|Tinplate Co. Of India Ltd.|Promoters|Tata Steel Limited|31-12-2019|74.949997
+251255|Tinplate Co. Of India Ltd.|Promoters|Tata Steel Limited|31-03-2020|74.949997
+251664|Titan Company Ltd.|Non-Promoters|Clearing Members|30-06-2019|0.210000
+251664|Titan Company Ltd.|Non-Promoters|Clearing Members|30-09-2019|0.440000
+251664|Titan Company Ltd.|Non-Promoters|Clearing Members|31-12-2019|0.240000
+251664|Titan Company Ltd.|Non-Promoters|Clearing Members|31-03-2020|0.310000
+251664|Titan Company Ltd.|Non-Promoters|Director Or Director'S Relatives|30-06-2019|0.100000
+251664|Titan Company Ltd.|Non-Promoters|Director Or Director'S Relatives|30-09-2019|0.100000
+251664|Titan Company Ltd.|Non-Promoters|Director Or Director'S Relatives|31-12-2019|0.030000
+251664|Titan Company Ltd.|Non-Promoters|Director Or Director'S Relatives|31-03-2020|0.030000
+251664|Titan Company Ltd.|Non-Promoters|Huf|30-06-2019|0.120000
+251664|Titan Company Ltd.|Non-Promoters|Huf|30-09-2019|0.120000
+251664|Titan Company Ltd.|Non-Promoters|Huf|31-12-2019|0.120000
+251664|Titan Company Ltd.|Non-Promoters|Huf|31-03-2020|0.120000
+251664|Titan Company Ltd.|Non-Promoters|Iepf|30-06-2019|0.360000
+251664|Titan Company Ltd.|Non-Promoters|Iepf|30-09-2019|0.360000
+251664|Titan Company Ltd.|Non-Promoters|Iepf|31-12-2019|0.390000
+251664|Titan Company Ltd.|Non-Promoters|Iepf|31-03-2020|0.390000
+251664|Titan Company Ltd.|Non-Promoters|Jhunjhunwala Rakesh Radheshyam|30-06-2019|5.750000
+251664|Titan Company Ltd.|Non-Promoters|Jhunjhunwala Rakesh Radheshyam|30-09-2019|5.100000
+251664|Titan Company Ltd.|Non-Promoters|Jhunjhunwala Rakesh Radheshyam|31-12-2019|5.270000
+251664|Titan Company Ltd.|Non-Promoters|Jhunjhunwala Rakesh Radheshyam|31-03-2020|4.430000
+251664|Titan Company Ltd.|Non-Promoters|Jhunjhunwala Rekha Rakesh|30-06-2019|1.300000
+251664|Titan Company Ltd.|Non-Promoters|Jhunjhunwala Rekha Rakesh|30-09-2019|1.410000
+251664|Titan Company Ltd.|Non-Promoters|Jhunjhunwala Rekha Rakesh|31-12-2019|1.420000
+251664|Titan Company Ltd.|Non-Promoters|Jhunjhunwala Rekha Rakesh|31-03-2020|1.100000
+251664|Titan Company Ltd.|Non-Promoters|Lic Of India|30-09-2019|1.080000
+251664|Titan Company Ltd.|Non-Promoters|Lic Of India|31-12-2019|1.640000
+251664|Titan Company Ltd.|Non-Promoters|Lic Of India|31-03-2020|2.270000
+251664|Titan Company Ltd.|Non-Promoters|Matthews Pacific Tiger Fund|30-06-2019|1.010000
+251664|Titan Company Ltd.|Non-Promoters|Matthews Pacific Tiger Fund|30-09-2019|1.010000
+251664|Titan Company Ltd.|Non-Promoters|Matthews Pacific Tiger Fund|31-12-2019|1.010000
+251664|Titan Company Ltd.|Non-Promoters|Matthews Pacific Tiger Fund|31-03-2020|1.010000
+251664|Titan Company Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-06-2019|0.630000
+251664|Titan Company Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-09-2019|0.650000
+251664|Titan Company Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-12-2019|0.650000
+251664|Titan Company Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-03-2020|0.670000
+251664|Titan Company Ltd.|Non-Promoters|Sbi - Etf Quality|31-03-2020|1.090000
+251664|Titan Company Ltd.|Non-Promoters|Trusts|30-06-2019|0.060000
+251664|Titan Company Ltd.|Non-Promoters|Trusts|30-09-2019|0.080000
+251664|Titan Company Ltd.|Non-Promoters|Trusts|31-12-2019|0.080000
+251664|Titan Company Ltd.|Non-Promoters|Trusts|31-03-2020|0.190000
+251664|Titan Company Ltd.|Promoters|Ewart Investments Limited|30-06-2019|0.550000
+251664|Titan Company Ltd.|Promoters|Ewart Investments Limited|30-09-2019|0.550000
+251664|Titan Company Ltd.|Promoters|Ewart Investments Limited|31-12-2019|0.550000
+251664|Titan Company Ltd.|Promoters|Ewart Investments Limited|31-03-2020|0.550000
+251664|Titan Company Ltd.|Promoters|Piem Hotels Limited|30-06-2019|0.050000
+251664|Titan Company Ltd.|Promoters|Piem Hotels Limited|30-09-2019|0.050000
+251664|Titan Company Ltd.|Promoters|Piem Hotels Limited|31-12-2019|0.050000
+251664|Titan Company Ltd.|Promoters|Piem Hotels Limited|31-03-2020|0.050000
+251664|Titan Company Ltd.|Promoters|Tamilnadu Industrial Development Corporation Limited|31-12-2019|27.879999
+251664|Titan Company Ltd.|Promoters|Tamilnadu Industrial Development Corporation Ltd|30-09-2019|27.879999
+251664|Titan Company Ltd.|Promoters|Tamilnadu Industrial Development Corporation Ltd|31-03-2020|27.879999
+251664|Titan Company Ltd.|Promoters|Tamilnadu Industrial Development Ncorporation Ltd|30-06-2019|27.879999
+251664|Titan Company Ltd.|Promoters|Tata Chemicals Limited|30-06-2019|1.550000
+251664|Titan Company Ltd.|Promoters|Tata Chemicals Limited|30-09-2019|1.550000
+251664|Titan Company Ltd.|Promoters|Tata Chemicals Limited|31-12-2019|1.550000
+251664|Titan Company Ltd.|Promoters|Tata Chemicals Limited|31-03-2020|1.550000
+251664|Titan Company Ltd.|Promoters|Tata Investment Corporation Limited|31-12-2019|2.010000
+251664|Titan Company Ltd.|Promoters|Tata Investment Corporation Ltd|30-06-2019|2.010000
+251664|Titan Company Ltd.|Promoters|Tata Investment Corporation Ltd|30-09-2019|2.010000
+251664|Titan Company Ltd.|Promoters|Tata Investment Corporation Ltd|31-03-2020|2.010000
+251664|Titan Company Ltd.|Promoters|Tata Sons Private Limited|30-06-2019|20.840000
+251664|Titan Company Ltd.|Promoters|Tata Sons Private Limited|30-09-2019|20.840000
+251664|Titan Company Ltd.|Promoters|Tata Sons Private Limited|31-12-2019|20.840000
+251664|Titan Company Ltd.|Promoters|Tata Sons Private Limited|31-03-2020|20.840000
+253375|Trent Ltd.|Locked-In Shares|Tata Sons Private Limited|30-06-2019|85.040001
+253375|Trent Ltd.|Locked-In Shares|Tata Sons Private Limited|30-09-2019|87.669998
+253375|Trent Ltd.|Locked-In Shares|Tata Sons Private Limited|31-12-2019|87.669998
+253375|Trent Ltd.|Locked-In Shares|Tata Sons Private Limited|31-03-2020|17.610001
+253375|Trent Ltd.|Non-Promoters|Abu Dhabi Investment Authority - Behave|30-09-2019|1.000000
+253375|Trent Ltd.|Non-Promoters|Abu Dhabi Investment Authority - Behave|31-12-2019|1.000000
+253375|Trent Ltd.|Non-Promoters|Abu Dhabi Investment Authority - Behave|31-03-2020|1.020000
+253375|Trent Ltd.|Non-Promoters|Amansa Holdings Private Limited|30-06-2019|2.630000
+253375|Trent Ltd.|Non-Promoters|Amansa Holdings Private Limited|30-09-2019|2.460000
+253375|Trent Ltd.|Non-Promoters|Amansa Holdings Private Limited|31-12-2019|2.460000
+253375|Trent Ltd.|Non-Promoters|Amansa Holdings Private Limited|31-03-2020|2.470000
+253375|Trent Ltd.|Non-Promoters|Arisaig India Fund Limited|30-06-2019|8.110000
+253375|Trent Ltd.|Non-Promoters|Arisaig India Fund Limited|30-09-2019|7.580000
+253375|Trent Ltd.|Non-Promoters|Arisaig India Fund Limited|31-12-2019|7.580000
+253375|Trent Ltd.|Non-Promoters|Arisaig India Fund Limited|31-03-2020|7.560000
+253375|Trent Ltd.|Non-Promoters|Clearing Members|30-06-2019|0.370000
+253375|Trent Ltd.|Non-Promoters|Clearing Members|30-09-2019|0.320000
+253375|Trent Ltd.|Non-Promoters|Clearing Members|31-12-2019|0.300000
+253375|Trent Ltd.|Non-Promoters|Clearing Members|31-03-2020|0.400000
+253375|Trent Ltd.|Non-Promoters|Derive Trading And Resorts Private Limited|30-06-2019|2.740000
+253375|Trent Ltd.|Non-Promoters|Derive Trading And Resorts Private Limited|30-09-2019|2.560000
+253375|Trent Ltd.|Non-Promoters|Derive Trading And Resorts Private Limited|31-12-2019|2.560000
+253375|Trent Ltd.|Non-Promoters|Derive Trading And Resorts Private Limited|31-03-2020|2.560000
+253375|Trent Ltd.|Non-Promoters|Director Or Director'S Relatives|30-06-2019|0.280000
+253375|Trent Ltd.|Non-Promoters|Director Or Director'S Relatives|30-09-2019|0.260000
+253375|Trent Ltd.|Non-Promoters|Director Or Director'S Relatives|31-12-2019|0.260000
+253375|Trent Ltd.|Non-Promoters|Director Or Director'S Relatives|31-03-2020|0.260000
+253375|Trent Ltd.|Non-Promoters|Dodona Holdings Limited|30-06-2019|5.000000
+253375|Trent Ltd.|Non-Promoters|Dodona Holdings Limited|30-09-2019|4.620000
+253375|Trent Ltd.|Non-Promoters|Dodona Holdings Limited|31-12-2019|4.520000
+253375|Trent Ltd.|Non-Promoters|Dodona Holdings Limited|31-03-2020|4.520000
+253375|Trent Ltd.|Non-Promoters|Foreign Nationals|30-06-2019|0.000000
+253375|Trent Ltd.|Non-Promoters|Foreign Nationals|30-09-2019|0.000000
+253375|Trent Ltd.|Non-Promoters|Foreign Nationals|31-12-2019|0.000000
+253375|Trent Ltd.|Non-Promoters|Foreign Nationals|31-03-2020|0.000000
+253375|Trent Ltd.|Non-Promoters|Franklin Templeton Investment Funds|30-06-2019|2.070000
+253375|Trent Ltd.|Non-Promoters|Franklin Templeton Investment Funds|30-09-2019|1.150000
+253375|Trent Ltd.|Non-Promoters|Franklin Templeton Investment Funds|31-12-2019|1.060000
+253375|Trent Ltd.|Non-Promoters|Hdfc Life Insurance Company Limited|30-06-2019|1.000000
+253375|Trent Ltd.|Non-Promoters|Hdfc Trustee Company Limited - A/C Hdfc Mid Capopportunities Fund|30-06-2019|4.270000
+253375|Trent Ltd.|Non-Promoters|Hdfc Trustee Company Limited - A/C Hdfc Mid Capopportunities Fund|30-09-2019|3.990000
+253375|Trent Ltd.|Non-Promoters|Hdfc Trustee Company Limited - A/C Hdfc Mid Capopportunities Fund|31-12-2019|4.020000
+253375|Trent Ltd.|Non-Promoters|Hdfc Trustee Company Ltd - A/C Hdfc Mid - Capopportunities Fund|31-03-2020|3.660000
+253375|Trent Ltd.|Non-Promoters|Huf|30-06-2019|0.350000
+253375|Trent Ltd.|Non-Promoters|Huf|30-09-2019|0.340000
+253375|Trent Ltd.|Non-Promoters|Huf|31-12-2019|0.340000
+253375|Trent Ltd.|Non-Promoters|Huf|31-03-2020|0.330000
+253375|Trent Ltd.|Non-Promoters|Iepf|30-06-2019|0.240000
+253375|Trent Ltd.|Non-Promoters|Iepf|30-09-2019|0.230000
+253375|Trent Ltd.|Non-Promoters|Iepf|31-12-2019|0.250000
+253375|Trent Ltd.|Non-Promoters|Iepf|31-03-2020|0.250000
+253375|Trent Ltd.|Non-Promoters|Jaguar Services Pvt Ltd|30-06-2019|1.050000
+253375|Trent Ltd.|Non-Promoters|L And T Mutual Fund Trustee Limited - L And T Conservative Hybrid Fund|31-03-2020|1.800000
+253375|Trent Ltd.|Non-Promoters|L And T Mutual Fund Trustee Ltd-L And T Conservative Hybrid Fund|30-06-2019|1.740000
+253375|Trent Ltd.|Non-Promoters|L And T Mutual Fund Trustee Ltd-L And T Conservative Hybrid Fund|30-09-2019|1.700000
+253375|Trent Ltd.|Non-Promoters|L And T Mutual Fund Trustee Ltd-L And T Conservative Hybrid Fund|31-12-2019|1.760000
+253375|Trent Ltd.|Non-Promoters|Llp|30-09-2019|0.100000
+253375|Trent Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-06-2019|0.590000
+253375|Trent Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-09-2019|0.580000
+253375|Trent Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-12-2019|0.610000
+253375|Trent Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-03-2020|0.610000
+253375|Trent Ltd.|Non-Promoters|Prazim Trading And Investment Co. Pvt. Ltd.|30-06-2019|2.740000
+253375|Trent Ltd.|Non-Promoters|Prazim Trading And Investment Co. Pvt. Ltd.|30-09-2019|2.560000
+253375|Trent Ltd.|Non-Promoters|Prazim Trading And Investment Co. Pvt. Ltd.|31-12-2019|2.560000
+253375|Trent Ltd.|Non-Promoters|Prazim Trading And Investment Co. Pvt. Ltd.|31-03-2020|2.480000
+253375|Trent Ltd.|Non-Promoters|Qib Insurance - Insurance Company Registered With Irda|31-12-2019|0.000000
+253375|Trent Ltd.|Non-Promoters|Qib Insurance - Insurance Company Registered With Irda|31-03-2020|0.170000
+253375|Trent Ltd.|Non-Promoters|Reliance Capital Trustee Co Ltd-A/C Nippon India Consumption Fund|31-03-2020|1.440000
+253375|Trent Ltd.|Non-Promoters|Reliance Capital Trustee Co. Ltd A/C Reliance Etf Nifty Midcap 150 Etf|30-06-2019|1.700000
+253375|Trent Ltd.|Non-Promoters|Reliance Capital Trustee Co. Ltd A/C Reliance Etf Nifty Midcap 150 Etf|30-09-2019|1.540000
+253375|Trent Ltd.|Non-Promoters|Reliance Capital Trustee Co. Ltd A/C Reliance Etf Nifty Midcap 150 Etf|31-12-2019|1.560000
+253375|Trent Ltd.|Non-Promoters|Sbi Life Insurance Co. Ltd|30-06-2019|1.700000
+253375|Trent Ltd.|Non-Promoters|Sbi Life Insurance Co. Ltd|30-09-2019|1.490000
+253375|Trent Ltd.|Non-Promoters|Sbi Life Insurance Co. Ltd|31-12-2019|1.480000
+253375|Trent Ltd.|Non-Promoters|Sbi Life Insurance Co. Ltd|31-03-2020|1.410000
+253375|Trent Ltd.|Non-Promoters|Sundaram Mutual Fund A/C Sundaram Balanced Advantage Fund|31-03-2020|1.830000
+253375|Trent Ltd.|Non-Promoters|Sundaram Mutual Fund A/C Sundaram Debt Oriented Hybrid Fund|30-09-2019|2.120000
+253375|Trent Ltd.|Non-Promoters|Sundaram Mutual Fund A/C Sundaram Debt Oriented Hybrid Fund|31-12-2019|1.950000
+253375|Trent Ltd.|Non-Promoters|Sundaram Mutual Fund A/C Sundaram Equity Hybrid Fund|30-06-2019|2.490000
+253375|Trent Ltd.|Non-Promoters|Trusts|30-06-2019|0.160000
+253375|Trent Ltd.|Non-Promoters|Trusts|30-09-2019|0.000000
+253375|Trent Ltd.|Non-Promoters|Trusts|31-12-2019|0.010000
+253375|Trent Ltd.|Non-Promoters|Trusts|31-03-2020|0.000000
+253375|Trent Ltd.|Promoters|Ewart Investments Limited|30-06-2019|0.300000
+253375|Trent Ltd.|Promoters|Ewart Investments Limited|30-09-2019|0.280000
+253375|Trent Ltd.|Promoters|Ewart Investments Limited|31-12-2019|0.280000
+253375|Trent Ltd.|Promoters|Ewart Investments Limited|31-03-2020|0.280000
+253375|Trent Ltd.|Promoters|Tata Investment Corporation Limited|30-06-2019|4.570000
+253375|Trent Ltd.|Promoters|Tata Investment Corporation Limited|30-09-2019|4.270000
+253375|Trent Ltd.|Promoters|Tata Investment Corporation Limited|31-12-2019|4.270000
+253375|Trent Ltd.|Promoters|Tata Investment Corporation Limited|31-03-2020|4.270000
+253375|Trent Ltd.|Promoters|Tata Sons Private Limited|30-06-2019|27.730000
+253375|Trent Ltd.|Promoters|Tata Sons Private Limited|30-09-2019|32.439999
+253375|Trent Ltd.|Promoters|Tata Sons Private Limited|31-12-2019|32.439999
+253375|Trent Ltd.|Promoters|Tata Sons Private Limited|31-03-2020|32.439999
+253375|Trent Ltd.|Promoters|Titan Company Limited|30-06-2019|0.000000
+253375|Trent Ltd.|Promoters|Titan Company Limited|30-09-2019|0.000000
+253375|Trent Ltd.|Promoters|Titan Company Limited|31-12-2019|0.000000
+253375|Trent Ltd.|Promoters|Titan Company Limited|31-03-2020|0.000000
+269920|Voltas Ltd.|Non-Promoters|Aditya Birla Sun Life Trustee Company Private Limited|30-06-2019|2.120000
+269920|Voltas Ltd.|Non-Promoters|Aditya Birla Sun Life Trustee Company Private Limited|30-09-2019|1.830000
+269920|Voltas Ltd.|Non-Promoters|Aditya Birla Sunlife Trustee Company Private Limited|31-12-2019|1.720000
+269920|Voltas Ltd.|Non-Promoters|Aditya Birla Sunlife Trustee Company Private Limited|31-03-2020|1.760000
+269920|Voltas Ltd.|Non-Promoters|Axis Mutual Fund|31-12-2019|1.090000
+269920|Voltas Ltd.|Non-Promoters|Axis Mutual Fund|31-03-2020|1.320000
+269920|Voltas Ltd.|Non-Promoters|Canara Robeco Mutual Fund|31-03-2020|1.010000
+269920|Voltas Ltd.|Non-Promoters|Clearing Members|30-06-2019|0.410000
+269920|Voltas Ltd.|Non-Promoters|Clearing Members|30-09-2019|0.510000
+269920|Voltas Ltd.|Non-Promoters|Clearing Members|31-12-2019|0.490000
+269920|Voltas Ltd.|Non-Promoters|Clearing Members|31-03-2020|0.240000
+269920|Voltas Ltd.|Non-Promoters|Director Or Director'S Relatives|30-06-2019|0.000000
+269920|Voltas Ltd.|Non-Promoters|Director Or Director'S Relatives|30-09-2019|0.000000
+269920|Voltas Ltd.|Non-Promoters|Director Or Director'S Relatives|31-12-2019|0.000000
+269920|Voltas Ltd.|Non-Promoters|Director Or Director'S Relatives|31-03-2020|0.000000
+269920|Voltas Ltd.|Non-Promoters|Dsp Blackrock Mutual Fund|30-06-2019|1.180000
+269920|Voltas Ltd.|Non-Promoters|Dsp Mutual Fund|30-09-2019|1.850000
+269920|Voltas Ltd.|Non-Promoters|Dsp Mutual Fund|31-12-2019|1.750000
+269920|Voltas Ltd.|Non-Promoters|Dsp Mutual Fund|31-03-2020|1.970000
+269920|Voltas Ltd.|Non-Promoters|Foreign Nationals|30-06-2019|0.000000
+269920|Voltas Ltd.|Non-Promoters|Foreign Nationals|30-09-2019|0.000000
+269920|Voltas Ltd.|Non-Promoters|Foreign Nationals|31-12-2019|0.000000
+269920|Voltas Ltd.|Non-Promoters|Foreign Nationals|31-03-2020|0.000000
+269920|Voltas Ltd.|Non-Promoters|Franklin Tempelton Mutual Fund|31-12-2019|2.930000
+269920|Voltas Ltd.|Non-Promoters|Franklin Tempelton Mutual Fund|31-03-2020|2.940000
+269920|Voltas Ltd.|Non-Promoters|Franklin Templeton Mutual Fund|30-06-2019|3.570000
+269920|Voltas Ltd.|Non-Promoters|Franklin Templeton Mutual Fund|30-09-2019|3.000000
+269920|Voltas Ltd.|Non-Promoters|Hdfc Life Insurance Company Limited|30-06-2019|2.070000
+269920|Voltas Ltd.|Non-Promoters|Hdfc Life Insurance Company Limited|30-09-2019|2.510000
+269920|Voltas Ltd.|Non-Promoters|Hdfc Life Insurance Company Limited|31-12-2019|2.530000
+269920|Voltas Ltd.|Non-Promoters|Hdfc Life Insurance Company Limited|31-03-2020|2.720000
+269920|Voltas Ltd.|Non-Promoters|Hdfc Mutual Fund|30-06-2019|4.830000
+269920|Voltas Ltd.|Non-Promoters|Hdfc Mutual Fund|30-09-2019|4.830000
+269920|Voltas Ltd.|Non-Promoters|Hdfc Mutual Fund|31-12-2019|3.450000
+269920|Voltas Ltd.|Non-Promoters|Hdfc Mutual Fund|31-03-2020|3.420000
+269920|Voltas Ltd.|Non-Promoters|Icici Mutual Fund|30-09-2019|1.470000
+269920|Voltas Ltd.|Non-Promoters|Icici Mutual Fund|31-12-2019|1.460000
+269920|Voltas Ltd.|Non-Promoters|Icici Mutual Fund|31-03-2020|2.150000
+269920|Voltas Ltd.|Non-Promoters|Icici Prudential Mutual Fund|30-06-2019|1.480000
+269920|Voltas Ltd.|Non-Promoters|Idfc Mutual Fund|30-06-2019|1.540000
+269920|Voltas Ltd.|Non-Promoters|Idfc Mutual Fund|30-09-2019|1.490000
+269920|Voltas Ltd.|Non-Promoters|Idfc Mutual Fund|31-12-2019|1.660000
+269920|Voltas Ltd.|Non-Promoters|Idfc Prudential Mutual Fund|31-03-2020|1.620000
+269920|Voltas Ltd.|Non-Promoters|Iepf|30-06-2019|0.540000
+269920|Voltas Ltd.|Non-Promoters|Iepf|30-09-2019|0.540000
+269920|Voltas Ltd.|Non-Promoters|Iepf|31-12-2019|0.620000
+269920|Voltas Ltd.|Non-Promoters|Iepf|31-03-2020|0.610000
+269920|Voltas Ltd.|Non-Promoters|Life Insurance Corporation Of India|30-06-2019|4.990000
+269920|Voltas Ltd.|Non-Promoters|Life Insurance Corporation Of India|30-09-2019|5.410000
+269920|Voltas Ltd.|Non-Promoters|Life Insurance Corporation Of India|31-12-2019|5.170000
+269920|Voltas Ltd.|Non-Promoters|Life Insurance Corporation Of India|31-03-2020|4.560000
+269920|Voltas Ltd.|Non-Promoters|Mirae Asset Mutual Fund|30-06-2019|2.590000
+269920|Voltas Ltd.|Non-Promoters|Mirae Asset Mutual Fund|30-09-2019|2.810000
+269920|Voltas Ltd.|Non-Promoters|Mirae Asset Mutual Fund|31-12-2019|3.590000
+269920|Voltas Ltd.|Non-Promoters|Mirae Asset Mutual Fund|31-03-2020|3.560000
+269920|Voltas Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-06-2019|0.840000
+269920|Voltas Ltd.|Non-Promoters|Non-Resident Indian (Nri)|30-09-2019|0.870000
+269920|Voltas Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-12-2019|0.880000
+269920|Voltas Ltd.|Non-Promoters|Non-Resident Indian (Nri)|31-03-2020|0.890000
+269920|Voltas Ltd.|Non-Promoters|Prazim Trading And Investment Company Private Limited|30-06-2019|1.060000
+269920|Voltas Ltd.|Non-Promoters|Prazim Trading And Investment Company Private Limited|30-09-2019|1.060000
+269920|Voltas Ltd.|Non-Promoters|Prazim Trading Investment Company Private Limited|31-12-2019|1.060000
+269920|Voltas Ltd.|Non-Promoters|Prazim Trading Investment Company Private Limited|31-03-2020|1.060000
+269920|Voltas Ltd.|Non-Promoters|Reliance Mutual Fund|30-09-2019|1.440000
+269920|Voltas Ltd.|Non-Promoters|Tata Mutual Fund|30-06-2019|1.390000
+269920|Voltas Ltd.|Non-Promoters|Tata Mutual Fund|30-09-2019|1.600000
+269920|Voltas Ltd.|Non-Promoters|Tata Mutual Fund|31-12-2019|1.580000
+269920|Voltas Ltd.|Non-Promoters|Tata Mutual Fund|31-03-2020|1.820000
+269920|Voltas Ltd.|Non-Promoters|Trusts|30-06-2019|1.010000
+269920|Voltas Ltd.|Non-Promoters|Trusts|30-09-2019|1.060000
+269920|Voltas Ltd.|Non-Promoters|Trusts|31-12-2019|1.110000
+269920|Voltas Ltd.|Non-Promoters|Trusts|31-03-2020|1.030000
+269920|Voltas Ltd.|Promoters|Ewart Investments Limited|30-06-2019|0.580000
+269920|Voltas Ltd.|Promoters|Ewart Investments Limited|30-09-2019|0.580000
+269920|Voltas Ltd.|Promoters|Ewart Investments Limited|31-12-2019|0.580000
+269920|Voltas Ltd.|Promoters|Ewart Investments Limited|31-03-2020|0.580000
+269920|Voltas Ltd.|Promoters|Tata Investment Corporation Limited|30-06-2019|3.010000
+269920|Voltas Ltd.|Promoters|Tata Investment Corporation Limited|30-09-2019|3.010000
+269920|Voltas Ltd.|Promoters|Tata Investment Corporation Limited|31-12-2019|3.010000
+269920|Voltas Ltd.|Promoters|Tata Investment Corporation Ltd|31-03-2020|3.010000
+269920|Voltas Ltd.|Promoters|Tata Sons Private Limited|30-06-2019|26.629999
+269920|Voltas Ltd.|Promoters|Tata Sons Private Limited|30-09-2019|26.629999
+269920|Voltas Ltd.|Promoters|Tata Sons Private Limited|31-12-2019|26.629999
+269920|Voltas Ltd.|Promoters|Tata Sons Private Limited|31-03-2020|26.629999
+269920|Voltas Ltd.|Promoters|The Tata Power Company Limited|30-06-2019|0.070000
+269920|Voltas Ltd.|Promoters|The Tata Power Company Limited|30-09-2019|0.070000
+269920|Voltas Ltd.|Promoters|The Tata Power Company Limited|31-12-2019|0.070000
+269920|Voltas Ltd.|Promoters|The Tata Power Company Limited|31-03-2020|0.070000
